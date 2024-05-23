@@ -27,7 +27,9 @@ seq:
     size: 0x200
     doc: Icon Bitmap  (32x32 pix) (4x4 tiles, 4bit depth) (4x8 bytes/tile)
   - id: icon_palette
-    size: 0x20
+    type: u2
+    repeat: expr
+    repeat-expr: 16
     doc: Icon Palette (16 colors, 16bit, range 0000h-7FFFh). (Color 0 is transparent, so the 1st palette entry is ignored)
   - id: title_japanese
     size: 256
@@ -61,6 +63,4 @@ seq:
     doc: Title 5 Spanish (128 characters, 16bit Unicode)
   - id: padding
     size: 0x1C0
-    doc: Unused/padding (FFh-filled) in Version 0001h
-  - id: abc
-    size: 0x100
+    doc: Unused/padding (FFh-filled) in Version 0001hr

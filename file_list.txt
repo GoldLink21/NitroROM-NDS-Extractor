@@ -1,0 +1,7503 @@
+    data/
+      ani/
+  35    al_qu.spr
+  36    arrow0.spr
+  37    arrow1.spr
+  38    arrow2.spr
+  39    arrow3.spr
+  40    bagonmap.spr
+  41    bg_btl3.pac
+  42    bg_cm_ec.gp2
+  43    bg_cm_fac_f.gp2
+  44    bg_cm_fac_m.gp2
+  45    bg_cm_fig_f.gp2
+  46    bg_cm_fig_m.gp2
+  47    bg_cm_hc.gp2
+  48    bg_cm_ht_f.gp2
+  49    bg_cm_ht_m.gp2
+  50    bg_cm_ms.gp2
+  51    bg_cm_msbg.gp2
+  52    bg_cm_nm.gp2
+  53    bg_cm_sc.gp2
+  54    bg_cm_sx.gp2
+  55    bg_def.bncl
+  56    bg_eq.gp2
+  57    bg_ii0.pac
+  58    bg_ii1.pac
+  59    bg_ii2.pac
+  60    bg_iidc.pac
+  61    bg_iilist.pac
+  62    bg_jr_ms.pac
+  63    bg_jrc.gp2
+  64    bg_jrm.gp2
+  65    bg_jrs.gp2
+  66    bg_kamael.pac
+  67    bg_lid.gp2
+  68    bg_luida.pac
+  69    bg_luida_sub.pac
+  70    bg_pm_back.pac
+  71    bg_pm_name.pac
+  72    bg_ql.pac
+  73    bg_qm.pac
+  74    bg_qm1.pac
+  75    bg_rrb_itiran.pac
+  76    bg_rrb_itiran1.pac
+  77    bg_rrb_title.pac
+  78    bg_rri_0.pac
+  79    bg_rri_1.pac
+  80    bg_rri_kari.pac
+  81    bg_rri_t.pac
+  82    bg_shop2.pac
+  83    bg_si.gp2
+  84    bg_skn.pac
+  85    bg_slime3.pac
+  86    bg_smiinf.pac
+  87    bg_smitop.pac
+  88    bg_smliti.pac
+  89    bg_smlmap.pac
+  90    bg_smlttl.pac
+  91    bg_st.pac
+  92    bg_t.pac
+  93    bg_title.pac
+  94    bg_tm.pac
+  95    bgds.gp2
+  96    bgii20.gp2
+  97    bgii21.gp2
+  98    bgii22.gp2
+  99    bglii20.gp2
+ 100    bglii21.gp2
+ 101    bglii22.gp2
+ 102    cell_cm.gp2
+ 103    cell_inst.pac
+ 104    cell_jr_ss.pac
+ 105    cell_jrm.gp2
+ 106    clmm.gp2
+ 107    com_name.pac
+ 108    comb.gp2
+ 109    d_b000.spr
+ 110    d_b001.spr
+ 111    d_b002.spr
+ 112    d_b003.spr
+ 113    d_b004.spr
+ 114    d_b005.spr
+ 115    d_b006.spr
+ 116    d_b007.spr
+ 117    d_b008.spr
+ 118    d_b009.spr
+ 119    d_b011.spr
+ 120    d_b012.spr
+ 121    d_b014.spr
+ 122    d_b015.spr
+ 123    d_b016.spr
+ 124    d_b017.spr
+ 125    d_b018.spr
+ 126    d_b020.spr
+ 127    d_b021.spr
+ 128    d_b024.spr
+ 129    d_b025.spr
+ 130    d_b026.spr
+ 131    d_b027.spr
+ 132    d_b028.spr
+ 133    d_b031.spr
+ 134    d_b032.spr
+ 135    d_b033.spr
+ 136    d_b034.spr
+ 137    d_b035.spr
+ 138    d_b036.spr
+ 139    d_b037.spr
+ 140    d_b038.spr
+ 141    d_b039.spr
+ 142    d_b040.spr
+ 143    d_b041.spr
+ 144    d_b080.spr
+ 145    d_b091.spr
+ 146    d_b095.spr
+ 147    d_b096.spr
+ 148    d_b097.spr
+ 149    d_b098.spr
+ 150    d_b099.spr
+ 151    d_b100.spr
+ 152    d_b101.spr
+ 153    d_b102.spr
+ 154    d_b103.spr
+ 155    d_b161.spr
+ 156    d_b162.spr
+ 157    d_b170.spr
+ 158    d_b171.spr
+ 159    d_b172.spr
+ 160    d_b173.spr
+ 161    d_b174.spr
+ 162    d_b177.spr
+ 163    d_b178.spr
+ 164    d_b180.spr
+ 165    d_b181.spr
+ 166    d_b182.spr
+ 167    d_b183.spr
+ 168    d_b184.spr
+ 169    d_b186.spr
+ 170    d_b187.spr
+ 171    d_b188.spr
+ 172    d_b189.spr
+ 173    d_b190.spr
+ 174    d_b192.spr
+ 175    d_b193.spr
+ 176    d_b194.spr
+ 177    d_b195.spr
+ 178    d_b197.spr
+ 179    d_b200.spr
+ 180    d_b201.spr
+ 181    d_b202.spr
+ 182    d_b203.spr
+ 183    d_b204.spr
+ 184    d_b205.spr
+ 185    d_b206.spr
+ 186    d_b207.spr
+ 187    d_b209.spr
+ 188    d_b210.spr
+ 189    d_b211.spr
+ 190    d_b290.spr
+ 191    d_b291.spr
+ 192    d_b292.spr
+ 193    d_b300.spr
+ 194    d_b301.spr
+ 195    d_b302.spr
+ 196    d_b303.spr
+ 197    d_b304.spr
+ 198    d_b305.spr
+ 199    d_b306.spr
+ 200    d_b307.spr
+ 201    d_b308.spr
+ 202    d_b310.spr
+ 203    d_b312.spr
+ 204    d_b315.spr
+ 205    d_b316.spr
+ 206    d_b317.spr
+ 207    d_b318.spr
+ 208    d_b320.spr
+ 209    d_b325.spr
+ 210    d_b327.spr
+ 211    d_b329.spr
+ 212    d_b390.spr
+ 213    d_b391.spr
+ 214    d_b490.spr
+ 215    d_b491.spr
+ 216    d_b500.spr
+ 217    d_b501.spr
+ 218    d_b502.spr
+ 219    d_b503.spr
+ 220    d_b504.spr
+ 221    d_b505.spr
+ 222    d_b506.spr
+ 223    d_b509.spr
+ 224    d_b513.spr
+ 225    d_b514.spr
+ 226    d_b515.spr
+ 227    d_b516.spr
+ 228    d_b517.spr
+ 229    d_b518.spr
+ 230    d_b519.spr
+ 231    d_b520.spr
+ 232    d_b521.spr
+ 233    d_b522.spr
+ 234    d_b590.spr
+ 235    d_b600.spr
+ 236    d_b601.spr
+ 237    d_b602.spr
+ 238    d_b603.spr
+ 239    d_b604.spr
+ 240    d_b605.spr
+ 241    d_b606.spr
+ 242    d_b607.spr
+ 243    d_b608.spr
+ 244    d_b609.spr
+ 245    d_b610.spr
+ 246    d_b612.spr
+ 247    d_b613.spr
+ 248    d_b614.spr
+ 249    d_b615.spr
+ 250    d_b616.spr
+ 251    d_b617.spr
+ 252    d_b618.spr
+ 253    d_b619.spr
+ 254    d_b620.spr
+ 255    d_b621.spr
+ 256    d_b622.spr
+ 257    d_b623.spr
+ 258    d_b624.spr
+ 259    d_b625.spr
+ 260    d_b626.spr
+ 261    d_b627.spr
+ 262    d_b695.spr
+ 263    d_b696.spr
+ 264    d_b700.spr
+ 265    d_b790.spr
+ 266    d_b791.spr
+ 267    d_b793.spr
+ 268    d_c000.spr
+ 269    d_c001.spr
+ 270    d_c002.spr
+ 271    d_c003.spr
+ 272    d_c004.spr
+ 273    d_c005.spr
+ 274    d_c006.spr
+ 275    d_c007.spr
+ 276    d_c008.spr
+ 277    d_c009.spr
+ 278    d_c010.spr
+ 279    d_c011.spr
+ 280    d_c012.spr
+ 281    d_c013.spr
+ 282    d_c014.spr
+ 283    d_c015.spr
+ 284    d_c016.spr
+ 285    d_c017.spr
+ 286    d_c018.spr
+ 287    d_c019.spr
+ 288    d_c020.spr
+ 289    d_c021.spr
+ 290    d_c022.spr
+ 291    d_c023.spr
+ 292    d_c024.spr
+ 293    d_c025.spr
+ 294    d_c026.spr
+ 295    d_c027.spr
+ 296    d_c028.spr
+ 297    d_c029.spr
+ 298    d_c030.spr
+ 299    d_c031.spr
+ 300    d_c032.spr
+ 301    d_c033.spr
+ 302    d_c034.spr
+ 303    d_c035.spr
+ 304    d_c038.spr
+ 305    d_c039.spr
+ 306    d_c040.spr
+ 307    d_c042.spr
+ 308    d_c043.spr
+ 309    d_c044.spr
+ 310    d_c045.spr
+ 311    d_c046.spr
+ 312    d_c047.spr
+ 313    d_c048.spr
+ 314    d_c049.spr
+ 315    d_c050.spr
+ 316    d_c051.spr
+ 317    d_c052.spr
+ 318    d_c053.spr
+ 319    d_c054.spr
+ 320    d_c055.spr
+ 321    d_g000.spr
+ 322    d_g001.spr
+ 323    d_g002.spr
+ 324    d_g003.spr
+ 325    d_g004.spr
+ 326    d_g005.spr
+ 327    d_g007.spr
+ 328    d_g008.spr
+ 329    d_g009.spr
+ 330    d_g010.spr
+ 331    d_g013.spr
+ 332    d_g016.spr
+ 333    d_g017.spr
+ 334    d_g018.spr
+ 335    d_g019.spr
+ 336    d_g020.spr
+ 337    d_g021.spr
+ 338    d_g023.spr
+ 339    d_g024.spr
+ 340    d_g027.spr
+ 341    d_g028.spr
+ 342    d_g029.spr
+ 343    d_g030.spr
+ 344    d_g031.spr
+ 345    d_g032.spr
+ 346    d_g033.spr
+ 347    d_g034.spr
+ 348    d_g035.spr
+ 349    d_g036.spr
+ 350    d_g037.spr
+ 351    d_g038.spr
+ 352    d_g039.spr
+ 353    d_g040.spr
+ 354    d_g043.spr
+ 355    d_g045.spr
+ 356    d_g047.spr
+ 357    d_g048.spr
+ 358    d_g091.spr
+ 359    d_g092.spr
+ 360    d_g093.spr
+ 361    d_g094.spr
+ 362    d_g095.spr
+ 363    d_g096.spr
+ 364    d_g097.spr
+ 365    d_g100.spr
+ 366    d_g101.spr
+ 367    d_g102.spr
+ 368    d_g103.spr
+ 369    d_g104.spr
+ 370    d_g105.spr
+ 371    d_g106.spr
+ 372    d_g109.spr
+ 373    d_g190.spr
+ 374    d_g200.spr
+ 375    d_g280.spr
+ 376    d_g281.spr
+ 377    d_g282.spr
+ 378    d_g285.spr
+ 379    d_g286.spr
+ 380    d_g291.spr
+ 381    d_g292.spr
+ 382    d_g295.spr
+ 383    d_g298.spr
+ 384    d_i000.spr
+ 385    d_i001.spr
+ 386    d_i002.spr
+ 387    d_i003.spr
+ 388    d_i004.spr
+ 389    d_i005.spr
+ 390    d_i006.spr
+ 391    d_i007.spr
+ 392    d_i008.spr
+ 393    d_i009.spr
+ 394    d_i010.spr
+ 395    d_i011.spr
+ 396    d_i012.spr
+ 397    d_i013.spr
+ 398    d_i014.spr
+ 399    d_i015.spr
+ 400    d_i016.spr
+ 401    d_i017.spr
+ 402    d_i018.spr
+ 403    d_i019.spr
+ 404    d_i020.spr
+ 405    d_i021.spr
+ 406    d_i022.spr
+ 407    d_i023.spr
+ 408    d_i024.spr
+ 409    d_i025.spr
+ 410    d_i026.spr
+ 411    d_i027.spr
+ 412    d_i028.spr
+ 413    d_i029.spr
+ 414    d_i030.spr
+ 415    d_i031.spr
+ 416    d_i032.spr
+ 417    d_i033.spr
+ 418    d_i034.spr
+ 419    d_i035.spr
+ 420    d_i036.spr
+ 421    d_i037.spr
+ 422    d_i038.spr
+ 423    d_i039.spr
+ 424    d_i041.spr
+ 425    d_i042.spr
+ 426    d_i043.spr
+ 427    d_i044.spr
+ 428    d_i045.spr
+ 429    d_i046.spr
+ 430    d_i047.spr
+ 431    d_i048.spr
+ 432    d_i049.spr
+ 433    d_i050.spr
+ 434    d_i051.spr
+ 435    d_i052.spr
+ 436    d_i053.spr
+ 437    d_i070.spr
+ 438    d_i071.spr
+ 439    d_i072.spr
+ 440    d_i073.spr
+ 441    d_i074.spr
+ 442    d_i075.spr
+ 443    d_i076.spr
+ 444    d_i077.spr
+ 445    d_i078.spr
+ 446    d_i079.spr
+ 447    d_i080.spr
+ 448    d_i081.spr
+ 449    d_i082.spr
+ 450    d_i083.spr
+ 451    d_i084.spr
+ 452    d_i085.spr
+ 453    d_i086.spr
+ 454    d_i087.spr
+ 455    d_i088.spr
+ 456    d_i089.spr
+ 457    d_i090.spr
+ 458    d_i091.spr
+ 459    d_i092.spr
+ 460    d_i093.spr
+ 461    d_i094.spr
+ 462    d_i095.spr
+ 463    d_i096.spr
+ 464    d_i097.spr
+ 465    d_i098.spr
+ 466    d_i099.spr
+ 467    d_i100.spr
+ 468    d_i101.spr
+ 469    d_i102.spr
+ 470    d_i103.spr
+ 471    d_i104.spr
+ 472    d_i105.spr
+ 473    d_i106.spr
+ 474    d_i107.spr
+ 475    d_i108.spr
+ 476    d_i109.spr
+ 477    d_i110.spr
+ 478    d_i111.spr
+ 479    d_i112.spr
+ 480    d_i113.spr
+ 481    d_i114.spr
+ 482    d_i115.spr
+ 483    d_i116.spr
+ 484    d_i117.spr
+ 485    d_i118.spr
+ 486    d_i119.spr
+ 487    d_i120.spr
+ 488    d_i121.spr
+ 489    d_i122.spr
+ 490    d_i123.spr
+ 491    d_i124.spr
+ 492    d_i127.spr
+ 493    d_i128.spr
+ 494    d_i129.spr
+ 495    d_i131.spr
+ 496    d_i132.spr
+ 497    d_i141.spr
+ 498    d_i142.spr
+ 499    d_i143.spr
+ 500    d_i144.spr
+ 501    d_i158.spr
+ 502    d_i159.spr
+ 503    d_i160.spr
+ 504    d_i162.spr
+ 505    d_i164.spr
+ 506    d_i165.spr
+ 507    d_i166.spr
+ 508    d_i167.spr
+ 509    d_i168.spr
+ 510    d_i169.spr
+ 511    d_i170.spr
+ 512    d_i171.spr
+ 513    d_i172.spr
+ 514    d_i173.spr
+ 515    d_i174.spr
+ 516    d_i175.spr
+ 517    d_i176.spr
+ 518    d_i177.spr
+ 519    d_i178.spr
+ 520    d_i179.spr
+ 521    d_i180.spr
+ 522    d_i181.spr
+ 523    d_i182.spr
+ 524    d_i183.spr
+ 525    d_i184.spr
+ 526    d_i185.spr
+ 527    d_i186.spr
+ 528    d_i187.spr
+ 529    d_i188.spr
+ 530    d_i189.spr
+ 531    d_i190.spr
+ 532    d_i191.spr
+ 533    d_i192.spr
+ 534    d_i193.spr
+ 535    d_i194.spr
+ 536    d_i195.spr
+ 537    d_i196.spr
+ 538    d_i197.spr
+ 539    d_i198.spr
+ 540    d_i199.spr
+ 541    d_i200.spr
+ 542    d_i201.spr
+ 543    d_i202.spr
+ 544    d_i203.spr
+ 545    d_i204.spr
+ 546    d_i205.spr
+ 547    d_i206.spr
+ 548    d_i207.spr
+ 549    d_i208.spr
+ 550    d_i209.spr
+ 551    d_i210.spr
+ 552    d_i211.spr
+ 553    d_i212.spr
+ 554    d_i213.spr
+ 555    d_i214.spr
+ 556    d_i215.spr
+ 557    d_i216.spr
+ 558    d_i217.spr
+ 559    d_i218.spr
+ 560    d_i219.spr
+ 561    d_i220.spr
+ 562    d_i221.spr
+ 563    d_i222.spr
+ 564    d_i223.spr
+ 565    d_i224.spr
+ 566    d_i225.spr
+ 567    d_i226.spr
+ 568    d_i227.spr
+ 569    d_i228.spr
+ 570    d_i229.spr
+ 571    d_i230.spr
+ 572    d_i231.spr
+ 573    d_i232.spr
+ 574    d_i233.spr
+ 575    d_i234.spr
+ 576    d_i235.spr
+ 577    d_i236.spr
+ 578    d_i245.spr
+ 579    d_i246.spr
+ 580    d_i247.spr
+ 581    d_i248.spr
+ 582    d_i249.spr
+ 583    d_i250.spr
+ 584    d_i251.spr
+ 585    d_i252.spr
+ 586    d_i253.spr
+ 587    d_i254.spr
+ 588    d_i255.spr
+ 589    d_i256.spr
+ 590    d_i257.spr
+ 591    d_i258.spr
+ 592    d_i259.spr
+ 593    d_i260.spr
+ 594    d_i261.spr
+ 595    d_i262.spr
+ 596    d_i263.spr
+ 597    d_i264.spr
+ 598    d_i265.spr
+ 599    d_i266.spr
+ 600    d_i267.spr
+ 601    d_i268.spr
+ 602    d_i269.spr
+ 603    d_i270.spr
+ 604    d_i271.spr
+ 605    d_i272.spr
+ 606    d_i273.spr
+ 607    d_i274.spr
+ 608    d_i275.spr
+ 609    d_i276.spr
+ 610    d_i277.spr
+ 611    d_i278.spr
+ 612    d_i279.spr
+ 613    d_i280.spr
+ 614    d_i281.spr
+ 615    d_i282.spr
+ 616    d_i283.spr
+ 617    d_i284.spr
+ 618    d_i285.spr
+ 619    d_i286.spr
+ 620    d_i287.spr
+ 621    d_i288.spr
+ 622    d_i289.spr
+ 623    d_i290.spr
+ 624    d_m171.spr
+ 625    d_m173.spr
+ 626    d_m180.spr
+ 627    d_m182.spr
+ 628    d_m183.spr
+ 629    d_m184.spr
+ 630    d_m187.spr
+ 631    d_m188.spr
+ 632    d_m191.spr
+ 633    d_m192.spr
+ 634    d_m193.spr
+ 635    d_m194.spr
+ 636    d_m195.spr
+ 637    d_m196.spr
+ 638    d_m197.spr
+ 639    d_m200.spr
+ 640    d_m201.spr
+ 641    d_m202.spr
+ 642    d_m204.spr
+ 643    d_m205.spr
+ 644    d_m206.spr
+ 645    d_m207.spr
+ 646    d_m208.spr
+ 647    d_m209.spr
+ 648    d_m211.spr
+ 649    d_m290.spr
+ 650    d_m291.spr
+ 651    d_m292.spr
+ 652    d_m293.spr
+ 653    d_m295.spr
+ 654    d_m300.spr
+ 655    d_m301.spr
+ 656    d_m302.spr
+ 657    d_m303.spr
+ 658    d_m304.spr
+ 659    d_m305.spr
+ 660    d_m306.spr
+ 661    d_m307.spr
+ 662    d_m308.spr
+ 663    d_m309.spr
+ 664    d_m310.spr
+ 665    d_m311.spr
+ 666    d_m312.spr
+ 667    d_m313.spr
+ 668    d_m314.spr
+ 669    d_m315.spr
+ 670    d_m400.spr
+ 671    d_m401.spr
+ 672    d_m402.spr
+ 673    d_m405.spr
+ 674    d_m406.spr
+ 675    d_m407.spr
+ 676    d_m408.spr
+ 677    d_m410.spr
+ 678    d_m411.spr
+ 679    d_m412.spr
+ 680    d_m414.spr
+ 681    d_m415.spr
+ 682    d_m416.spr
+ 683    d_m422.spr
+ 684    d_m423.spr
+ 685    d_m424.spr
+ 686    d_m425.spr
+ 687    d_m426.spr
+ 688    d_m429.spr
+ 689    d_m430.spr
+ 690    d_m431.spr
+ 691    d_m432.spr
+ 692    d_m435.spr
+ 693    d_m436.spr
+ 694    d_m480.spr
+ 695    d_m490.spr
+ 696    d_m491.spr
+ 697    d_m492.spr
+ 698    d_m493.spr
+ 699    d_m495.spr
+ 700    d_m496.spr
+ 701    d_m497.spr
+ 702    d_m498.spr
+ 703    d_m499.spr
+ 704    d_m500.spr
+ 705    d_m501.spr
+ 706    d_m502.spr
+ 707    d_m503.spr
+ 708    d_m504.spr
+ 709    d_m600.spr
+ 710    d_m700.spr
+ 711    d_m701.spr
+ 712    d_m702.spr
+ 713    d_m780.spr
+ 714    d_m781.spr
+ 715    d_m785.spr
+ 716    d_m790.spr
+ 717    d_m792.spr
+ 718    d_m794.spr
+ 719    d_m795.spr
+ 720    d_m796.spr
+ 721    d_m797.spr
+ 722    d_m800.spr
+ 723    d_m801.spr
+ 724    d_m802.spr
+ 725    d_m803.spr
+ 726    d_m804.spr
+ 727    d_m805.spr
+ 728    d_m806.spr
+ 729    d_m807.spr
+ 730    d_m808.spr
+ 731    d_m809.spr
+ 732    d_m810.spr
+ 733    d_m811.spr
+ 734    d_m812.spr
+ 735    d_m813.spr
+ 736    d_m814.spr
+ 737    d_m815.spr
+ 738    d_m900.spr
+ 739    d_m901.spr
+ 740    d_m902.spr
+ 741    d_m903.spr
+ 742    d_m904.spr
+ 743    d_m907.spr
+ 744    d_m908.spr
+ 745    d_m909.spr
+ 746    d_m910.spr
+ 747    d_m911.spr
+ 748    d_m912.spr
+ 749    d_m913.spr
+ 750    d_m914.spr
+ 751    d_m915.spr
+ 752    d_m916.spr
+ 753    d_m917.spr
+ 754    d_p093.spr
+ 755    d_p094.spr
+ 756    d_p095.spr
+ 757    d_p100.spr
+ 758    d_p103.spr
+ 759    d_p104.spr
+ 760    d_p191.spr
+ 761    d_p200.spr
+ 762    d_p202.spr
+ 763    d_p203.spr
+ 764    d_p204.spr
+ 765    d_p205.spr
+ 766    d_p206.spr
+ 767    d_p207.spr
+ 768    d_p208.spr
+ 769    d_p209.spr
+ 770    d_p210.spr
+ 771    d_p212.spr
+ 772    d_p213.spr
+ 773    d_p214.spr
+ 774    d_p215.spr
+ 775    d_p216.spr
+ 776    d_p217.spr
+ 777    d_p218.spr
+ 778    d_p222.spr
+ 779    d_p223.spr
+ 780    d_p224.spr
+ 781    d_p228.spr
+ 782    d_p229.spr
+ 783    d_p231.spr
+ 784    d_p234.spr
+ 785    d_p235.spr
+ 786    d_p236.spr
+ 787    d_p237.spr
+ 788    d_p240.spr
+ 789    d_p241.spr
+ 790    d_p243.spr
+ 791    d_p244.spr
+ 792    d_p245.spr
+ 793    d_p246.spr
+ 794    d_p248.spr
+ 795    d_p251.spr
+ 796    d_p252.spr
+ 797    d_p256.spr
+ 798    d_p257.spr
+ 799    d_p258.spr
+ 800    d_p259.spr
+ 801    d_p260.spr
+ 802    d_p261.spr
+ 803    d_p262.spr
+ 804    d_p263.spr
+ 805    d_p283.spr
+ 806    d_p286.spr
+ 807    d_p287.spr
+ 808    d_p288.spr
+ 809    d_p289.spr
+ 810    d_p290.spr
+ 811    d_p291.spr
+ 812    d_p300.spr
+ 813    d_p301.spr
+ 814    d_p302.spr
+ 815    d_p303.spr
+ 816    d_p304.spr
+ 817    d_p305.spr
+ 818    d_p306.spr
+ 819    d_p307.spr
+ 820    d_p308.spr
+ 821    d_p309.spr
+ 822    d_p310.spr
+ 823    d_p311.spr
+ 824    d_p312.spr
+ 825    d_p313.spr
+ 826    d_p316.spr
+ 827    d_p317.spr
+ 828    d_p318.spr
+ 829    d_p319.spr
+ 830    d_p390.spr
+ 831    d_r090.spr
+ 832    d_r091.spr
+ 833    d_r092.spr
+ 834    d_r093.spr
+ 835    d_r094.spr
+ 836    d_r095.spr
+ 837    d_r096.spr
+ 838    d_r100.spr
+ 839    d_r101.spr
+ 840    d_r102.spr
+ 841    d_r103.spr
+ 842    d_r104.spr
+ 843    d_r105.spr
+ 844    d_r106.spr
+ 845    d_r108.spr
+ 846    d_r109.spr
+ 847    d_r110.spr
+ 848    d_r111.spr
+ 849    d_r112.spr
+ 850    d_r113.spr
+ 851    d_r114.spr
+ 852    d_r115.spr
+ 853    d_r116.spr
+ 854    d_r117.spr
+ 855    d_r118.spr
+ 856    d_r119.spr
+ 857    d_r120.spr
+ 858    d_r140.spr
+ 859    d_r141.spr
+ 860    d_r142.spr
+ 861    d_r143.spr
+ 862    d_r150.spr
+ 863    d_r152.spr
+ 864    d_r155.spr
+ 865    d_r158.spr
+ 866    d_r159.spr
+ 867    d_r160.spr
+ 868    d_r163.spr
+ 869    d_r164.spr
+ 870    d_r165.spr
+ 871    d_r166.spr
+ 872    d_r167.spr
+ 873    d_r168.spr
+ 874    d_r169.spr
+ 875    d_r170.spr
+ 876    d_r171.spr
+ 877    d_r172.spr
+ 878    d_r173.spr
+ 879    d_r176.spr
+ 880    d_r177.spr
+ 881    d_r178.spr
+ 882    d_r179.spr
+ 883    d_r181.spr
+ 884    d_r182.spr
+ 885    d_r185.spr
+ 886    d_r188.spr
+ 887    d_r189.spr
+ 888    d_r191.spr
+ 889    d_r192.spr
+ 890    d_r193.spr
+ 891    d_r194.spr
+ 892    d_r196.spr
+ 893    d_r197.spr
+ 894    d_r198.spr
+ 895    d_r199.spr
+ 896    d_r300.spr
+ 897    d_r301.spr
+ 898    d_r302.spr
+ 899    d_r303.spr
+ 900    d_r391.spr
+ 901    d_r392.spr
+ 902    d_r394.spr
+ 903    d_r400.spr
+ 904    d_r401.spr
+ 905    d_r402.spr
+ 906    d_r403.spr
+ 907    d_r404.spr
+ 908    d_r405.spr
+ 909    d_r406.spr
+ 910    d_r407.spr
+ 911    d_r408.spr
+ 912    d_r410.spr
+ 913    d_r411.spr
+ 914    d_r413.spr
+ 915    d_r414.spr
+ 916    d_r417.spr
+ 917    d_r419.spr
+ 918    d_r420.spr
+ 919    d_r421.spr
+ 920    d_s000.spr
+ 921    d_s001.spr
+ 922    d_s002.spr
+ 923    d_s003.spr
+ 924    d_s004.spr
+ 925    d_s005.spr
+ 926    d_s006.spr
+ 927    d_s007.spr
+ 928    d_s008.spr
+ 929    d_s009.spr
+ 930    d_s010.spr
+ 931    d_s013.spr
+ 932    d_s014.spr
+ 933    d_s091.spr
+ 934    d_s092.spr
+ 935    d_s190.spr
+ 936    d_s191.spr
+ 937    d_s192.spr
+ 938    d_s200.spr
+ 939    d_s281.spr
+ 940    d_s290.spr
+ 941    d_s291.spr
+ 942    d_s292.spr
+ 943    d_s294.spr
+ 944    d_s295.spr
+ 945    d_s296.spr
+ 946    d_s297.spr
+ 947    d_s298.spr
+ 948    d_s390.spr
+ 949    d_s391.spr
+ 950    d_s392.spr
+ 951    d_s393.spr
+ 952    d_s394.spr
+ 953    d_s395.spr
+ 954    d_s396.spr
+ 955    d_w000.spr
+ 956    d_w001.spr
+ 957    d_w002.spr
+ 958    d_w003.spr
+ 959    d_w004.spr
+ 960    d_w005.spr
+ 961    d_w006.spr
+ 962    d_w009.spr
+ 963    d_w010.spr
+ 964    d_w012.spr
+ 965    d_w013.spr
+ 966    d_w015.spr
+ 967    d_w017.spr
+ 968    d_w019.spr
+ 969    d_w022.spr
+ 970    d_w024.spr
+ 971    d_w025.spr
+ 972    d_w026.spr
+ 973    d_w029.spr
+ 974    d_w050.spr
+ 975    d_w051.spr
+ 976    d_w053.spr
+ 977    d_w057.spr
+ 978    d_w058.spr
+ 979    d_w059.spr
+ 980    d_w061.spr
+ 981    d_w062.spr
+ 982    d_w064.spr
+ 983    d_w065.spr
+ 984    d_w066.spr
+ 985    d_w067.spr
+ 986    d_w068.spr
+ 987    d_w071.spr
+ 988    d_w100.spr
+ 989    d_w101.spr
+ 990    d_w104.spr
+ 991    d_w105.spr
+ 992    d_w107.spr
+ 993    d_w109.spr
+ 994    d_w111.spr
+ 995    d_w114.spr
+ 996    d_w115.spr
+ 997    d_w116.spr
+ 998    d_w117.spr
+ 999    d_w118.spr
+1000    d_w119.spr
+1001    d_w120.spr
+1002    d_w123.spr
+1003    d_w124.spr
+1004    d_w150.spr
+1005    d_w151.spr
+1006    d_w152.spr
+1007    d_w153.spr
+1008    d_w154.spr
+1009    d_w155.spr
+1010    d_w156.spr
+1011    d_w159.spr
+1012    d_w160.spr
+1013    d_w161.spr
+1014    d_w163.spr
+1015    d_w165.spr
+1016    d_w168.spr
+1017    d_w200.spr
+1018    d_w201.spr
+1019    d_w204.spr
+1020    d_w205.spr
+1021    d_w208.spr
+1022    d_w210.spr
+1023    d_w212.spr
+1024    d_w213.spr
+1025    d_w216.spr
+1026    d_w291.spr
+1027    d_w293.spr
+1028    d_w300.spr
+1029    d_w301.spr
+1030    d_w302.spr
+1031    d_w303.spr
+1032    d_w306.spr
+1033    d_w307.spr
+1034    d_w310.spr
+1035    d_w311.spr
+1036    d_w313.spr
+1037    d_w314.spr
+1038    d_w317.spr
+1039    d_w318.spr
+1040    d_w321.spr
+1041    d_w400.spr
+1042    d_w401.spr
+1043    d_w402.spr
+1044    d_w403.spr
+1045    d_w404.spr
+1046    d_w405.spr
+1047    d_w406.spr
+1048    d_w407.spr
+1049    d_w408.spr
+1050    d_w409.spr
+1051    d_w410.spr
+1052    d_w411.spr
+1053    d_w412.spr
+1054    d_w414.spr
+1055    d_w415.spr
+1056    d_w418.spr
+1057    d_w419.spr
+1058    d_w493.spr
+1059    d_w494.spr
+1060    d_w495.spr
+1061    d_w496.spr
+1062    d_w500.spr
+1063    d_w501.spr
+1064    d_w502.spr
+1065    d_w503.spr
+1066    d_w507.spr
+1067    d_w508.spr
+1068    d_w510.spr
+1069    d_w511.spr
+1070    d_w512.spr
+1071    d_w513.spr
+1072    d_w515.spr
+1073    d_w516.spr
+1074    d_w517.spr
+1075    d_w520.spr
+1076    d_w523.spr
+1077    d_w600.spr
+1078    d_w601.spr
+1079    d_w602.spr
+1080    d_w603.spr
+1081    d_w606.spr
+1082    d_w607.spr
+1083    d_w609.spr
+1084    d_w610.spr
+1085    d_w611.spr
+1086    d_w612.spr
+1087    d_w613.spr
+1088    d_w614.spr
+1089    d_w615.spr
+1090    d_w617.spr
+1091    d_w618.spr
+1092    d_w621.spr
+1093    d_w700.spr
+1094    d_w701.spr
+1095    d_w702.spr
+1096    d_w704.spr
+1097    d_w705.spr
+1098    d_w708.spr
+1099    d_w710.spr
+1100    d_w712.spr
+1101    d_w714.spr
+1102    d_w715.spr
+1103    d_w716.spr
+1104    d_w719.spr
+1105    d_w800.spr
+1106    d_w801.spr
+1107    d_w804.spr
+1108    d_w805.spr
+1109    d_w806.spr
+1110    d_w809.spr
+1111    d_w811.spr
+1112    d_w812.spr
+1113    d_w814.spr
+1114    d_w816.spr
+1115    d_w818.spr
+1116    d_w819.spr
+1117    d_w822.spr
+1118    d_w900.spr
+1119    d_w901.spr
+1120    d_w903.spr
+1121    d_w904.spr
+1122    d_w905.spr
+1123    d_w907.spr
+1124    d_w910.spr
+1125    d_w911.spr
+1126    d_w913.spr
+1127    d_w914.spr
+1128    d_w915.spr
+1129    d_w918.spr
+1130    damage_num.spr
+1131    damage_waku.spr
+1132    def_icon.pac
+1133    fuki_com.spr
+1134    fuki_hkn.spr
+1135    fuki_in.spr
+1136    gl.gp2
+1137    guestlist.pac
+1138    jumonmap.spr
+1139    lay_dama.gp2
+1140    lay_dama.lia
+1141    lay_eq.lia
+1142    lay_glist.lia
+1143    lay_iie.lia
+1144    lay_iiu.lia
+1145    lay_mm.lia
+1146    lay_rb.lia
+1147    lay_rrb.gp2
+1148    lay_sml.lia
+1149    magic_bace.spr
+1150    magicicon.spr
+1151    n001a.spr
+1152    n001a_s.spr
+1153    n001a_test.spr
+1154    n001b.spr
+1155    n001b_s.spr
+1156    n002a.spr
+1157    n002a_s.spr
+1158    n002b.spr
+1159    n002b_s.spr
+1160    n002c.spr
+1161    n002c_s.spr
+1162    n003a.spr
+1163    n003a_s.spr
+1164    n003b.spr
+1165    n003b_s.spr
+1166    n003c.spr
+1167    n003c_s.spr
+1168    n004a.spr
+1169    n004a_s.spr
+1170    n004b.spr
+1171    n004b_s.spr
+1172    n004s.spr
+1173    n005a.spr
+1174    n005a_s.spr
+1175    n005b.spr
+1176    n005g.spr
+1177    n005s.spr
+1178    n006a.spr
+1179    n006a_s.spr
+1180    n007a.spr
+1181    n007a_s.spr
+1182    n007g.spr
+1183    n007s.spr
+1184    n008a.spr
+1185    n008a_s.spr
+1186    n008g.spr
+1187    n009a.spr
+1188    n009g.spr
+1189    n009z.spr
+1190    n010a.spr
+1191    n010a_s.spr
+1192    n011a.spr
+1193    n011a_s.spr
+1194    n011g.spr
+1195    n011s.spr
+1196    n012a.spr
+1197    n012a_s.spr
+1198    n012g.spr
+1199    n013a.spr
+1200    n013a_s.spr
+1201    n014a.spr
+1202    n014a_s.spr
+1203    n014b.spr
+1204    n015a.spr
+1205    n015a_s.spr
+1206    n015g.spr
+1207    n016a.spr
+1208    n016g.spr
+1209    n017a.spr
+1210    n018a.spr
+1211    n018a_s.spr
+1212    n018b.spr
+1213    n018bev.spr
+1214    n019a.spr
+1215    n019a_s.spr
+1216    n019g.spr
+1217    n020a.spr
+1218    n020a_s.spr
+1219    n021a.spr
+1220    n021g.spr
+1221    n022a.spr
+1222    n022a_s.spr
+1223    n022g.spr
+1224    n023a.spr
+1225    n023g.spr
+1226    n024a.spr
+1227    n025a.spr
+1228    n025a_s.spr
+1229    n026a.spr
+1230    n026g.spr
+1231    n027a.spr
+1232    n028a.spr
+1233    n028a_s.spr
+1234    n028b.spr
+1235    n029a.spr
+1236    n029a_s.spr
+1237    n029g.spr
+1238    n030a.spr
+1239    n031a.spr
+1240    n031a_s.spr
+1241    n031g.spr
+1242    n032a.spr
+1243    n032a_s.spr
+1244    n032g.spr
+1245    n033a.spr
+1246    n033a_s.spr
+1247    n034a.spr
+1248    n034g.spr
+1249    n035a.spr
+1250    n036a.spr
+1251    n036a_s.spr
+1252    n037a.spr
+1253    n037g.spr
+1254    n038a.spr
+1255    n039a.spr
+1256    n039a_s.spr
+1257    n040a.spr
+1258    n040a_s.spr
+1259    n041a.spr
+1260    n041a_s.spr
+1261    n042a.spr
+1262    n043a.spr
+1263    n043b.spr
+1264    n044a.spr
+1265    n045a.spr
+1266    n046a.spr
+1267    n046b.spr
+1268    n047a.spr
+1269    n048a.spr
+1270    n048b.spr
+1271    n049a.spr
+1272    n049s.spr
+1273    n050a.spr
+1274    n050a_s.spr
+1275    n051a.spr
+1276    n051g.spr
+1277    n051s.spr
+1278    n052a.spr
+1279    n052a_s.spr
+1280    n053a.spr
+1281    n054a.spr
+1282    n054g.spr
+1283    n055a.spr
+1284    n055g.spr
+1285    n056a.spr
+1286    n057a.spr
+1287    n057g.spr
+1288    n058a.spr
+1289    n059a.spr
+1290    n059a_s.spr
+1291    n059g.spr
+1292    n060a.spr
+1293    n060g.spr
+1294    n061a.spr
+1295    n062a.spr
+1296    n063a.spr
+1297    n064a.spr
+1298    n065a.spr
+1299    n065a_s.spr
+1300    n066a.spr
+1301    n067a.spr
+1302    n068a.spr
+1303    n068g.spr
+1304    n069a.spr
+1305    n070a.spr
+1306    n071a.spr
+1307    n071a_s.spr
+1308    n071g.spr
+1309    n072a.spr
+1310    n072b.spr
+1311    n073a.spr
+1312    n073b.spr
+1313    n073c.spr
+1314    n074a.spr
+1315    n074a_s.spr
+1316    n075a.spr
+1317    n075a_s.spr
+1318    n076a.spr
+1319    n077a.spr
+1320    n077g.spr
+1321    n078a.spr
+1322    n078g.spr
+1323    n079a.spr
+1324    n080a.spr
+1325    n080b.spr
+1326    n081a.spr
+1327    n081a_s.spr
+1328    n082a.spr
+1329    n083a.spr
+1330    n083a_s.spr
+1331    n084a.spr
+1332    n085a.spr
+1333    n088a.spr
+1334    n088b.spr
+1335    n089a.spr
+1336    n092a.spr
+1337    n093a.spr
+1338    n094a.spr
+1339    n095a.spr
+1340    n096a.spr
+1341    n097a.spr
+1342    n097b.spr
+1343    n097g.spr
+1344    n098a.spr
+1345    n099a.spr
+1346    n100a.spr
+1347    n101a.spr
+1348    n102a.spr
+1349    n103a.spr
+1350    n104a.spr
+1351    n106.spr
+1352    n107.spr
+1353    n108.spr
+1354    n109.spr
+1355    n110.spr
+1356    n111.spr
+1357    n112.spr
+1358    n113.spr
+1359    n114.spr
+1360    n300.spr
+1361    n301.spr
+1362    n302.spr
+1363    n303.spr
+1364    n304.spr
+1365    n305.spr
+1366    n306.spr
+1367    n900a.spr
+1368    n900a_test.spr
+1369    n900b.spr
+1370    n900b_test.spr
+1371    n900c.spr
+1372    n900c_test.spr
+1373    n901a.spr
+1374    n902a.spr
+1375    n903a.spr
+1376    n903b.spr
+1377    n904a.spr
+1378    n904b.spr
+1379    n904c.spr
+1380    n905a.spr
+1381    n906a.spr
+1382    n907a.spr
+1383    n907b.spr
+1384    n908a.spr
+1385    n909a.spr
+1386    n910a.spr
+1387    n910b.spr
+1388    n911a.spr
+1389    n912a.spr
+1390    n912aev.spr
+1391    n913a.spr
+1392    n916a.spr
+1393    n919a.spr
+1394    n925a.spr
+1395    obj_bt3.gp2
+1396    obj_def.pac
+1397    obj_evskip.pac
+1398    obj_gl.pac
+1399    obj_ii.pac
+1400    obj_loading.pac
+1401    obj_luida2.pac
+1402    obj_mappoint.pac
+1403    obj_minimap.NCER
+1404    obj_minimap.NCGR
+1405    obj_minimap.NCLR
+1406    obj_mm.pac
+1407    obj_mm_tmap.pac
+1408    obj_mm_tmap_f.pac
+1409    obj_mm_w.pac
+1410    obj_navi.pac
+1411    obj_op.pac
+1412    obj_pm.gp2
+1413    obj_pro.gp2
+1414    obj_pro.pac
+1415    obj_pro_y.pac
+1416    obj_ql.pac
+1417    obj_rikka.pac
+1418    obj_rri.pac
+1419    obj_shop.gp2
+1420    obj_sklup_i.pac
+1421    obj_smi.pac
+1422    obj_sml2.pac
+1423    obj_tlkpc.pac
+1424    obj_tm.gp2
+1425    odqa.gp2
+1426    oiij.gp2
+1427    oiir.gp2
+1428    oq2.gp2
+1429    oqmsg.gp2
+1430    orrb.gp2
+1431    otf.gp2
+1432    pen.pac
+1433    pen_tm.pac
+1434    recovery_num.spr
+1435    recovery_waku.spr
+1436    sg.gp2
+1437    spr_eq.pac
+1438    spr_jr.pac
+1439    t17title.spr
+1440    t27title.spr
+1441    taru_01.spr
+1442    taru_02.spr
+1443    taru_03.spr
+1444    tf.gp2
+1445    tmap_field_obj.NANR
+1446    tmap_field_obj.NCER
+1447    tmap_field_obj.NCGR
+1448    tmap_field_obj.NCLR
+1449    tmap_u_obj.pac
+1450    tmap_ufix_obj.NANR
+1451    tmap_ufix_obj.NCER
+1452    tmap_ufix_obj.NCGR
+1453    tmap_ufix_obj.NCLR
+1454    tmap_ufix_obj.pac
+1455    tmuo.gp2
+1456    tsubo_01.spr
+1457    tsubo_02.spr
+1458    tsubo_03.spr
+1459    waku.spr
+1460    win0.spr
+1461    win1.spr
+1462    win2.spr
+1463    win3.spr
+1464    win4.spr
+1465    win5.spr
+1466    win6.spr
+1467    win7.spr
+1468    windata3.bncg
+      bin/
+1469    actdef.nsarc
+1470    apinfo.bin
+1471    attnpc.gp2
+1472    aucprofstr.bin
+1473    battleaction.dat
+1474    bstr.gp2
+1475    btarc.nsarc
+1476    btlsys.bin
+1477    charapreset.bin
+1478    charaview4.bin
+1479    debugstr.bin
+1480    defaultaction.bact
+1481    expadj.nat
+1482    habitat.bin
+1483    icon.nsarc
+1484    izmitm.bin
+1485    keyboard_cm.bin
+1486    keyboard_cs.bin
+1487    keyboard_pr.bin
+1488    magiclist.bin
+1489    mapbgm.bin
+1490    mapname.bin
+1491    memory.bin
+1492    percol.bin
+1493    presetdt.gp2
+1494    profsen.gp2
+1495    profstr.gp2
+1496    qtutomsg.gp2
+1497    quest_msg.bin
+1498    rb_bosstbl.bin
+1499    recipe.gp2
+1500    res.nat
+1501    spell.dat
+1502    spell2.dat
+1503    str_bres.gp2
+1504    str_dbg_bc.bin
+1505    str_dbg_bc_en.bin
+1506    str_dbg_evwr.bin
+1507    str_dbg_evwr_en.bin
+1508    str_dbg_lla_en.bin
+1509    str_dbg_map_en.bin
+1510    str_dbg_mmt.bin
+1511    str_dbg_q_en.bin
+1512    str_dbg_sst_en.bin
+1513    str_dbg_ttl_en.bin
+1514    str_dbg_tv_en.bin
+1515    str_debug_en.bin
+1516    str_err.gp2
+1517    str_pit.gp2
+1518    str_sklc.gp2
+1519    strbtl.gp2
+1520    strdbgcfg_en.bin
+1521    strdbgchr_en.bin
+1522    strdbginfo_en.bin
+1523    strdbgmmodify_en.bin
+1524    strdbgsnd_en.bin
+1525    strdbgtest_en.bin
+1526    strstd.gp2
+1527    tlkpcstr.gp2
+1528    tms_end.gp2
+1529    tms_sta.gp2
+1530    ttldata.gp2
+1531    ttlname.gp2
+1532    ttlname0.gp2
+1533    ttlname1.gp2
+1534    tv.nat
+1535    vrambank.bin
+1536    wpnpos.bin
+        menu/
+1537      bm_dama.gp2
+1538      bm_lui.gp2
+1539      bm_rev.gp2
+1540      bm_rrb.gp2
+1541      bm_rri.gp2
+1542      bm_shop.gp2
+1543      bm_sml.gp2
+1544      bm_tuyo.gp2
+1545      shopdata1.bin
+1546      sta_skl.gp2
+1547      str_ark.gp2
+1548      str_bank.gp2
+1549      str_btl.gp2
+1550      str_cm.gp2
+1551      str_daj.gp2
+1552      str_dam.gp2
+1553      str_eq.gp2
+1554      str_ev.gp2
+1555      str_ex2.gp2
+1556      str_fms.gp2
+1557      str_glm.gp2
+1558      str_ii.gp2
+1559      str_il.gp2
+1560      str_jop.gp2
+1561      str_jr.gp2
+1562      str_jvs.gp2
+1563      str_lav.gp2
+1564      str_lui.gp2
+1565      str_mdl.gp2
+1566      str_navi.gp2
+1567      str_nkm.gp2
+1568      str_op.gp2
+1569      str_que.gp2
+1570      str_ren.gp2
+1571      str_rki.gp2
+1572      str_rkm.gp2
+1573      str_s00.gp2
+1574      str_s01.gp2
+1575      str_s02.gp2
+1576      str_s03.gp2
+1577      str_s04.gp2
+1578      str_sgs.gp2
+1579      str_sli.gp2
+1580      str_sml.gp2
+1581      str_sta.gp2
+1582      str_su.gp2
+1583      str_tg.gp2
+1584      str_tl.gp2
+1585      str_tm.gp2
+1586      str_trd.gp2
+1587      tm_12.gp2
+1588      tm_st.gp2
+      chara/
+1589    mp0200be.chr
+1590    mp0201be.chr
+1591    mp0203be.chr
+1592    mp0204be.chr
+1593    mp0205be.chr
+1594    mp0206be.chr
+1595    mp0207be.chr
+1596    mp0208be.chr
+1597    mp0209be.chr
+1598    mp0210be.chr
+1599    mp0211be.chr
+1600    mp0212be.chr
+1601    mp0213be.chr
+1602    ms00_bakuretsu.chr
+1603    ms00_ganseki.chr
+1604    ms00_ishi.chr
+1605    ms00_kama.chr
+1606    ms00_moon_c.chr
+1607    ms00_moon_p.chr
+1608    ms00_seiken.chr
+1609    ms01_dragon.chr
+1610    ms01_gbreak_c.chr
+1611    ms01_gbreak_p.chr
+1612    ms01_gslash_c.chr
+1613    ms01_gslash_p.chr
+1614    ms01_hayabusa.chr
+1615    ms03_batter.chr
+1616    ms03_bung_c.chr
+1617    ms03_bung_p.chr
+1618    ms03_heart.chr
+1619    ms03_impact_c.chr
+1620    ms03_impact_p.chr
+1621    ms04_asasin.chr
+1622    ms04_knife.chr
+1623    ms04_tanatos.chr
+1624    ms05_mafuuji.chr
+1625    ms06_jspark_c.chr
+1626    ms06_jspark_ew.chr
+1627    ms06_jspark_p.chr
+1628    ms06_kyuusho.chr
+1629    ms06_samidare.chr
+1630    ms06_shippu.chr
+1631    ms07_kabuto.chr
+1632    ms07_majin.chr
+1633    ms07_musou.chr
+1634    ms07_shinra_c.chr
+1635    ms07_shinra_ew.chr
+1636    ms07_shinra_ew0.chr
+1637    ms07_shinra_ew1.chr
+1638    ms07_shinra_ew2.chr
+1639    ms07_shinra_p.chr
+1640    ms07_souten.chr
+1641    ms08_gthrow_c.chr
+1642    ms08_gthrow_p.chr
+1643    ms08_squall_c.chr
+1644    ms08_squall_p.chr
+1645    ms09_needle.chr
+1646    ms09_needle_p.chr
+1647    ms09_needle_w.chr
+1648    ms09_samidare_p.chr
+1649    ms09_samidare_w.chr
+1650    ms09_shining_c.chr
+1651    ms09_shining_p.chr
+1652    ms09_shining_w.chr
+1653    ms10_ai_p.chr
+1654    ms10_ai_w.chr
+1655    ms10_daijya_c.chr
+1656    ms10_daijya_e.chr
+1657    ms10_daijya_e2.chr
+1658    ms10_daijya_p.chr
+1659    ms10_daijya_w.chr
+1660    ms10_rasen_p.chr
+1661    ms10_rasen_w.chr
+1662    ms10_souryu_p.chr
+1663    ms10_souryu_w.chr
+1664    ms11_asibarai.chr
+1665    ms11_hyouketsu.chr
+1666    ms11_nagiharai.chr
+1667    ms11_tenchi.chr
+1668    ms11_yomiokuri.chr
+1669    ms12_nail.chr
+1670    ms12_rekkou.chr
+1671    ms12_smash_c.chr
+1672    ms12_smash_p.chr
+1673    ms12_tiger.chr
+1674    ms12_wing.chr
+1675    ms13_hamon.chr
+1676    ms13_hanafubuki.chr
+1677    ms13_hasle.chr
+1678    ms13_kaden.chr
+1679    ms13_ohginomai.chr
+1680    ms13_toiki.chr
+1681    ms_boke.chr
+1682    ms_dancer_c1.chr
+1683    ms_dancer_c2.chr
+1684    ms_dancer_p1.chr
+1685    ms_dancer_p2.chr
+1686    ms_dancer_p3.chr
+1687    ms_dancer_p4.chr
+1688    ms_force.chr
+1689    ms_force2.chr
+1690    ms_fukutsu.chr
+1691    ms_gnebula_c.chr
+1692    ms_gnebula_p.chr
+1693    ms_gold_c.chr
+1694    ms_gold_p.chr
+1695    ms_hadou.chr
+1696    ms_hihuki.chr
+1697    ms_hikari.chr
+1698    ms_inori.chr
+1699    ms_iyashi.chr
+1700    ms_jyagling.chr
+1701    ms_kabau.chr
+1702    ms_kiri.chr
+1703    ms_kuchibue.chr
+1704    ms_mahou.chr
+1705    ms_make.chr
+1706    ms_mamori.chr
+1707    ms_megante.chr
+1708    ms_meisou.chr
+1709    ms_mekyaku.chr
+1710    ms_migawari.chr
+1711    ms_minogasu.chr
+1712    ms_miyaburu.chr
+1713    ms_mushin.chr
+1714    ms_nadameru.chr
+1715    ms_niou.chr
+1716    ms_nusumu.chr
+1717    ms_ookami_01.chr
+1718    ms_ookami_02.chr
+1719    ms_ookami_c.chr
+1720    ms_ookami_p.chr
+1721    ms_ookami_p2.chr
+1722    ms_otakebi.chr
+1723    ms_ouen.chr
+1724    ms_passer.chr
+1725    ms_scandal.chr
+1726    ms_shield.chr
+1727    ms_sht_c.chr
+1728    ms_sht_p.chr
+1729    ms_sign_p.chr
+1730    ms_spot.chr
+1731    ms_stealth.chr
+1732    ms_sutemi.chr
+1733    ms_taiatari.chr
+1734    ms_tameru.chr
+1735    ms_tap.chr
+1736    ms_tatakai.chr
+1737    ms_tate.chr
+1738    ms_tension.chr
+1739    ms_toukon.chr
+1740    ms_tsuki.chr
+1741    ms_tsukomi.chr
+1742    ms_yaiba.chr
+1743    ms_yamabiko.chr
+1744    palette.bin
+1745    sg00m.chr
+1746    sg00w.chr
+1747    sg01m.chr
+1748    sg01w.chr
+1749    sg02m.chr
+1750    sg02w.chr
+1751    sg03m.chr
+1752    sg03w.chr
+1753    sg04m.chr
+1754    sg04w.chr
+1755    sg05m.chr
+1756    sg05w.chr
+1757    sg06m.chr
+1758    sg06w.chr
+1759    sg07m.chr
+1760    sg07w.chr
+1761    sg08m.chr
+1762    sg08w.chr
+1763    sg09m.chr
+1764    sg09w.chr
+1765    sg10m.chr
+1766    sg10w.chr
+1767    sg11m.chr
+1768    sg11w.chr
+1769    sg12m.chr
+1770    sg12w.chr
+1771    sg13m.chr
+1772    sg13w.chr
+1773    sg14m.chr
+1774    sg14w.chr
+1775    sg15m.chr
+1776    sg15w.chr
+1777    sg16m.chr
+1778    sg16w.chr
+1779    sg17m.chr
+1780    sg17w.chr
+1781    sg18m.chr
+1782    sg18w.chr
+1783    sg19m.chr
+1784    sg19w.chr
+1785    sg20m.chr
+1786    sg20w.chr
+1787    sg21m.chr
+1788    sg21w.chr
+1789    sg22m.chr
+1790    sg22w.chr
+1791    sg23m.chr
+1792    sg23w.chr
+1793    sg24m.chr
+1794    sg24w.chr
+1795    sg25m.chr
+1796    sg25w.chr
+1797    sg26m.chr
+1798    sg26w.chr
+1799    sg27m.chr
+1800    sg27w.chr
+1801    sg28m.chr
+1802    sg28w.chr
+1803    sg29m.chr
+1804    sg29w.chr
+1805    sg30m.chr
+1806    sg30w.chr
+1807    sg31m.chr
+1808    sg31w.chr
+1809    sp001c000a.chr
+1810    sp001p000a.chr
+1811    sp001p001a.chr
+1812    sp001p002a.chr
+1813    sp001p003a.chr
+1814    sp_bato_p.chr
+1815    sp_batobuto_c.chr
+1816    sp_batobuto_p.chr
+1817    sp_buto_p.chr
+1818    sp_ken_c.chr
+1819    sp_ken_p.chr
+1820    sp_maho_p.chr
+1821    sp_mahoken_c.chr
+1822    sp_mahoken_p.chr
+1823    sp_mase_c.chr
+1824    sp_mase_p.chr
+1825    sp_masetou_c.chr
+1826    sp_masetou_p1.chr
+1827    sp_masetou_p2.chr
+1828    sp_masetou_p3.chr
+1829    sp_masetou_p4.chr
+1830    sp_pala_p.chr
+1831    sp_palasou_c.chr
+1832    sp_palasou_p.chr
+1833    sp_ren_c.chr
+1834    sp_ren_p.chr
+1835    sp_sen_c.chr
+1836    sp_sen_p.chr
+1837    sp_senren_c.chr
+1838    sp_senren_p1.chr
+1839    sp_senren_p2.chr
+1840    sp_senren_p3.chr
+1841    sp_senren_p4.chr
+1842    sp_sou_p.chr
+1843    sp_supa_c.chr
+1844    sp_supa_p.chr
+1845    sp_tabi_c.chr
+1846    sp_tabi_p.chr
+1847    sp_tabisupa_c.chr
+1848    sp_tabisupa_p.chr
+1849    sp_tou_c.chr
+1850    sp_tou_p.chr
+1851    ws_ouen.chr
+      chara_sub/
+1852    box.chr
+1853    company.pac
+1854    e000.chr
+1855    e001.chr
+1856    fujisawa.pac
+1857    hino.pac
+1858    horii.pac
+1859    ichimura.pac
+1860    np028a.chr
+1861    s000.chr
+1862    s001.chr
+1863    s002.chr
+1864    s003.chr
+1865    s003f01.chr
+1866    s003f02.chr
+1867    s003f03.chr
+1868    s003f04.chr
+1869    s004.chr
+1870    s005.chr
+1871    s006.chr
+1872    s007.chr
+1873    s008.chr
+1874    s009.chr
+1875    s009g.chr
+1876    s009y.chr
+1877    s010.chr
+1878    s010f01.chr
+1879    s010f02.chr
+1880    s010f03.chr
+1881    s011.chr
+1882    s011f01.chr
+1883    s011f02.chr
+1884    s011f03.chr
+1885    s011f04.chr
+1886    s011f05.chr
+1887    s011f06.chr
+1888    s011f07.chr
+1889    s011f08.chr
+1890    s012.chr
+1891    s012f01.chr
+1892    s012n.chr
+1893    s013.chr
+1894    s013b.chr
+1895    s013f01.chr
+1896    s014.chr
+1897    s015.chr
+1898    s016.chr
+1899    s016f01.chr
+1900    s016f02.chr
+1901    s016f03.chr
+1902    s016f04.chr
+1903    s016f05.chr
+1904    s016f06.chr
+1905    s016n.chr
+1906    s017.chr
+1907    s017b.chr
+1908    s017be.chr
+1909    s017f.chr
+1910    s017f01.chr
+1911    s017f02.chr
+1912    s017f03.chr
+1913    s017n.chr
+1914    s017s.chr
+1915    s018.chr
+1916    s018r.chr
+1917    s019.chr
+1918    s019b.chr
+1919    s019be.chr
+1920    s019bm.chr
+1921    s019c.chr
+1922    s019f.chr
+1923    s019f01.chr
+1924    s019f02.chr
+1925    s019f03.chr
+1926    s019f04.chr
+1927    s019f05.chr
+1928    s019f06.chr
+1929    s019f07.chr
+1930    s019f08.chr
+1931    s019n.chr
+1932    s020.chr
+1933    s021.chr
+1934    s022.chr
+1935    s023.chr
+1936    s023n2.chr
+1937    s024.chr
+1938    s025.chr
+1939    s025f01.chr
+1940    s025f02.chr
+1941    s026.chr
+1942    s028.chr
+1943    s030.chr
+1944    s030b.chr
+1945    s030bf01.chr
+1946    s038.chr
+1947    s038f01.chr
+1948    s038f02.chr
+1949    s038f03.chr
+1950    s038f04.chr
+1951    s038f05.chr
+1952    s039.chr
+1953    s039f01.chr
+1954    s040.chr
+1955    s040f01.chr
+1956    s040f02.chr
+1957    s040f03.chr
+1958    s040f04.chr
+1959    s041.chr
+1960    s042.chr
+1961    s042f01.chr
+1962    s042f02.chr
+1963    s042f03.chr
+1964    s043.chr
+1965    s043f01.chr
+1966    s043f02.chr
+1967    s044.chr
+1968    s044f01.chr
+1969    s044f02.chr
+1970    s044f03.chr
+1971    s045.chr
+1972    s046.chr
+1973    s047.chr
+1974    s047f01.chr
+1975    s047f02.chr
+1976    s048.chr
+1977    s049.chr
+1978    s050.chr
+1979    s051.chr
+1980    s051f01.chr
+1981    s051f02.chr
+1982    s051n.chr
+1983    s051r.chr
+1984    s052.chr
+1985    s053.chr
+1986    s053b.chr
+1987    s053bf01.chr
+1988    s053c.chr
+1989    s053f01.chr
+1990    s053f02.chr
+1991    s053f03.chr
+1992    s053f04.chr
+1993    s054.chr
+1994    s054f01.chr
+1995    s055.chr
+1996    s055f01.chr
+1997    s055f02.chr
+1998    s055f03.chr
+1999    s055f04.chr
+2000    s055f05.chr
+2001    s056.chr
+2002    s056b.chr
+2003    s056f01.chr
+2004    s056f02.chr
+2005    s057.chr
+2006    s058.chr
+2007    s058f01.chr
+2008    s059.chr
+2009    s060.chr
+2010    s061.chr
+2011    s061f01.chr
+2012    s062.chr
+2013    s062f01.chr
+2014    s063.chr
+2015    s064.chr
+2016    s065.chr
+2017    s065a.chr
+2018    s065b.chr
+2019    s066.chr
+2020    s067.chr
+2021    s068.chr
+2022    s069.chr
+2023    s070.chr
+2024    s071.chr
+2025    s072.chr
+2026    s073.chr
+2027    s074.chr
+2028    s075.chr
+2029    s076.chr
+2030    s078.chr
+2031    s079.chr
+2032    s080.chr
+2033    s081.chr
+2034    s082.chr
+2035    s083.chr
+2036    s086.chr
+2037    s087.chr
+2038    s087b.chr
+2039    s087f01.chr
+2040    s087f02.chr
+2041    s087f03.chr
+2042    s087f04.chr
+2043    s087f05.chr
+2044    s088.chr
+2045    s089.chr
+2046    s090.chr
+2047    s091.chr
+2048    s093.chr
+2049    s096.chr
+2050    s097.chr
+2051    s097a.chr
+2052    s098.chr
+2053    s098b.chr
+2054    s099.chr
+2055    s100.chr
+2056    s101.chr
+2057    s101f01.chr
+2058    s102.chr
+2059    s102f01.chr
+2060    s103.chr
+2061    s104.chr
+2062    s105l1.chr
+2063    s105l2.chr
+2064    s105l3.chr
+2065    s105l4.chr
+2066    s105r1.chr
+2067    s105r2.chr
+2068    s105r3.chr
+2069    s105r4.chr
+2070    s106a.chr
+2071    s106b.chr
+2072    s106c.chr
+2073    s107.chr
+2074    s108.chr
+2075    s109.chr
+2076    s110.chr
+2077    s111.chr
+2078    s112.chr
+2079    s113.chr
+2080    s114.chr
+2081    s115.chr
+2082    s116.chr
+2083    s117.chr
+2084    s118.chr
+2085    s120.chr
+2086    s121.chr
+2087    s122.chr
+2088    s122yoru.chr
+2089    s122yuu.chr
+2090    s123.chr
+2091    s123yoru.chr
+2092    s123yuu.chr
+2093    s124.chr
+2094    s124yoru.chr
+2095    s124yuu.chr
+2096    s125.chr
+2097    s126.chr
+2098    s127a.chr
+2099    s127b.chr
+2100    s128.chr
+2101    s129.chr
+2102    s130.chr
+2103    s131.chr
+2104    s132.chr
+2105    s133.chr
+2106    s134.chr
+2107    s135.chr
+2108    s136.chr
+2109    s137.chr
+2110    s138.chr
+2111    s139.chr
+2112    s140.chr
+2113    s141.chr
+2114    s142.chr
+2115    s142f01.chr
+2116    s142f02.chr
+2117    s142f03.chr
+2118    s142f04.chr
+2119    s143.chr
+2120    s144.chr
+2121    s144b.chr
+2122    s145.chr
+2123    s146.chr
+2124    s147.chr
+2125    s148.chr
+2126    s149.chr
+2127    s150.chr
+2128    s151.chr
+2129    s152.chr
+2130    s153.chr
+2131    s154.chr
+2132    s155.chr
+2133    s156.chr
+2134    s157.chr
+2135    s158.chr
+2136    s159.chr
+2137    s160.chr
+2138    s161.chr
+2139    s162.chr
+2140    s163.chr
+2141    s164.chr
+2142    s165.chr
+2143    s166.chr
+2144    s167.chr
+2145    s168.chr
+2146    s169.chr
+2147    s170.chr
+2148    s171.chr
+2149    s172.chr
+2150    s173.chr
+2151    s174.chr
+2152    s175.chr
+2153    s176.chr
+2154    s177.chr
+2155    s178.chr
+2156    s179.chr
+2157    s180.chr
+2158    s181.chr
+2159    s182.chr
+2160    s183.chr
+2161    s184.chr
+2162    s185.chr
+2163    s186.chr
+2164    s187.chr
+2165    s188.chr
+2166    s189.chr
+2167    s190.chr
+2168    s190f01.chr
+2169    s190f02.chr
+2170    s190f03.chr
+2171    s191.chr
+2172    s192.chr
+2173    s193.chr
+2174    s194.chr
+2175    s195.chr
+2176    s196.chr
+2177    s197.chr
+2178    s198.chr
+2179    s199.chr
+2180    s201.chr
+2181    s202.chr
+2182    s203.chr
+2183    s203s.chr
+2184    s204.chr
+2185    s204s.chr
+2186    s205.chr
+2187    s206.chr
+2188    s207.chr
+2189    s207a.chr
+2190    s207b.chr
+2191    s208.chr
+2192    s209a.chr
+2193    s209b.chr
+2194    s210a.chr
+2195    s210b.chr
+2196    s211a.chr
+2197    s211b.chr
+2198    s212a.chr
+2199    s212b.chr
+2200    s213.chr
+2201    s214.chr
+2202    s215.chr
+2203    s216.chr
+2204    s217.chr
+2205    s218a.chr
+2206    s218b.chr
+2207    s219.chr
+2208    s220.chr
+2209    s221a.chr
+2210    s221b.chr
+2211    s221c.chr
+2212    s222.chr
+2213    s223.chr
+2214    s224a.chr
+2215    s224b.chr
+2216    s224c.chr
+2217    s224d.chr
+2218    s225a.chr
+2219    s225b.chr
+2220    s225c.chr
+2221    s256a.chr
+2222    s256b.chr
+2223    s256c.chr
+2224    s256d.chr
+2225    s256e.chr
+2226    s256f.chr
+2227    s257a.chr
+2228    s257b.chr
+2229    s257c.chr
+2230    s257d.chr
+2231    s257e.chr
+2232    s257f.chr
+2233    s258a.chr
+2234    s258b.chr
+2235    s258c.chr
+2236    s258d.chr
+2237    s258e.chr
+2238    s258f.chr
+2239    s259.chr
+2240    s260.chr
+2241    s261.chr
+2242    s262.chr
+2243    s263.chr
+2244    s264_de.chr
+2245    s264_en.chr
+2246    s264_es.chr
+2247    s264_fr.chr
+2248    s264_it.chr
+2249    s265.chr
+2250    sugiyama.pac
+2251    tobe_de.pac
+2252    tobe_en.pac
+2253    tobe_es.pac
+2254    tobe_fr.pac
+2255    tobe_it.pac
+2256    toriyama.pac
+      effect/
+2257    ana.chr
+2258    b001000.chr
+2259    b003000.chr
+2260    b003010.chr
+2261    b003011.chr
+2262    b004000.chr
+2263    b004010.chr
+2264    b004020.chr
+2265    b004110.chr
+2266    b004120.chr
+2267    b005000.chr
+2268    b005010.chr
+2269    b005020.chr
+2270    b005030.chr
+2271    b005040.chr
+2272    b005041.chr
+2273    b006010.chr
+2274    b006011.chr
+2275    b006020.chr
+2276    b006030.chr
+2277    b006110.chr
+2278    b006210.chr
+2279    b007000.chr
+2280    b007010.chr
+2281    b007110.chr
+2282    b007120.chr
+2283    b007130.chr
+2284    b007210.chr
+2285    b007211.chr
+2286    b008000.chr
+2287    b008010.chr
+2288    b008020.chr
+2289    b008030.chr
+2290    b008031.chr
+2291    b008110.chr
+2292    b008111.chr
+2293    b008210.chr
+2294    b008220.chr
+2295    b009000.chr
+2296    b009010.chr
+2297    b009020.chr
+2298    b010000.chr
+2299    b010010.chr
+2300    b010011.chr
+2301    b010020.chr
+2302    b010030.chr
+2303    b010040.chr
+2304    b010110.chr
+2305    b010210.chr
+2306    b010211.chr
+2307    b010220.chr
+2308    b011010.chr
+2309    b012000.chr
+2310    b012010.chr
+2311    b012210.chr
+2312    b012220.chr
+2313    b012230.chr
+2314    b013000.chr
+2315    b013010.chr
+2316    b014000.chr
+2317    b014010.chr
+2318    b014020.chr
+2319    b014030.chr
+2320    b014040.chr
+2321    b014050.chr
+2322    b014051.chr
+2323    b014120.chr
+2324    b014220.chr
+2325    b015000.chr
+2326    b015010.chr
+2327    b015020.chr
+2328    b015030.chr
+2329    b015031.chr
+2330    b015040.chr
+2331    b016000.chr
+2332    b016010.chr
+2333    b016020.chr
+2334    b016021.chr
+2335    b016110.chr
+2336    b017010.chr
+2337    b017110.chr
+2338    b017120.chr
+2339    b018000.chr
+2340    b018010.chr
+2341    b018020.chr
+2342    b018030.chr
+2343    b018040.chr
+2344    b018050.chr
+2345    b018110.chr
+2346    b018120.chr
+2347    b018130.chr
+2348    b019000.chr
+2349    b019001.chr
+2350    b019010.chr
+2351    b019020.chr
+2352    b019030.chr
+2353    b020000.chr
+2354    b020001.chr
+2355    b020010.chr
+2356    b020020.chr
+2357    b020030.chr
+2358    b020040.chr
+2359    b020041.chr
+2360    b021000.chr
+2361    b021010.chr
+2362    b021020.chr
+2363    b021021.chr
+2364    b021030.chr
+2365    b021040.chr
+2366    b021041.chr
+2367    b021110.chr
+2368    b021120.chr
+2369    b021140.chr
+2370    b021150.chr
+2371    b021160.chr
+2372    b021170.chr
+2373    b022000.chr
+2374    b022010.chr
+2375    b022020.chr
+2376    b022030.chr
+2377    b023000.chr
+2378    b023010.chr
+2379    b023020.chr
+2380    b023030.chr
+2381    b023040.chr
+2382    b023050.chr
+2383    b023060.chr
+2384    b023070.chr
+2385    b023080.chr
+2386    b023090.chr
+2387    b023100.chr
+2388    b023101.chr
+2389    b023110.chr
+2390    b023120.chr
+2391    b024010.chr
+2392    b024020.chr
+2393    b024030.chr
+2394    b100000.chr
+2395    b100010.chr
+2396    b100020.chr
+2397    b100030.chr
+2398    b100040.chr
+2399    b100041.chr
+2400    b100050.chr
+2401    b101000.chr
+2402    b101010.chr
+2403    b101020.chr
+2404    b101030.chr
+2405    b101040.chr
+2406    b101041.chr
+2407    b101050.chr
+2408    b102000.chr
+2409    b102010.chr
+2410    b102020.chr
+2411    b102030.chr
+2412    b102031.chr
+2413    b103000.chr
+2414    b103010.chr
+2415    b103020.chr
+2416    b103021.chr
+2417    b103030.chr
+2418    b103040.chr
+2419    b103041.chr
+2420    b104000.chr
+2421    b104010.chr
+2422    b104020.chr
+2423    b104030.chr
+2424    b104040.chr
+2425    b104041.chr
+2426    b104050.chr
+2427    b104060.chr
+2428    b105000.chr
+2429    b105010.chr
+2430    b105020.chr
+2431    b105030.chr
+2432    b105040.chr
+2433    b105041.chr
+2434    b105050.chr
+2435    b106000.chr
+2436    b106001.chr
+2437    b106010.chr
+2438    b106020.chr
+2439    b106030.chr
+2440    b106040.chr
+2441    b106050.chr
+2442    b106051.chr
+2443    b107000.chr
+2444    b107010.chr
+2445    b107020.chr
+2446    b107030.chr
+2447    b107040.chr
+2448    b107050.chr
+2449    b107060.chr
+2450    b107061.chr
+2451    b107070.chr
+2452    b108000.chr
+2453    b108010.chr
+2454    b108020.chr
+2455    b108030.chr
+2456    b108040.chr
+2457    b108050.chr
+2458    b108060.chr
+2459    b108061.chr
+2460    b108070.chr
+2461    b108100.chr
+2462    b108110.chr
+2463    b108120.chr
+2464    b108200.chr
+2465    b108210.chr
+2466    b108220.chr
+2467    b108230.chr
+2468    b109000.chr
+2469    b109010.chr
+2470    b109011.chr
+2471    b109020.chr
+2472    b109030.chr
+2473    b109040.chr
+2474    b109041.chr
+2475    b109050.chr
+2476    b109060.chr
+2477    b109070.chr
+2478    b110000.chr
+2479    b110010.chr
+2480    b110011.chr
+2481    b110020.chr
+2482    b110030.chr
+2483    b110040.chr
+2484    b110050.chr
+2485    b110051.chr
+2486    b110060.chr
+2487    b111000.chr
+2488    b111010.chr
+2489    b111020.chr
+2490    b111030.chr
+2491    b111040.chr
+2492    b111050.chr
+2493    b111060.chr
+2494    b111070.chr
+2495    b111080.chr
+2496    b111090.chr
+2497    b111100.chr
+2498    b111101.chr
+2499    b112000.chr
+2500    b112010.chr
+2501    b112020.chr
+2502    b112021.chr
+2503    b112030.chr
+2504    b112040.chr
+2505    b112050.chr
+2506    b112060.chr
+2507    b112070.chr
+2508    b112080.chr
+2509    b112081.chr
+2510    b112090.chr
+2511    b300000.chr
+2512    confusion.chr
+2513    eb0001.chr
+2514    eb0010.chr
+2515    eb0011.chr
+2516    eb0020.chr
+2517    eb0030.chr
+2518    eb0040.chr
+2519    eb0050.chr
+2520    eb0060.chr
+2521    eb0070.chr
+2522    eb0080.chr
+2523    eb0090.chr
+2524    eb0091.chr
+2525    eb0110.chr
+2526    eb0111.chr
+2527    eb0120.chr
+2528    eb0200.chr
+2529    eb0210.chr
+2530    eb0220.chr
+2531    eb0230.chr
+2532    eb0240.chr
+2533    eb0250.chr
+2534    eb0260.chr
+2535    eb0270.chr
+2536    eb0280.chr
+2537    eb0290.chr
+2538    eb0300.chr
+2539    eb0310.chr
+2540    eb0500.chr
+2541    eb0510.chr
+2542    eb0600.chr
+2543    eb0610.chr
+2544    eb0800.chr
+2545    eb0810.chr
+2546    eb0900.chr
+2547    eb1000.chr
+2548    eb1010.chr
+2549    eb1100.chr
+2550    eb1110.chr
+2551    eb1200.chr
+2552    eb1210.chr
+2553    eb1300.chr
+2554    eb1310.chr
+2555    eb1400.chr
+2556    eb1410.chr
+2557    eb1500.chr
+2558    eb1600.chr
+2559    eb2000.chr
+2560    eb2010.chr
+2561    eb2020.chr
+2562    eb2030.chr
+2563    eb2040.chr
+2564    eb2050.chr
+2565    eb2060.chr
+2566    eb3000.chr
+2567    eb3010.chr
+2568    eb3020.chr
+2569    eb3030.chr
+2570    eb3040.chr
+2571    eb3050.chr
+2572    eb3060.chr
+2573    eb3070.chr
+2574    effcnv_data.chr
+2575    em0000.chr
+2576    em0001.chr
+2577    em0010.chr
+2578    em0011.chr
+2579    em0012.chr
+2580    em0020.chr
+2581    em0021.chr
+2582    em0030.chr
+2583    em0031.chr
+2584    em0100.chr
+2585    em0110.chr
+2586    em0120.chr
+2587    em0130.chr
+2588    em0200.chr
+2589    em0210.chr
+2590    em0220.chr
+2591    em0230.chr
+2592    em0300.chr
+2593    em0310.chr
+2594    em0320.chr
+2595    em0330.chr
+2596    em0400.chr
+2597    em0410.chr
+2598    em0420.chr
+2599    em0430.chr
+2600    em0500.chr
+2601    em0600.chr
+2602    em0610.chr
+2603    em0710.chr
+2604    em0720.chr
+2605    em0800.chr
+2606    em0810.chr
+2607    em0811.chr
+2608    em0820.chr
+2609    em0821.chr
+2610    em1000.chr
+2611    em1010.chr
+2612    em1020.chr
+2613    em1030.chr
+2614    em1040.chr
+2615    em1050.chr
+2616    em1100.chr
+2617    em1120.chr
+2618    em1140.chr
+2619    em1160.chr
+2620    em1200.chr
+2621    em1210.chr
+2622    em1220.chr
+2623    em1230.chr
+2624    em1240.chr
+2625    em1260.chr
+2626    em1300.chr
+2627    em1310.chr
+2628    em1500.chr
+2629    em1501.chr
+2630    em1510.chr
+2631    em1520.chr
+2632    em1530.chr
+2633    em1600.chr
+2634    em1610.chr
+2635    em1620.chr
+2636    em1630.chr
+2637    em1631.chr
+2638    em1640.chr
+2639    em1650.chr
+2640    em1800.chr
+2641    em1810.chr
+2642    em1830.chr
+2643    encounter.chr
+2644    et0000.chr
+2645    et0010.chr
+2646    et0020.chr
+2647    et0030.chr
+2648    et0040.chr
+2649    et0041.chr
+2650    et0042.chr
+2651    et0050.chr
+2652    et0051.chr
+2653    et0052.chr
+2654    et0100.chr
+2655    et0110.chr
+2656    et0120.chr
+2657    et0130.chr
+2658    et0140.chr
+2659    et0150.chr
+2660    et0151.chr
+2661    et0200.chr
+2662    et0210.chr
+2663    et0220.chr
+2664    et0230.chr
+2665    et0240.chr
+2666    et0250.chr
+2667    et0300.chr
+2668    et0310.chr
+2669    et0320.chr
+2670    et0330.chr
+2671    et0400.chr
+2672    et0401.chr
+2673    et0410.chr
+2674    et0420.chr
+2675    et0430.chr
+2676    et0431.chr
+2677    et0440.chr
+2678    et0450.chr
+2679    et0460.chr
+2680    et0461.chr
+2681    et0462.chr
+2682    et0500.chr
+2683    et0501.chr
+2684    et0510.chr
+2685    et0511.chr
+2686    et0520.chr
+2687    et0521.chr
+2688    et0530.chr
+2689    et0531.chr
+2690    et0540.chr
+2691    et0541.chr
+2692    et0600.chr
+2693    et0601.chr
+2694    et0610.chr
+2695    et0620.chr
+2696    et0630.chr
+2697    et0640.chr
+2698    et0650.chr
+2699    et0651.chr
+2700    et0700.chr
+2701    et0710.chr
+2702    et0711.chr
+2703    et0720.chr
+2704    et0721.chr
+2705    et0740.chr
+2706    et0750.chr
+2707    et0800.chr
+2708    et0810.chr
+2709    et0820.chr
+2710    et0821.chr
+2711    et0830.chr
+2712    et0840.chr
+2713    et0850.chr
+2714    et0851.chr
+2715    et0852.chr
+2716    et0860.chr
+2717    et0861.chr
+2718    et0900.chr
+2719    et0910.chr
+2720    et0911.chr
+2721    et0920.chr
+2722    et0930.chr
+2723    et0940.chr
+2724    et0941.chr
+2725    et0950.chr
+2726    et0951.chr
+2727    et1000.chr
+2728    et1010.chr
+2729    et1020.chr
+2730    et1030.chr
+2731    et1031.chr
+2732    et1040.chr
+2733    et1050.chr
+2734    et1060.chr
+2735    et1061.chr
+2736    et1100.chr
+2737    et1101.chr
+2738    et1110.chr
+2739    et1111.chr
+2740    et1120.chr
+2741    et1121.chr
+2742    et1130.chr
+2743    et1140.chr
+2744    et1141.chr
+2745    et1150.chr
+2746    et1151.chr
+2747    et1200.chr
+2748    et1210.chr
+2749    et1220.chr
+2750    et1230.chr
+2751    et1240.chr
+2752    et1241.chr
+2753    et1250.chr
+2754    et1300.chr
+2755    et1301.chr
+2756    et1310.chr
+2757    et1311.chr
+2758    et1320.chr
+2759    et1330.chr
+2760    et1340.chr
+2761    et1341.chr
+2762    et1350.chr
+2763    et2000.chr
+2764    et2010.chr
+2765    et2011.chr
+2766    et2030.chr
+2767    et2120.chr
+2768    et2130.chr
+2769    et2140.chr
+2770    et2150.chr
+2771    et2151.chr
+2772    et2200.chr
+2773    et2210.chr
+2774    et2220.chr
+2775    et2230.chr
+2776    et2240.chr
+2777    et2241.chr
+2778    et2300.chr
+2779    et2301.chr
+2780    et2310.chr
+2781    et2320.chr
+2782    et2330.chr
+2783    et2340.chr
+2784    et2400.chr
+2785    et2430.chr
+2786    et2500.chr
+2787    et2501.chr
+2788    et2510.chr
+2789    et2520.chr
+2790    et2530.chr
+2791    et2540.chr
+2792    et2541.chr
+2793    et2550.chr
+2794    et2551.chr
+2795    et2552.chr
+2796    et2553.chr
+2797    et2554.chr
+2798    et2560.chr
+2799    et2570.chr
+2800    et2600.chr
+2801    et2610.chr
+2802    et2620.chr
+2803    et2640.chr
+2804    et2700.chr
+2805    et2701.chr
+2806    et2710.chr
+2807    et2711.chr
+2808    et2720.chr
+2809    et2721.chr
+2810    et2730.chr
+2811    et2731.chr
+2812    et2740.chr
+2813    et2741.chr
+2814    et2800.chr
+2815    et2810.chr
+2816    et2820.chr
+2817    et2830.chr
+2818    et2850.chr
+2819    et2851.chr
+2820    et2860.chr
+2821    et2861.chr
+2822    et2920.chr
+2823    et2921.chr
+2824    et2930.chr
+2825    et2931.chr
+2826    et2940.chr
+2827    et2950.chr
+2828    et2951.chr
+2829    et3000.chr
+2830    et3001.chr
+2831    et3010.chr
+2832    et3020.chr
+2833    et3040.chr
+2834    et3050.chr
+2835    et3060.chr
+2836    et3070.chr
+2837    et3071.chr
+2838    et3080.chr
+2839    et3081.chr
+2840    et3120.chr
+2841    et3140.chr
+2842    et3150.chr
+2843    et3151.chr
+2844    ev001_kenhikari.chr
+2845    ev001_kenhikari.pac
+2846    ev004_claw.chr
+2847    ev004_claw.pac
+2848    ev004_stone1.chr
+2849    ev004_stone1.pac
+2850    ev004_stone2.chr
+2851    ev004_stone2.pac
+2852    ev004_stone3.chr
+2853    ev004_stone3.pac
+2854    ev010000000.chr
+2855    ev010000010.chr
+2856    ev010000020.chr
+2857    ev010000030.chr
+2858    ev010000100.chr
+2859    ev010000120.chr
+2860    ev010000300.chr
+2861    ev010000310.chr
+2862    ev010000320.chr
+2863    ev010000400.chr
+2864    ev010000500.chr
+2865    ev010000600.chr
+2866    ev010000700.chr
+2867    ev010000701.chr
+2868    ev010000800.chr
+2869    ev010000900.chr
+2870    ev010001000.chr
+2871    ev010001100.chr
+2872    ev010001200.chr
+2873    ev010001300.chr
+2874    ev010100000.chr
+2875    ev010100100.chr
+2876    ev010100200.chr
+2877    ev010100201.chr
+2878    ev010100300.chr
+2879    ev010100400.chr
+2880    ev010100500.chr
+2881    ev011200000.chr
+2882    ev013400000.chr
+2883    ev013700000.chr
+2884    ev014200000.chr
+2885    ev014300000.chr
+2886    ev020000000.chr
+2887    ev020000100.chr
+2888    ev020000200.chr
+2889    ev020000300.chr
+2890    ev020000400.chr
+2891    ev023500000.chr
+2892    ev023500010.chr
+2893    ev023500020.chr
+2894    ev028200000.chr
+2895    ev030600000.chr
+2896    ev031300000.chr
+2897    ev031300100.chr
+2898    ev031500000.chr
+2899    ev031500100.chr
+2900    ev031600000.chr
+2901    ev031600100.chr
+2902    ev031600200.chr
+2903    ev031600300.chr
+2904    ev031700000.chr
+2905    ev031700100.chr
+2906    ev031700200.chr
+2907    ev031900000.chr
+2908    ev032100000.chr
+2909    ev032100100.chr
+2910    ev040100000.chr
+2911    ev040100100.chr
+2912    ev040200200.chr
+2913    ev040200300.chr
+2914    ev040200310.chr
+2915    ev040200400.chr
+2916    ev040200410.chr
+2917    ev040200420.chr
+2918    ev040200600.chr
+2919    ev040200601.chr
+2920    ev040200700.chr
+2921    ev040200800.chr
+2922    ev040200810.chr
+2923    ev040200820.chr
+2924    ev040200830.chr
+2925    ev040530000.chr
+2926    ev040590000.chr
+2927    ev055000000.chr
+2928    ev055000100.chr
+2929    ev055000200.chr
+2930    ev055000300.chr
+2931    ev055000400.chr
+2932    ev055000500.chr
+2933    ev055000600.chr
+2934    ev055000700.chr
+2935    ev055000800.chr
+2936    ev055000900.chr
+2937    ev055100000.chr
+2938    ev055100100.chr
+2939    ev055100200.chr
+2940    ev055100300.chr
+2941    ev055100400.chr
+2942    ev055100500.chr
+2943    ev055100600.chr
+2944    ev055100700.chr
+2945    ev055100800.chr
+2946    ev055100900.chr
+2947    ev055101000.chr
+2948    ev055200000.chr
+2949    ev055200100.chr
+2950    ev055200200.chr
+2951    ev055200210.chr
+2952    ev055200300.chr
+2953    ev055200310.chr
+2954    ev055200320.chr
+2955    ev055200330.chr
+2956    ev055200400.chr
+2957    ev055200410.chr
+2958    ev055200420.chr
+2959    ev055200430.chr
+2960    ev055200500.chr
+2961    ev055200600.chr
+2962    ev055200610.chr
+2963    ev055200620.chr
+2964    ev055200630.chr
+2965    ev055200700.chr
+2966    ev064500000.chr
+2967    ev065000000.chr
+2968    ev065000100.chr
+2969    ev065000200.chr
+2970    ev065100000.chr
+2971    ev065100100.chr
+2972    ev065100200.chr
+2973    ev075000100.chr
+2974    ev075000110.chr
+2975    ev075000200.chr
+2976    ev075100000.chr
+2977    ev075100100.chr
+2978    ev075100200.chr
+2979    ev075200000.chr
+2980    ev075200100.chr
+2981    ev075200200.chr
+2982    ev075200300.chr
+2983    ev075200400.chr
+2984    ev075200500.chr
+2985    ev077100000.chr
+2986    ev078000000.chr
+2987    ev082300000.chr
+2988    ev085000000.chr
+2989    ev093300000.chr
+2990    ev094100000.chr
+2991    ev095000000.chr
+2992    ev095000100.chr
+2993    ev095100000.chr
+2994    ev105000000.chr
+2995    ev105000100.chr
+2996    ev105000110.chr
+2997    ev105000200.chr
+2998    ev105000300.chr
+2999    ev105000400.chr
+3000    ev105200000.chr
+3001    ev105200010.chr
+3002    ev105200100.chr
+3003    ev113100000.chr
+3004    ev113300000.chr
+3005    ev116300000.chr
+3006    ev122300000.chr
+3007    ev123000000.chr
+3008    ev123200000.chr
+3009    ev135000000.chr
+3010    ev135000100.chr
+3011    ev135200000.chr
+3012    ev135300000.chr
+3013    ev135300010.chr
+3014    ev135300020.chr
+3015    ev135300030.chr
+3016    ev135300100.chr
+3017    ev135300200.chr
+3018    ev135300300.chr
+3019    ev135300400.chr
+3020    ev135300500.chr
+3021    ev135300600.chr
+3022    ev135500000.chr
+3023    ev135500100.chr
+3024    ev135501000.chr
+3025    ev135501001.chr
+3026    ev135501100.chr
+3027    ev136200000.chr
+3028    ev138000000.chr
+3029    ev138100000.chr
+3030    ev142200000.chr
+3031    ev142200100.chr
+3032    ev143300000.chr
+3033    ev144100000.chr
+3034    ev145000000.chr
+3035    ev145000100.chr
+3036    ev145000200.chr
+3037    ev145000300.chr
+3038    ev145100000.chr
+3039    ev145100100.chr
+3040    ev145100110.chr
+3041    ev145100120.chr
+3042    ev145100130.chr
+3043    ev145100200.chr
+3044    ev145100300.chr
+3045    ev145400000.chr
+3046    ev145400100.chr
+3047    ev145400200.chr
+3048    ev145400300.chr
+3049    ev145400400.chr
+3050    ev146400000.chr
+3051    ev151200000.chr
+3052    ev151200100.chr
+3053    ev151200200.chr
+3054    ev151200300.chr
+3055    ev153100000.chr
+3056    ev153300000.chr
+3057    ev155000000.chr
+3058    ev155000400.chr
+3059    ev155000410.chr
+3060    ev155000420.chr
+3061    ev155000430.chr
+3062    ev155000500.chr
+3063    ev155000600.chr
+3064    ev155000800.chr
+3065    ev155000900.chr
+3066    ev155001000.chr
+3067    ev155001100.chr
+3068    ev155100000.chr
+3069    ev155100200.chr
+3070    ev155100300.chr
+3071    ev155100400.chr
+3072    ev155100500.chr
+3073    ev155200000.chr
+3074    ev155200200.chr
+3075    ev155200300.chr
+3076    ev155200400.chr
+3077    ev155200500.chr
+3078    ev155200600.chr
+3079    ev155200700.chr
+3080    ev155200800.chr
+3081    ev155200900.chr
+3082    ev155201000.chr
+3083    ev155201100.chr
+3084    ev155201200.chr
+3085    ev155201300.chr
+3086    ev163000000.chr
+3087    ev164200000.chr
+3088    ev164400000.chr
+3089    ev165000000.chr
+3090    ev165100000.chr
+3091    ev165200000.chr
+3092    ev165200100.chr
+3093    ev165200200.chr
+3094    ev165200300.chr
+3095    ev165200400.chr
+3096    ev165200500.chr
+3097    ev165200600.chr
+3098    ev165200700.chr
+3099    ev165300000.chr
+3100    ev165300100.chr
+3101    ev165300200.chr
+3102    ev165300300.chr
+3103    ev165300400.chr
+3104    ev165400000.chr
+3105    ev165500000.chr
+3106    ev165500100.chr
+3107    ev165500200.chr
+3108    ev165500300.chr
+3109    ev175000200.chr
+3110    ev175000300.chr
+3111    ev175000400.chr
+3112    ev175000500.chr
+3113    ev175100000.chr
+3114    ev175100100.chr
+3115    ev175100300.chr
+3116    ev175100400.chr
+3117    ev175100500.chr
+3118    ev175100600.chr
+3119    ev175100700.chr
+3120    ev175100800.chr
+3121    ev175100900.chr
+3122    ev175200000.chr
+3123    ev175300000.chr
+3124    ev175300100.chr
+3125    ev175300200.chr
+3126    ev180000000.chr
+3127    ev180000100.chr
+3128    ev180000200.chr
+3129    ev180000600.chr
+3130    ev180000610.chr
+3131    ev180000700.chr
+3132    ev180000800.chr
+3133    ev180000810.chr
+3134    ev180000820.chr
+3135    ev180000900.chr
+3136    ev180000910.chr
+3137    ev180001000.chr
+3138    ev180001100.chr
+3139    ev180001200.chr
+3140    ev180001300.chr
+3141    ev180001400.chr
+3142    ev180001500.chr
+3143    ev180001600.chr
+3144    ev180001700.chr
+3145    ev180001800.chr
+3146    ev180002000.chr
+3147    ev180002010.chr
+3148    ev180002100.chr
+3149    ev180002200.chr
+3150    ev180002300.chr
+3151    ev180002400.chr
+3152    ev180002410.chr
+3153    ev180002500.chr
+3154    ev180002600.chr
+3155    ev180002610.chr
+3156    ev180002620.chr
+3157    ev180002700.chr
+3158    ev180003000.chr
+3159    ev180003100.chr
+3160    ev180003110.chr
+3161    ev180003120.chr
+3162    ev180003200.chr
+3163    ev180003210.chr
+3164    ev180003300.chr
+3165    ev180003400.chr
+3166    ev180003410.chr
+3167    ev180003500.chr
+3168    ev180003600.chr
+3169    ev180003610.chr
+3170    ev180003700.chr
+3171    ev180003800.chr
+3172    ev180003900.chr
+3173    ev180004000.chr
+3174    ev200120000.chr
+3175    ev200120100.chr
+3176    ev200120200.chr
+3177    ev202100000.chr
+3178    ev208210000.chr
+3179    ev208330000.chr
+3180    ev208700000.chr
+3181    ev208910000.chr
+3182    ev209140000.chr
+3183    ev209300000.chr
+3184    ev209730000.chr
+3185    ev291600000.chr
+3186    ev291600100.chr
+3187    ev291600200.chr
+3188    ev291600300.chr
+3189    ev292910000.chr
+3190    ev292910100.chr
+3191    ev292910200.chr
+3192    ev292910300.chr
+3193    ev292910400.chr
+3194    ev300000200.chr
+3195    ev302000100.chr
+3196    ev303000000.chr
+3197    ev303000100.chr
+3198    ev305000000.chr
+3199    ev305000200.chr
+3200    ev517010000.chr
+3201    ev999990000.chr
+3202    ev999990100.chr
+3203    ev999990300.chr
+3204    ev999990400.chr
+3205    ev999990500.chr
+3206    ev999990501.chr
+3207    ev999990600.chr
+3208    ev999990700.chr
+3209    ev999990800.chr
+3210    ev999990900.chr
+3211    ev999991000.chr
+3212    ev999991100.chr
+3213    ev999991110.chr
+3214    ev999991200.chr
+3215    ev999991210.chr
+3216    ev999991300.chr
+3217    ev999991400.chr
+3218    ev999991500.chr
+3219    ev999991600.chr
+3220    ev999991700.chr
+3221    ev999991710.chr
+3222    ev999991800.chr
+3223    ev999991900.chr
+3224    ev999992000.chr
+3225    ev999992100.chr
+3226    ev999992200.chr
+3227    ev999992300.chr
+3228    ev999992400.chr
+3229    ev999992500.chr
+3230    ev999992600.chr
+3231    ev999992700.chr
+3232    ev999992800.chr
+3233    ev999992900.chr
+3234    ev999993000.chr
+3235    ev999993310.chr
+3236    ev999993320.chr
+3237    ev999993321.chr
+3238    ev999993400.chr
+3239    ev99_liner.gp1
+3240    ev99_ship.gp1
+3241    ev_feather.chr
+3242    ev_feather.pac
+3243    ev_i_star.chr
+3244    ev_i_star.pac
+3245    evxx_star.chr
+3246    ex0000.chr
+3247    ex0001.chr
+3248    ex0010.chr
+3249    ex0020.chr
+3250    ex0021.chr
+3251    ex0030.chr
+3252    ex0040.chr
+3253    ex0050.chr
+3254    ex0051.chr
+3255    ex0100.chr
+3256    ex0200.chr
+3257    ex0210.chr
+3258    ex0300.chr
+3259    ex0400.chr
+3260    ex0410.chr
+3261    ex0500.chr
+3262    ex0510.chr
+3263    ex0600.chr
+3264    ex0700.chr
+3265    ex0800.chr
+3266    ex0900.chr
+3267    ex0910.chr
+3268    ex1000.chr
+3269    ex1001.chr
+3270    ex1100.chr
+3271    ex1101.chr
+3272    ex1200.chr
+3273    ex2000.chr
+3274    ex2001.chr
+3275    ex2100.chr
+3276    ex2101.chr
+3277    ex2200.chr
+3278    ex2200_de.chr
+3279    ex2200_en.chr
+3280    ex2200_es.chr
+3281    ex2200_fr.chr
+3282    ex2200_it.chr
+3283    ex2201.chr
+3284    ex2201_de.chr
+3285    ex2201_en.chr
+3286    ex2201_es.chr
+3287    ex2201_fr.chr
+3288    ex2201_it.chr
+3289    ex2300.chr
+3290    ex2400.chr
+3291    ex2500.chr
+3292    ex2501.chr
+3293    ex3000.chr
+3294    kadai01.chr
+3295    kadai02.chr
+3296    kadai1_okayama.chr
+3297    kadai2_okayama.chr
+3298    s017000.chr
+3299    S02M00E1.chr
+3300    test_alpha.chr
+3301    test_b004_at1.chr
+3302    test_monster.chr
+3303    test_xfade.chr
+3304    test_z002_at1.chr
+3305    test_z029_at1.chr
+3306    trainsmoke.chr
+3307    z000000.chr
+3308    z001010.chr
+3309    z001210.chr
+3310    z002000.chr
+3311    z002010.chr
+3312    z002020.chr
+3313    z002120.chr
+3314    z003000.chr
+3315    z003010.chr
+3316    z003110.chr
+3317    z004000.chr
+3318    z004010.chr
+3319    z004020.chr
+3320    z004110.chr
+3321    z004111.chr
+3322    z004210.chr
+3323    z005000.chr
+3324    z005210.chr
+3325    z005220.chr
+3326    z006000.chr
+3327    z006010.chr
+3328    z007000.chr
+3329    z008000.chr
+3330    z008110.chr
+3331    z008111.chr
+3332    z009000.chr
+3333    z009010.chr
+3334    z009020.chr
+3335    z009021.chr
+3336    z009120.chr
+3337    z009230.chr
+3338    z010000.chr
+3339    z010010.chr
+3340    z010120.chr
+3341    z010121.chr
+3342    z011000.chr
+3343    z011100.chr
+3344    z011120.chr
+3345    z013000.chr
+3346    z013010.chr
+3347    z013011.chr
+3348    z016000.chr
+3349    z016010.chr
+3350    z016020.chr
+3351    z016030.chr
+3352    z016110.chr
+3353    z016111.chr
+3354    z016120.chr
+3355    z017000.chr
+3356    z018000.chr
+3357    z018120.chr
+3358    z018121.chr
+3359    z018220.chr
+3360    z019000.chr
+3361    z019110.chr
+3362    z019120.chr
+3363    z020000.chr
+3364    z020020.chr
+3365    z020110.chr
+3366    z020220.chr
+3367    z021000.chr
+3368    z022010.chr
+3369    z023000.chr
+3370    z023010.chr
+3371    z023011.chr
+3372    z023020.chr
+3373    z023120.chr
+3374    z023121.chr
+3375    z023130.chr
+3376    z024000.chr
+3377    z024010.chr
+3378    z024011.chr
+3379    z025000.chr
+3380    z025010.chr
+3381    z026000.chr
+3382    z026010.chr
+3383    z026011.chr
+3384    z026021.chr
+3385    z026110.chr
+3386    z026120.chr
+3387    z026210.chr
+3388    z027000.chr
+3389    z027010.chr
+3390    z027110.chr
+3391    z028000.chr
+3392    z028010.chr
+3393    z028020.chr
+3394    z028030.chr
+3395    z029000.chr
+3396    z029120.chr
+3397    z029220.chr
+3398    z029230.chr
+3399    z030000.chr
+3400    z030010.chr
+3401    z030011.chr
+3402    z030210.chr
+3403    z030220.chr
+3404    z031000.chr
+3405    z031010.chr
+3406    z031011.chr
+3407    z032000.chr
+3408    z032010.chr
+3409    z032020.chr
+3410    z032021.chr
+3411    z032220.chr
+3412    z033000.chr
+3413    z033010.chr
+3414    z033110.chr
+3415    z033111.chr
+3416    z033120.chr
+3417    z033130.chr
+3418    z033220.chr
+3419    z034000.chr
+3420    z034010.chr
+3421    z034020.chr
+3422    z034120.chr
+3423    z034130.chr
+3424    z034220.chr
+3425    z035000.chr
+3426    z035010.chr
+3427    z035110.chr
+3428    z036000.chr
+3429    z037000.chr
+3430    z037210.chr
+3431    z037211.chr
+3432    z038110.chr
+3433    z038111.chr
+3434    z038210.chr
+3435    z039010.chr
+3436    z039020.chr
+3437    z039021.chr
+3438    z039210.chr
+3439    z040000.chr
+3440    z040010.chr
+3441    z040110.chr
+3442    z040210.chr
+3443    z041000.chr
+3444    z041010.chr
+3445    z041110.chr
+3446    z041210.chr
+3447    z041220.chr
+3448    z041230.chr
+3449    z041231.chr
+3450    z042000.chr
+3451    z042010.chr
+3452    z042020.chr
+3453    z042110.chr
+3454    z042120.chr
+3455    z043000.chr
+3456    z043010.chr
+3457    z043210.chr
+3458    z043211.chr
+3459    z044000.chr
+3460    z044010.chr
+3461    z044120.chr
+3462    z045010.chr
+3463    z046000.chr
+3464    z046110.chr
+3465    z046210.chr
+3466    z046310.chr
+3467    z046311.chr
+3468    z047000.chr
+3469    z048000.chr
+3470    z048010.chr
+3471    z048011.chr
+3472    z048020.chr
+3473    z048110.chr
+3474    z048210.chr
+3475    z049000.chr
+3476    z049110.chr
+3477    z049120.chr
+3478    z049210.chr
+3479    z049220.chr
+3480    z049230.chr
+3481    z049231.chr
+3482    z050000.chr
+3483    z050010.chr
+3484    z050011.chr
+3485    z050020.chr
+3486    z050021.chr
+3487    z050110.chr
+3488    z051000.chr
+3489    z051010.chr
+3490    z051110.chr
+3491    z051111.chr
+3492    z051120.chr
+3493    z051130.chr
+3494    z051220.chr
+3495    z051230.chr
+3496    z052000.chr
+3497    z052010.chr
+3498    z052020.chr
+3499    z052110.chr
+3500    z052120.chr
+3501    z052130.chr
+3502    z052210.chr
+3503    z053000.chr
+3504    z053010.chr
+3505    z053011.chr
+3506    z053110.chr
+3507    z053120.chr
+3508    z053220.chr
+3509    z053221.chr
+3510    z054000.chr
+3511    z054010.chr
+3512    z054011.chr
+3513    z055000.chr
+3514    z055010.chr
+3515    z055030.chr
+3516    z055110.chr
+3517    z055210.chr
+3518    z055220.chr
+3519    z056000.chr
+3520    z056010.chr
+3521    z056110.chr
+3522    z056111.chr
+3523    z056310.chr
+3524    z056320.chr
+3525    z056321.chr
+3526    z057000.chr
+3527    z057010.chr
+3528    z058000.chr
+3529    z058010.chr
+3530    z058220.chr
+3531    z059000.chr
+3532    z059010.chr
+3533    z059120.chr
+3534    z059121.chr
+3535    z059210.chr
+3536    z059220.chr
+3537    z059230.chr
+3538    z060000.chr
+3539    z060010.chr
+3540    z060011.chr
+3541    z060110.chr
+3542    z060111.chr
+3543    z060120.chr
+3544    z061000.chr
+3545    z061110.chr
+3546    z061120.chr
+3547    z062000.chr
+3548    z062010.chr
+3549    z062020.chr
+3550    z062110.chr
+3551    z062220.chr
+3552    z063000.chr
+3553    z063010.chr
+3554    z064000.chr
+3555    z064010.chr
+3556    z064011.chr
+3557    z064020.chr
+3558    z064021.chr
+3559    z064110.chr
+3560    z064120.chr
+3561    z064210.chr
+3562    z065000.chr
+3563    z065010.chr
+3564    z065011.chr
+3565    z065020.chr
+3566    z065021.chr
+3567    z065210.chr
+3568    z065220.chr
+3569    z065221.chr
+3570    z066000.chr
+3571    z066110.chr
+3572    z066210.chr
+3573    z067000.chr
+3574    z067110.chr
+3575    z067220.chr
+3576    z068000.chr
+3577    z068010.chr
+3578    z068020.chr
+3579    z068110.chr
+3580    z068111.chr
+3581    z069000.chr
+3582    z069001.chr
+3583    z069010.chr
+3584    z069011.chr
+3585    z069020.chr
+3586    z069021.chr
+3587    z069110.chr
+3588    z069111.chr
+3589    z069120.chr
+3590    z069130.chr
+3591    z069131.chr
+3592    z069210.chr
+3593    z069211.chr
+3594    z069220.chr
+3595    z069221.chr
+3596    z069230.chr
+3597    z069231.chr
+3598    z070000.chr
+3599    z070010.chr
+3600    z070020.chr
+3601    z070110.chr
+3602    z070120.chr
+3603    z071000.chr
+3604    z071010.chr
+3605    z071011.chr
+3606    z071020.chr
+3607    z071021.chr
+3608    z071120.chr
+3609    z072000.chr
+3610    z072010.chr
+3611    z072020.chr
+3612    z072120.chr
+3613    z072220.chr
+3614    z072230.chr
+3615    z072231.chr
+3616    z073000.chr
+3617    z073010.chr
+3618    z073011.chr
+3619    z073110.chr
+3620    z073120.chr
+3621    z073121.chr
+3622    z073220.chr
+3623    z073221.chr
+3624    z074210.chr
+3625    z074220.chr
+3626    z075000.chr
+3627    z075010.chr
+3628    z075020.chr
+3629    z075030.chr
+3630    z075210.chr
+3631    z075220.chr
+3632    z076000.chr
+3633    z076010.chr
+3634    z076020.chr
+3635    z076021.chr
+3636    z076030.chr
+3637    z076031.chr
+3638    z076040.chr
+3639    z076110.chr
+3640    z076120.chr
+3641    z076130.chr
+3642    z076210.chr
+3643    z077000.chr
+3644    z077010.chr
+3645    z077011.chr
+3646    z077020.chr
+3647    z077030.chr
+3648    z077220.chr
+3649    z078000.chr
+3650    z079000.chr
+3651    z079110.chr
+3652    z079210.chr
+3653    z079220.chr
+3654    z079221.chr
+3655    z080010.chr
+3656    z080110.chr
+3657    z080120.chr
+3658    z080121.chr
+3659    z080210.chr
+3660    z080220.chr
+3661    z080230.chr
+3662    z081000.chr
+3663    z081010.chr
+3664    z081020.chr
+3665    z081110.chr
+3666    z081120.chr
+3667    z081130.chr
+3668    z081140.chr
+3669    z081141.chr
+3670    z081240.chr
+3671    z082010.chr
+3672    z082310.chr
+3673    z083000.chr
+3674    z083110.chr
+3675    z083120.chr
+3676    z083130.chr
+3677    z083131.chr
+3678    z083210.chr
+3679    z084000.chr
+3680    z084010.chr
+3681    z084020.chr
+3682    z084021.chr
+3683    z084030.chr
+3684    z084210.chr
+3685    z084220.chr
+3686    z084230.chr
+      enemy/
+3687    b019a1.chr
+3688    b019b1.chr
+3689    b022a_c.chr
+3690    b023a_c.chr
+3691    z000d_c.chr
+3692    z000d_p.chr
+3693    z034_c.chr
+3694    z077a_7.chr
+3695    z077a_7S.chr
+3696    z077a_B.chr
+3697    z077a_BS.chr
+3698    z077a_e0.chr
+3699    z077a_e1.chr
+3700    z077a_e2.chr
+3701    z077a_e3.chr
+3702    z077a_G.chr
+3703    z077a_GS.chr
+3704    z077a_i.chr
+3705    z077a_i0.chr
+3706    z077a_i1.chr
+3707    z077a_M.chr
+3708    z077a_R.chr
+3709    z077a_RS.chr
+3710    z077a_S.chr
+3711    z077a_SS.chr
+3712    z083_c.chr
+      event/
+3713    ev01130.gp2
+3714    ev01140.gp2
+3715    ev01150.gp2
+3716    ev01160.gp2
+3717    ev01170.gp2
+3718    ev01310.gp2
+3719    ev01320.gp2
+3720    ev01330.gp2
+3721    ev01340.gp2
+3722    ev01350.gp2
+3723    ev01360.gp2
+3724    ev01370.gp2
+3725    ev01380.gp2
+3726    ev01390.gp2
+3727    ev01410.gp2
+3728    ev01515.gp2
+3729    ev01520.gp2
+3730    ev01530.gp2
+3731    ev01600.gp2
+3732    ev01610.gp2
+3733    ev01620.gp2
+3734    ev02110.gp2
+3735    ev02120.gp2
+3736    ev02130.gp2
+3737    ev02140.gp2
+3738    ev02200.gp2
+3739    ev02210.gp2
+3740    ev02220.gp2
+3741    ev02222.gp2
+3742    ev02230.gp2
+3743    ev02240.gp2
+3744    ev02250.gp2
+3745    ev02300.gp2
+3746    ev02320.gp2
+3747    ev02350.gp2
+3748    ev02360.gp2
+3749    ev02370.gp2
+3750    ev02400.gp2
+3751    ev02410.gp2
+3752    ev02420.gp2
+3753    ev02430.gp2
+3754    ev02440.gp2
+3755    ev02450.gp2
+3756    ev02500.gp2
+3757    ev02510.gp2
+3758    ev02520.gp2
+3759    ev02530.gp2
+3760    ev02535.gp2
+3761    ev02550.gp2
+3762    ev02555.gp2
+3763    ev02560.gp2
+3764    ev02570.gp2
+3765    ev02600.gp2
+3766    ev02610.gp2
+3767    ev02620.gp2
+3768    ev02700.gp2
+3769    ev02720.gp2
+3770    ev02730.gp2
+3771    ev02750.gp2
+3772    ev02760.gp2
+3773    ev02800.gp2
+3774    ev02810.gp2
+3775    ev02820.gp2
+3776    ev02900.gp2
+3777    ev02910.gp2
+3778    ev02930.gp2
+3779    ev02940.gp2
+3780    ev03001.gp2
+3781    ev03030.gp2
+3782    ev03031.gp2
+3783    ev03040.gp2
+3784    ev03050.gp2
+3785    ev03051.gp2
+3786    ev03052.gp2
+3787    ev03090.gp2
+3788    ev03100.gp2
+3789    ev03110.gp2
+3790    ev03111.gp2
+3791    ev03120.gp2
+3792    ev03130.gp2
+3793    ev03180.gp2
+3794    ev03190.gp2
+3795    ev03200.gp2
+3796    ev03341.gp2
+3797    ev04000.gp2
+3798    ev04001.gp2
+3799    ev04010.gp2
+3800    ev04020.gp2
+3801    ev04025.gp2
+3802    ev04030.gp2
+3803    ev04035.gp2
+3804    ev04040.gp2
+3805    ev04050.gp2
+3806    ev04051.gp2
+3807    ev04052.gp2
+3808    ev04056.gp2
+3809    ev04063.gp2
+3810    ev04070.gp2
+3811    ev04075.gp2
+3812    ev04080.gp2
+3813    ev04100.gp2
+3814    ev04110.gp2
+3815    ev04120.gp2
+3816    ev04130.gp2
+3817    ev04140.gp2
+3818    ev04145.gp2
+3819    ev04146.gp2
+3820    ev04150.gp2
+3821    ev04180.gp2
+3822    ev04181.gp2
+3823    ev04190.gp2
+3824    ev04200.gp2
+3825    ev04240.gp2
+3826    ev04241.gp2
+3827    ev05110.gp2
+3828    ev05200.gp2
+3829    ev05300.gp2
+3830    ev06100.gp2
+3831    ev06220.gp2
+3832    ev06400.gp2
+3833    ev06600.gp2
+3834    ev07100.gp2
+3835    ev07205.gp2
+3836    ev07210.gp2
+3837    ev07300.gp2
+3838    ev07305.gp2
+3839    ev07310.gp2
+3840    ev07400.gp2
+3841    ev07560.gp2
+3842    ev08100.gp2
+3843    ev08200.gp2
+3844    ev08210.gp2
+3845    ev08221.gp2
+3846    ev08230.gp2
+3847    ev08300.gp2
+3848    ev08310.gp2
+3849    ev08311.gp2
+3850    ev09050.gp2
+3851    ev09060.gp2
+3852    ev09100.gp2
+3853    ev09110.gp2
+3854    ev09120.gp2
+3855    ev09130.gp2
+3856    ev09210.gp2
+3857    ev09220.gp2
+3858    ev09310.gp2
+3859    ev09400.gp2
+3860    ev09410.gp2
+3861    ev09441.gp2
+3862    ev09442.gp2
+3863    ev09450.gp2
+3864    ev09500.gp2
+3865    ev09700.gp2
+3866    ev09710.gp2
+3867    ev09713.gp2
+3868    ev09715.gp2
+3869    ev09720.gp2
+3870    ev10105.gp2
+3871    ev10120.gp2
+3872    ev10200.gp2
+3873    ev10205.gp2
+3874    ev10210.gp2
+3875    ev10290.gp2
+3876    ev10300.gp2
+3877    ev10320.gp2
+3878    ev10400.gp2
+3879    ev10460.gp2
+3880    ev10470.gp2
+3881    ev10610.gp2
+3882    ev10625.gp2
+3883    ev11100.gp2
+3884    ev11110.gp2
+3885    ev11120.gp2
+3886    ev11200.gp2
+3887    ev11210.gp2
+3888    ev11230.gp2
+3889    ev11240.gp2
+3890    ev11300.gp2
+3891    ev11310.gp2
+3892    ev11320.gp2
+3893    ev11340.gp2
+3894    ev11561.gp2
+3895    ev11600.gp2
+3896    ev11610.gp2
+3897    ev11620.gp2
+3898    ev11630.gp2
+3899    ev12100.gp2
+3900    ev12101.gp2
+3901    ev12110.gp2
+3902    ev12120.gp2
+3903    ev12150.gp2
+3904    ev12211.gp2
+3905    ev12215.gp2
+3906    ev12220.gp2
+3907    ev12230.gp2
+3908    ev12330.gp2
+3909    ev12340.gp2
+3910    ev12400.gp2
+3911    ev13100.gp2
+3912    ev13210.gp2
+3913    ev13300.gp2
+3914    ev13310.gp2
+3915    ev13320.gp2
+3916    ev13400.gp2
+3917    ev13500.gp2
+3918    ev13600.gp2
+3919    ev13620.gp2
+3920    ev13700.gp2
+3921    ev13800.gp2
+3922    ev13811.gp2
+3923    ev13820.gp2
+3924    ev13830.gp2
+3925    ev13910.gp2
+3926    ev14110.gp2
+3927    ev14115.gp2
+3928    ev14120.gp2
+3929    ev14125.gp2
+3930    ev14131.gp2
+3931    ev14140.gp2
+3932    ev14200.gp2
+3933    ev14210.gp2
+3934    ev14220.gp2
+3935    ev14300.gp2
+3936    ev14301.gp2
+3937    ev14310.gp2
+3938    ev14320.gp2
+3939    ev14350.gp2
+3940    ev14410.gp2
+3941    ev14500.gp2
+3942    ev14501.gp2
+3943    ev14510.gp2
+3944    ev14530.gp2
+3945    ev14540.gp2
+3946    ev14560.gp2
+3947    ev14580.gp2
+3948    ev14590.gp2
+3949    ev14600.gp2
+3950    ev14601.gp2
+3951    ev14610.gp2
+3952    ev14620.gp2
+3953    ev14621.gp2
+3954    ev14640.gp2
+3955    ev14641.gp2
+3956    ev14650.gp2
+3957    ev14651.gp2
+3958    ev14670.gp2
+3959    ev14710.gp2
+3960    ev14720.gp2
+3961    ev14725.gp2
+3962    ev14730.gp2
+3963    ev14740.gp2
+3964    ev14745.gp2
+3965    ev14746.gp2
+3966    ev14750.gp2
+3967    ev14751.gp2
+3968    ev14760.gp2
+3969    ev14770.gp2
+3970    ev14780.gp2
+3971    ev14781.gp2
+3972    ev14782.gp2
+3973    ev14783.gp2
+3974    ev14784.gp2
+3975    ev14900.gp2
+3976    ev14902.gp2
+3977    ev14903.gp2
+3978    ev14905.gp2
+3979    ev14906.gp2
+3980    ev14907.gp2
+3981    ev14908.gp2
+3982    ev14909.gp2
+3983    ev14910.gp2
+3984    ev15100.gp2
+3985    ev15110.gp2
+3986    ev15120.gp2
+3987    ev15130.gp2
+3988    ev15310.gp2
+3989    ev15330.gp2
+3990    ev15410.gp2
+3991    ev15420.gp2
+3992    ev16210.gp2
+3993    ev16250.gp2
+3994    ev16260.gp2
+3995    ev16280.gp2
+3996    ev16300.gp2
+3997    ev16305.gp2
+3998    ev16306.gp2
+3999    ev16310.gp2
+4000    ev16320.gp2
+4001    ev16321.gp2
+4002    ev16322.gp2
+4003    ev16323.gp2
+4004    ev16410.gp2
+4005    ev16430.gp2
+4006    ev16450.gp2
+4007    ev16510.gp2
+4008    ev17110.gp2
+4009    ev17200.gp2
+4010    ev17210.gp2
+4011    ev17220.gp2
+4012    ev17221.gp2
+4013    ev19001.gp2
+4014    ev19010.gp2
+4015    ev19020.gp2
+4016    ev19030.gp2
+4017    ev19040.gp2
+4018    ev19050.gp2
+4019    ev19060.gp2
+4020    ev19070.gp2
+4021    ev20011.gp2
+4022    ev20015.gp2
+4023    ev20210.gp2
+4024    ev20740.gp2
+4025    ev20741.gp2
+4026    ev20745.gp2
+4027    ev20750.gp2
+4028    ev20751.gp2
+4029    ev20760.gp2
+4030    ev20770.gp2
+4031    ev20771.gp2
+4032    ev20780.gp2
+4033    ev20792.gp2
+4034    ev20794.gp2
+4035    ev20800.gp2
+4036    ev20810.gp2
+4037    ev20811.gp2
+4038    ev20812.gp2
+4039    ev20813.gp2
+4040    ev20814.gp2
+4041    ev20816.gp2
+4042    ev20820.gp2
+4043    ev20822.gp2
+4044    ev20823.gp2
+4045    ev20824.gp2
+4046    ev20825.gp2
+4047    ev20826.gp2
+4048    ev20830.gp2
+4049    ev20831.gp2
+4050    ev20832.gp2
+4051    ev20833.gp2
+4052    ev20834.gp2
+4053    ev20835.gp2
+4054    ev20840.gp2
+4055    ev20850.gp2
+4056    ev20860.gp2
+4057    ev20861.gp2
+4058    ev20862.gp2
+4059    ev20863.gp2
+4060    ev20864.gp2
+4061    ev20870.gp2
+4062    ev20880.gp2
+4063    ev20881.gp2
+4064    ev20882.gp2
+4065    ev20883.gp2
+4066    ev20884.gp2
+4067    ev20890.gp2
+4068    ev20891.gp2
+4069    ev20892.gp2
+4070    ev20893.gp2
+4071    ev20900.gp2
+4072    ev20901.gp2
+4073    ev20902.gp2
+4074    ev20903.gp2
+4075    ev20910.gp2
+4076    ev20911.gp2
+4077    ev20912.gp2
+4078    ev20913.gp2
+4079    ev20914.gp2
+4080    ev20915.gp2
+4081    ev20920.gp2
+4082    ev20930.gp2
+4083    ev20931.gp2
+4084    ev20934.gp2
+4085    ev20935.gp2
+4086    ev20936.gp2
+4087    ev20937.gp2
+4088    ev20938.gp2
+4089    ev20939.gp2
+4090    ev20940.gp2
+4091    ev20941.gp2
+4092    ev20950.gp2
+4093    ev20951.gp2
+4094    ev20952.gp2
+4095    ev20960.gp2
+4096    ev20971.gp2
+4097    ev20972.gp2
+4098    ev20977.gp2
+4099    ev20981.gp2
+4100    ev20983.gp2
+4101    ev20985.gp2
+4102    ev20986.gp2
+4103    ev20987.gp2
+4104    ev20989.gp2
+4105    ev50030.gp2
+4106    ev50040.gp2
+4107    ev50080.gp2
+4108    ev50090.gp2
+4109    ev50140.gp2
+4110    ev50160.gp2
+4111    ev50161.gp2
+4112    ev50162.gp2
+4113    ev50164.gp2
+4114    ev50165.gp2
+4115    ev50166.gp2
+4116    ev50180.gp2
+4117    ev50190.gp2
+4118    ev50200.gp2
+4119    ev50201.gp2
+4120    ev50202.gp2
+4121    ev50210.gp2
+4122    ev50220.gp2
+4123    ev50221.gp2
+4124    ev50222.gp2
+4125    ev50224.gp2
+4126    ev50225.gp2
+4127    ev50226.gp2
+4128    ev50240.gp2
+4129    ev50241.gp2
+4130    ev50260.gp2
+4131    ev50261.gp2
+4132    ev50300.gp2
+4133    ev50301.gp2
+4134    ev50340.gp2
+4135    ev50341.gp2
+4136    ev50371.gp2
+4137    ev50410.gp2
+4138    ev50420.gp2
+4139    ev50501.gp2
+4140    ev50551.gp2
+4141    ev50621.gp2
+4142    ev50631.gp2
+4143    ev50681.gp2
+4144    ev50682.gp2
+4145    ev50700.gp2
+4146    ev50701.gp2
+4147    ev50702.gp2
+4148    ev50710.gp2
+4149    ev50711.gp2
+4150    ev50712.gp2
+4151    ev50721.gp2
+4152    ev50810.gp2
+4153    ev50811.gp2
+4154    ev50820.gp2
+4155    ev50841.gp2
+4156    ev50842.gp2
+4157    ev50843.gp2
+4158    ev50844.gp2
+4159    ev50845.gp2
+4160    ev50850.gp2
+4161    ev50941.gp2
+4162    ev50961.gp2
+4163    ev50970.gp2
+4164    ev50971.gp2
+4165    ev51001.gp2
+4166    ev51100.gp2
+4167    ev51110.gp2
+4168    ev51120.gp2
+4169    ev51170.gp2
+4170    ev51180.gp2
+4171    ev51201.gp2
+4172    ev51220.gp2
+4173    ev51230.gp2
+4174    ev51231.gp2
+4175    ev51270.gp2
+4176    ev51271.gp2
+4177    ev51341.gp2
+4178    ev51370.gp2
+4179    ev51380.gp2
+4180    ev51390.gp2
+4181    ev51391.gp2
+4182    ev51531.gp2
+4183    ev51571.gp2
+4184    ev51610.gp2
+4185    ev51611.gp2
+4186    ev51621.gp2
+4187    ev51630.gp2
+4188    ev51632.gp2
+4189    ev51681.gp2
+4190    ev51682.gp2
+4191    ev51701.gp2
+4192    ev51731.gp2
+4193    ev51732.gp2
+4194    ev51733.gp2
+4195    ev51734.gp2
+4196    ev53000.gp2
+4197    ev53010.gp2
+4198    ev53011.gp2
+4199    ev53020.gp2
+4200    ev53140.gp2
+4201    ev53150.gp2
+4202    ev53170.gp2
+4203    ev53171.gp2
+4204    ev53172.gp2
+4205    ev53173.gp2
+4206    ev53174.gp2
+4207    ev53175.gp2
+4208    ev53180.gp2
+4209    ev53181.gp2
+4210    ev53182.gp2
+4211    ev53183.gp2
+4212    ev53190.gp2
+4213    ev53211.gp2
+4214    ev53220.gp2
+4215    ev53230.gp2
+4216    ev53240.gp2
+4217    ev53250.gp2
+4218    ev53350.gp2
+4219    ev53360.gp2
+4220    ev53361.gp2
+4221    ev53370.gp2
+4222    ev53371.gp2
+4223    ev53383.gp2
+4224    ev53384.gp2
+4225    ev53385.gp2
+4226    ev53386.gp2
+4227    ev53390.gp2
+4228    ev53391.gp2
+4229    ev53392.gp2
+4230    ev53400.gp2
+4231    ev53401.gp2
+4232    ev53402.gp2
+4233    ev53410.gp2
+4234    ev53411.gp2
+4235    ev53412.gp2
+4236    eventbattle.bin
+4237    eventlist6.bin
+4238    evl_quest.bin
+4239    evl_quest_d.bin
+4240    evlist6_d.bin
+      event_lv5/
+4241    cam.chr
+4242    ev01000ac000.chr
+4243    ev01000ap000.chr
+4244    ev01000as019.chr
+4245    ev01000as023.chr
+4246    ev01000bc000.chr
+4247    ev01000bp000.chr
+4248    ev01000bs019.chr
+4249    ev01000bs023.chr
+4250    ev01000c000.chr
+4251    ev01000cc000.chr
+4252    ev01000cp000.chr
+4253    ev01000cs019.chr
+4254    ev01000cs023.chr
+4255    ev01000dc000.chr
+4256    ev01000dp000.chr
+4257    ev01000ds019.chr
+4258    ev01000ds023.chr
+4259    ev01000ec000.chr
+4260    ev01000p000.chr
+4261    ev01000s015.chr
+4262    ev01000s016.chr
+4263    ev01000s017.chr
+4264    ev01000s019.chr
+4265    ev01000s022.chr
+4266    ev01000s023.chr
+4267    ev01000s058.chr
+4268    ev01000s064.chr
+4269    ev01000s066.chr
+4270    ev01000s067.chr
+4271    ev01000s068.chr
+4272    ev01000s070.chr
+4273    ev01000s091.chr
+4274    ev01000s092.chr
+4275    ev01000s093.chr
+4276    ev01000s094.chr
+4277    ev01000s095.chr
+4278    ev01000z000a.chr
+4279    ev01000z000b.chr
+4280    ev01000z063a.chr
+4281    ev01000z063b.chr
+4282    ev01010np038.chr
+4283    ev01010np039.chr
+4284    ev01010np040.chr
+4285    ev01010np041.chr
+4286    ev01010p000.chr
+4287    ev01010s023.chr
+4288    ev01120p000.chr
+4289    ev01120s019.chr
+4290    ev01120s023.chr
+4291    ev01300s017.chr
+4292    ev01510p000.chr
+4293    ev01510s023.chr
+4294    ev02000b003a.chr
+4295    ev02010s016.chr
+4296    ev02010s024.chr
+4297    ev02010s025.chr
+4298    ev02010s028.chr
+4299    ev02100p000.chr
+4300    ev02330s025.chr
+4301    ev02550s025.chr
+4302    ev02600s016.chr
+4303    ev02600s025.chr
+4304    ev02610s016.chr
+4305    ev02610s025.chr
+4306    ev02700s016.chr
+4307    ev03000s006.chr
+4308    ev03040s003.chr
+4309    ev03040s004.chr
+4310    ev03060c000.chr
+4311    ev03060s002.chr
+4312    ev03060s009.chr
+4313    ev03060s011.chr
+4314    ev03080p000.chr
+4315    ev03080s000.chr
+4316    ev03090s005.chr
+4317    ev03120s006.chr
+4318    ev03120s007.chr
+4319    ev03140s000.chr
+4320    ev03160s000.chr
+4321    ev03160s008.chr
+4322    ev03170c000.chr
+4323    ev03170p000.chr
+4324    ev03170s008.chr
+4325    ev03210c000.chr
+4326    ev03210s000.chr
+4327    ev03210s003.chr
+4328    ev04000b006a.chr
+4329    ev04000s013.chr
+4330    ev04010p000.chr
+4331    ev04010s012.chr
+4332    ev04010s013.chr
+4333    ev04020c000.chr
+4334    ev04020s011.chr
+4335    ev04020s012.chr
+4336    ev04020s013.chr
+4337    ev04020s015.chr
+4338    ev04020s020.chr
+4339    ev04020s021.chr
+4340    ev04030s012.chr
+4341    ev04055s012.chr
+4342    ev04059b006a.chr
+4343    ev04059s012.chr
+4344    ev04060s012.chr
+4345    ev04060s013.chr
+4346    ev04060s013b.chr
+4347    ev04075s013.chr
+4348    ev04080p000.chr
+4349    ev04080s012.chr
+4350    ev04200s052.chr
+4351    ev05200s018.chr
+4352    ev05500c000.chr
+4353    ev05500c000a.chr
+4354    ev05500c000b.chr
+4355    ev05500c000c.chr
+4356    ev05500s015.chr
+4357    ev05500s015a.chr
+4358    ev05500s015b.chr
+4359    ev05500s015c.chr
+4360    ev05500s018.chr
+4361    ev05500s020.chr
+4362    ev05500s020a.chr
+4363    ev05500s020b.chr
+4364    ev05500s020c.chr
+4365    ev05500s021.chr
+4366    ev05500s021a.chr
+4367    ev05500s021b.chr
+4368    ev05500s021c.chr
+4369    ev05510p000.chr
+4370    ev05520c000.chr
+4371    ev05520p000.chr
+4372    ev05520s011.chr
+4373    ev05520s015.chr
+4374    ev05520s020.chr
+4375    ev05520s021.chr
+4376    ev06500b007a.chr
+4377    ev06500s100.chr
+4378    ev06510b007a.chr
+4379    ev06510p000.chr
+4380    ev06510s011.chr
+4381    ev06510s100.chr
+4382    ev07000s030b.chr
+4383    ev07300b008a.chr
+4384    ev07300s030.chr
+4385    ev07500b008a.chr
+4386    ev07500c000.chr
+4387    ev07500p000.chr
+4388    ev07500s011.chr
+4389    ev07500s030.chr
+4390    ev07500s038.chr
+4391    ev07510b008a.chr
+4392    ev07510c000.chr
+4393    ev07510p000.chr
+4394    ev07510s011.chr
+4395    ev07510s030.chr
+4396    ev07510s038.chr
+4397    ev07520b008a.chr
+4398    ev07520b008a1.chr
+4399    ev07520b008a2.chr
+4400    ev07520p000a.chr
+4401    ev07520p000b.chr
+4402    ev07520s011a.chr
+4403    ev07520s011b.chr
+4404    ev07520s030.chr
+4405    ev07520s038a.chr
+4406    ev07520s038a1.chr
+4407    ev07520s038a2.chr
+4408    ev07520s038a3.chr
+4409    ev07520s038b.chr
+4410    ev07520s039.chr
+4411    ev07520s039a.chr
+4412    ev07520s039b.chr
+4413    ev07520s039c.chr
+4414    ev07520s058a.chr
+4415    ev07520s058b.chr
+4416    ev08100s052.chr
+4417    ev08500b009a.chr
+4418    ev08500p000.chr
+4419    ev08500s011.chr
+4420    ev08500s083.chr
+4421    ev09000s044.chr
+4422    ev09130s043.chr
+4423    ev09330s043.chr
+4424    ev09330s044.chr
+4425    ev09340s044.chr
+4426    ev09450s044.chr
+4427    ev09500b010a.chr
+4428    ev09500p000.chr
+4429    ev09500s044.chr
+4430    ev10100s045.chr
+4431    ev10100s047.chr
+4432    ev10120s047.chr
+4433    ev10210s047.chr
+4434    ev10470s047.chr
+4435    ev10500b012a.chr
+4436    ev10500s045.chr
+4437    ev10500s045a.chr
+4438    ev10500s045b.chr
+4439    ev10500s046.chr
+4440    ev10500s046a.chr
+4441    ev10500s046b.chr
+4442    ev10500s047.chr
+4443    ev10500s047a.chr
+4444    ev10500s047b.chr
+4445    ev10500s047c.chr
+4446    ev10500s047d.chr
+4447    ev10500s072.chr
+4448    ev10500s072a.chr
+4449    ev10500s072b.chr
+4450    ev10500s072c.chr
+4451    ev10500s088.chr
+4452    ev10510b012a.chr
+4453    ev10510p000.chr
+4454    ev10520b012a.chr
+4455    ev10520p000.chr
+4456    ev10520s011.chr
+4457    ev10520s047.chr
+4458    ev10520s071.chr
+4459    ev10520s072.chr
+4460    ev10530s047.chr
+4461    ev10530s072.chr
+4462    ev10540s047.chr
+4463    ev10620s047.chr
+4464    ev10700s047.chr
+4465    ev1120p000.chr
+4466    ev1120s019.chr
+4467    ev1120s023.chr
+4468    ev11230s040.chr
+4469    ev11330b011a.chr
+4470    ev11330p000.chr
+4471    ev11330s040.chr
+4472    ev11330s041.chr
+4473    ev11400s040.chr
+4474    ev11560b011a.chr
+4475    ev11600b011a.chr
+4476    ev12310s049.chr
+4477    ev12320b013a.chr
+4478    ev12340b013a.chr
+4479    ev12340s049.chr
+4480    ev13000s059.chr
+4481    ev1300p000.chr
+4482    ev1300s023.chr
+4483    ev13300p000.chr
+4484    ev13310p000.chr
+4485    ev13310s059.chr
+4486    ev13400s059.chr
+4487    ev13500p000.chr
+4488    ev13500s011.chr
+4489    ev13500s019.chr
+4490    ev13510s022.chr
+4491    ev13510s055.chr
+4492    ev13510s087.chr
+4493    ev13510s145.chr
+4494    ev13510s146.chr
+4495    ev13520p000.chr
+4496    ev13520s011.chr
+4497    ev13520s019.chr
+4498    ev13520s055.chr
+4499    ev13520s075.chr
+4500    ev13520s087.chr
+4501    ev13540b017a.chr
+4502    ev13540c000.chr
+4503    ev13540p000.chr
+4504    ev13540s011.chr
+4505    ev13540s015.chr
+4506    ev13540s019.chr
+4507    ev13540s020.chr
+4508    ev13540s021.chr
+4509    ev13540s055.chr
+4510    ev13540s076.chr
+4511    ev13550p000.chr
+4512    ev13550s011.chr
+4513    ev13550s030.chr
+4514    ev13550s055.chr
+4515    ev13550s059.chr
+4516    ev13550s074.chr
+4517    ev13550s087.chr
+4518    ev13560p000.chr
+4519    ev13560s052.chr
+4520    ev13810s130.chr
+4521    ev14140b015a.chr
+4522    ev14220b017a.chr
+4523    ev14400b015a.chr
+4524    ev14400z056c.chr
+4525    ev14410b015a.chr
+4526    ev14500b015a.chr
+4527    ev14500b016a.chr
+4528    ev14500p000.chr
+4529    ev14500sb016a.chr
+4530    ev14500sp000.chr
+4531    ev14501b016a.chr
+4532    ev14510b021b.chr
+4533    ev14510c000.chr
+4534    ev14510p000.chr
+4535    ev14510s068.chr
+4536    ev14510s076.chr
+4537    ev14510s090.chr
+4538    ev14510z056a.chr
+4539    ev14511b021b.chr
+4540    ev14515b015a.chr
+4541    ev14515p000.chr
+4542    ev14520b021b.chr
+4543    ev14520c000.chr
+4544    ev14520c000b.chr
+4545    ev14520p000.chr
+4546    ev14520p000b.chr
+4547    ev14520z031a.chr
+4548    ev14520z031b.chr
+4549    ev14520z031c.chr
+4550    ev14540c000.chr
+4551    ev14540p000.chr
+4552    ev14540s015.chr
+4553    ev14540s020.chr
+4554    ev14540s021.chr
+4555    ev14540s051.chr
+4556    ev14540s076.chr
+4557    ev14550b015a.chr
+4558    ev14550s051.chr
+4559    ev14710s051.chr
+4560    ev14760b016a.chr
+4561    ev14760s132.chr
+4562    ev14900s051.chr
+4563    ev15110s104.chr
+4564    ev15320s018.chr
+4565    ev15500c000.chr
+4566    ev15500p000.chr
+4567    ev15500p000a.chr
+4568    ev15500p000b.chr
+4569    ev15500p000c.chr
+4570    ev15500s011.chr
+4571    ev15500s011a.chr
+4572    ev15500s011b.chr
+4573    ev15500s011c.chr
+4574    ev15500s015.chr
+4575    ev15500s018.chr
+4576    ev15500s018a.chr
+4577    ev15500s018b.chr
+4578    ev15500s020.chr
+4579    ev15500s021.chr
+4580    ev15500s051.chr
+4581    ev15500s051a.chr
+4582    ev15500s051b.chr
+4583    ev15500s051c.chr
+4584    ev15500s078.chr
+4585    ev15510p000.chr
+4586    ev15510s011.chr
+4587    ev15510s018.chr
+4588    ev15510s051.chr
+4589    ev15520p000.chr
+4590    ev15520s011.chr
+4591    ev15520s018.chr
+4592    ev15520s051.chr
+4593    ev15520s060.chr
+4594    ev15520s061.chr
+4595    ev15520s062.chr
+4596    ev15520s080.chr
+4597    ev15520s081.chr
+4598    ev15520s082.chr
+4599    ev16000s019.chr
+4600    ev16210b017a.chr
+4601    ev16250b018a.chr
+4602    ev16260b018a.chr
+4603    ev16420s057.chr
+4604    ev16420s087.chr
+4605    ev16500b017a.chr
+4606    ev16510z083c.chr
+4607    ev16520b019a.chr
+4608    ev16520b019a1.chr
+4609    ev16520b019a2.chr
+4610    ev16520b019a3.chr
+4611    ev16520s019.chr
+4612    ev16520s019a.chr
+4613    ev16520s019b.chr
+4614    ev16520s019c.chr
+4615    ev16530b020a.chr
+4616    ev16530p000.chr
+4617    ev16530s011.chr
+4618    ev16530s019.chr
+4619    ev16540s056.chr
+4620    ev16540s056a.chr
+4621    ev16540s076.chr
+4622    ev16540s107.chr
+4623    ev16550b018a.chr
+4624    ev17500p000.chr
+4625    ev17500s016.chr
+4626    ev17500s056.chr
+4627    ev17510p000.chr
+4628    ev17510s011.chr
+4629    ev17510s051.chr
+4630    ev17520b023a.chr
+4631    ev17520p000.chr
+4632    ev17520s056.chr
+4633    ev17520s076.chr
+4634    ev17530s142a.chr
+4635    ev17530s142b.chr
+4636    ev17540b023a.chr
+4637    ev18000b023a.chr
+4638    ev18000b023b.chr
+4639    ev18000b023c.chr
+4640    ev18000bs017.chr
+4641    ev18000bs022.chr
+4642    ev18000bs064.chr
+4643    ev18000c000.chr
+4644    ev18000c000c.chr
+4645    ev18000c000d.chr
+4646    ev18000c000x.chr
+4647    ev18000cs003.chr
+4648    ev18000cs004.chr
+4649    ev18000ds012.chr
+4650    ev18000fs100.chr
+4651    ev18000hs007.chr
+4652    ev18000is044.chr
+4653    ev18000ks030.chr
+4654    ev18000ks059.chr
+4655    ev18000p000.chr
+4656    ev18000p000a.chr
+4657    ev18000p000b.chr
+4658    ev18000p000c.chr
+4659    ev18000p000d.chr
+4660    ev18000s011a.chr
+4661    ev18000s011b.chr
+4662    ev18000s015a.chr
+4663    ev18000s015b.chr
+4664    ev18000s015c.chr
+4665    ev18000s015d.chr
+4666    ev18000s020.chr
+4667    ev18000s020b.chr
+4668    ev18000s020d.chr
+4669    ev18000s021a.chr
+4670    ev18000s021b.chr
+4671    ev18000s021c.chr
+4672    ev18000s021d.chr
+4673    ev18000s051a.chr
+4674    ev18000s051b.chr
+4675    ev18000s053a.chr
+4676    ev18000s053b.chr
+4677    ev18000s054.chr
+4678    ev18000s061a.chr
+4679    ev18000s061b.chr
+4680    ev18000s098.chr
+4681    ev18000s119.chr
+4682    ev18000s119b.chr
+4683    ev18000ss040.chr
+4684    ev18000ss041.chr
+4685    ev18000ts049.chr
+4686    ev19000b023a.chr
+4687    ev19010b024a.chr
+4688    ev19020b007a.chr
+4689    ev19030z056c.chr
+4690    ev19040b024a.chr
+4691    ev20010b008a.chr
+4692    ev20010p000.chr
+4693    ev20010s038.chr
+4694    ev20012b008a.chr
+4695    ev20013s038.chr
+4696    ev20014s051.chr
+4697    ev20780s003.chr
+4698    ev20780s131.chr
+4699    ev20821b007c.chr
+4700    ev20821s003.chr
+4701    ev20821s004.chr
+4702    ev20862b019b.chr
+4703    ev20920s004.chr
+4704    ev20920s016.chr
+4705    ev20970b024a.chr
+4706    ev20973b024a.chr
+4707    ev20973s087.chr
+4708    ev20974b024a.chr
+4709    ev21591p000.chr
+4710    ev21591s023.chr
+4711    ev21592c000.chr
+4712    ev21592p000.chr
+4713    ev21592s023.chr
+4714    ev21593p000.chr
+4715    ev21593s019.chr
+4716    ev21593s023.chr
+4717    ev21594p000.chr
+4718    ev21594s018.chr
+4719    ev21594s019.chr
+4720    ev21596p000.chr
+4721    ev21596s019.chr
+4722    ev21596s023.chr
+4723    ev22590s016.chr
+4724    ev22590s017.chr
+4725    ev22590s064.chr
+4726    ev22592s009.chr
+4727    ev22594p000.chr
+4728    ev22594s016.chr
+4729    ev22594s028.chr
+4730    ev23198s003.chr
+4731    ev23198s004.chr
+4732    ev23198s005.chr
+4733    ev24591b006a.chr
+4734    ev24591s012.chr
+4735    ev27590b008a.chr
+4736    ev28590p000m.chr
+4737    ev28590p000w.chr
+4738    ev28691s011.chr
+4739    ev28691s042.chr
+4740    ev28691s043.chr
+4741    ev28691s101.chr
+4742    ev28790s045.chr
+4743    ev28790s046.chr
+4744    ev28790s047.chr
+4745    ev28791p000.chr
+4746    ev28791s072.chr
+4747    ev29160b019a.chr
+4748    ev29160b020a.chr
+4749    ev29160c000.chr
+4750    ev29190s022.chr
+4751    ev29190s057.chr
+4752    ev29190s057b.chr
+4753    ev29190s087.chr
+4754    ev29190s087b.chr
+4755    ev29190s145.chr
+4756    ev29190s146.chr
+4757    ev29290p000.chr
+4758    ev29291s056b.chr
+4759    ev29291s190.chr
+4760    ev29291s191.chr
+4761    ev29401p000.chr
+4762    ev29401s011.chr
+4763    ev29405s003.chr
+4764    ev29405s004.chr
+4765    ev29408b024a.chr
+4766    ev29410b024a.chr
+4767    ev29411s054.chr
+4768    ev29413s019.chr
+4769    ev29501s015.chr
+4770    ev29501s021.chr
+4771    ev29507s015.chr
+4772    ev29507s021.chr
+4773    ev29509s015.chr
+4774    ev29509s021.chr
+4775    ev29510s015.chr
+4776    ev29510s021.chr
+4777    ev29515c000.chr
+4778    ev29515s015.chr
+4779    ev29515s021.chr
+4780    ev29518c000.chr
+4781    ev29518p000.chr
+4782    ev29518s015.chr
+4783    ev29518s021.chr
+4784    ev29519s203.chr
+4785    ev29519s204.chr
+4786    ev29540b008a.chr
+4787    ev29540p000.chr
+4788    ev29540s038.chr
+4789    ev29547s053b.chr
+4790    ev29547s183.chr
+4791    ev29690b011a.chr
+4792    ev29690p000.chr
+4793    ev29690s040.chr
+4794    ev29690s041.chr
+4795    ev29690s263.chr
+4796    ev29691b011a.chr
+4797    ev4160s012.chr
+4798    ev51390z074a.chr
+4799    ev51632z052d.chr
+4800    ev53371s016.chr
+4801    ev7300s038.chr
+4802    ev7700p000.chr
+4803    ev9450s043.chr
+4804    inevent.gp2
+4805    inevent.pac
+      evspt_lv5/
+4806    ev21500.gp2
+4807    ev21507.gp2
+4808    ev21510.gp2
+4809    ev21520.gp2
+4810    ev21521.gp2
+4811    ev21522.gp2
+4812    ev21591.gp2
+4813    ev21592.gp2
+4814    ev21593.gp2
+4815    ev21594.gp2
+4816    ev21595.gp2
+4817    ev21596.gp2
+4818    ev21597.gp2
+4819    ev22500.gp2
+4820    ev22510.gp2
+4821    ev22590.gp2
+4822    ev22591.gp2
+4823    ev22592.gp2
+4824    ev22593.gp2
+4825    ev22594.gp2
+4826    ev22595.gp2
+4827    ev23170.gp2
+4828    ev23189.gp2
+4829    ev23190.gp2
+4830    ev23191.gp2
+4831    ev23192.gp2
+4832    ev23193.gp2
+4833    ev23194.gp2
+4834    ev23195.gp2
+4835    ev23196.gp2
+4836    ev23197.gp2
+4837    ev23198.gp2
+4838    ev23199.gp2
+4839    ev24170.gp2
+4840    ev24500.gp2
+4841    ev24510.gp2
+4842    ev24590.gp2
+4843    ev24591.gp2
+4844    ev24592.gp2
+4845    ev24593.gp2
+4846    ev24594.gp2
+4847    ev24595.gp2
+4848    ev24596.gp2
+4849    ev24597.gp2
+4850    ev24598.gp2
+4851    ev24599.gp2
+4852    ev25500.gp2
+4853    ev25510.gp2
+4854    ev25520.gp2
+4855    ev25523.gp2
+4856    ev25524.gp2
+4857    ev25590.gp2
+4858    ev26500.gp2
+4859    ev26510.gp2
+4860    ev26590.gp2
+4861    ev27500.gp2
+4862    ev27510.gp2
+4863    ev27520.gp2
+4864    ev27521.gp2
+4865    ev27590.gp2
+4866    ev28500.gp2
+4867    ev28590.gp2
+4868    ev28600.gp2
+4869    ev28690.gp2
+4870    ev28691.gp2
+4871    ev28693.gp2
+4872    ev28694.gp2
+4873    ev28695.gp2
+4874    ev28700.gp2
+4875    ev28710.gp2
+4876    ev28720.gp2
+4877    ev28790.gp2
+4878    ev28791.gp2
+4879    ev28792.gp2
+4880    ev28793.gp2
+4881    ev28800.gp2
+4882    ev28810.gp2
+4883    ev28820.gp2
+4884    ev28830.gp2
+4885    ev28890.gp2
+4886    ev28891.gp2
+4887    ev28892.gp2
+4888    ev28900.gp2
+4889    ev28910.gp2
+4890    ev28911.gp2
+4891    ev28920.gp2
+4892    ev28940.gp2
+4893    ev28941.gp2
+4894    ev28991.gp2
+4895    ev29000.gp2
+4896    ev29004.gp2
+4897    ev29010.gp2
+4898    ev29020.gp2
+4899    ev29021.gp2
+4900    ev29022.gp2
+4901    ev29090.gp2
+4902    ev29100.gp2
+4903    ev29110.gp2
+4904    ev29120.gp2
+4905    ev29130.gp2
+4906    ev29140.gp2
+4907    ev29146.gp2
+4908    ev29150.gp2
+4909    ev29160.gp2
+4910    ev29190.gp2
+4911    ev29200.gp2
+4912    ev29201.gp2
+4913    ev29203.gp2
+4914    ev29210.gp2
+4915    ev29220.gp2
+4916    ev29230.gp2
+4917    ev29290.gp2
+4918    ev29291.gp2
+4919    ev29300.gp2
+4920    ev29301.gp2
+4921    ev29302.gp2
+4922    ev29303.gp2
+4923    ev29304.gp2
+4924    ev29305.gp2
+4925    ev29306.gp2
+4926    ev29310.gp2
+4927    ev29320.gp2
+4928    ev29350.gp2
+4929    ev29352.gp2
+4930    ev29355.gp2
+4931    ev29360.gp2
+4932    ev29362.gp2
+4933    ev29365.gp2
+4934    ev29367.gp2
+4935    ev29371.gp2
+4936    ev29373.gp2
+4937    ev29400.gp2
+4938    ev29401.gp2
+4939    ev29402.gp2
+4940    ev29403.gp2
+4941    ev29404.gp2
+4942    ev29405.gp2
+4943    ev29406.gp2
+4944    ev29407.gp2
+4945    ev29408.gp2
+4946    ev29409.gp2
+4947    ev29410.gp2
+4948    ev29411.gp2
+4949    ev29412.gp2
+4950    ev29413.gp2
+4951    ev29414.gp2
+4952    ev29450.gp2
+4953    ev29500.gp2
+4954    ev29501.gp2
+4955    ev29503.gp2
+4956    ev29504.gp2
+4957    ev29506.gp2
+4958    ev29507.gp2
+4959    ev29509.gp2
+4960    ev29510.gp2
+4961    ev29512.gp2
+4962    ev29513.gp2
+4963    ev29515.gp2
+4964    ev29516.gp2
+4965    ev29517.gp2
+4966    ev29690.gp2
+4967    ev29691.gp2
+4968    ev29790.gp2
+4969    ev29791.gp2
+4970    eventlist_lv5.bin
+4971    evlist_lv5_d.bin
+4972    evluida.gp2
+4973    staffroll.bin
+      map/
+4974    ats_B.ambl
+4975    ats_C.ambl
+4976    ats_D.ambl
+4977    ats_E.ambl
+4978    ats_F.ambl
+4979    ats_H.ambl
+4980    ats_K.ambl
+4981    ats_M.ambl
+4982    ats_O.ambl
+4983    ats_R.ambl
+4984    ats_S.ambl
+4985    ats_T.ambl
+4986    ats_X.ambl
+4987    ats_Z.ambl
+4988    B01M05.ambl
+4989    B01M05.amdj
+4990    B01M06.ambl
+4991    B01M06.amdj
+4992    B01M07.ambl
+4993    B01M07.amdj
+4994    B01M08.ambl
+4995    B01M08.amdj
+4996    B01M09.ambl
+4997    B01M09.amdj
+4998    B01M10.ambl
+4999    B01M10.amdj
+5000    B01M11.ambl
+5001    B01M11.amdj
+5002    B01M12.ambl
+5003    B01M12.amdj
+5004    B01M13.ambl
+5005    B01M13.amdj
+5006    B01M14.ambl
+5007    B01M14.amdj
+5008    B01M15.ambl
+5009    B01M15.amdj
+5010    B01M16.ambl
+5011    B01M16.amdj
+5012    B01M17.ambl
+5013    B01M17.amdj
+5014    B01M22.ambl
+5015    B01M22.amdj
+5016    B01M23.ambl
+5017    B01M23.amdj
+5018    B01M24.ambl
+5019    B01M24.amdj
+5020    B01M25.ambl
+5021    B01M25.amdj
+5022    B01M26.ambl
+5023    B01M26.amdj
+5024    B01M27.ambl
+5025    B01M27.amdj
+5026    B01M28.ambl
+5027    B01M28.amdj
+5028    B01M29.ambl
+5029    B01M29.amdj
+5030    B01M30.ambl
+5031    B01M30.amdj
+5032    B01M31.ambl
+5033    B01M31.amdj
+5034    B01M32.ambl
+5035    B01M32.amdj
+5036    B01M33.ambl
+5037    B01M33.amdj
+5038    B01M34.ambl
+5039    B01M34.amdj
+5040    B01M35.ambl
+5041    B01M35.amdj
+5042    B01M36.ambl
+5043    B01M36.amdj
+5044    B01M37.ambl
+5045    B01M37.amdj
+5046    B01M38.ambl
+5047    B01M38.amdj
+5048    B01M39.ambl
+5049    B01M39.amdj
+5050    B01M40.ambl
+5051    B01M40.amdj
+5052    B01M41.ambl
+5053    B01M41.amdj
+5054    B01M42.ambl
+5055    B01M42.amdj
+5056    B01M43.ambl
+5057    B01M43.amdj
+5058    B01M44.ambl
+5059    B01M44.amdj
+5060    B01M45.ambl
+5061    B01M45.amdj
+5062    B01M46.ambl
+5063    B01M46.amdj
+5064    B01M47.ambl
+5065    B01M47.amdj
+5066    B01M48.ambl
+5067    B01M48.amdj
+5068    B01M49.ambl
+5069    B01M49.amdj
+5070    B01M50.ambl
+5071    B01M50.amdj
+5072    B01M51.ambl
+5073    B01M51.amdj
+5074    B01M52.ambl
+5075    B01M52.amdj
+5076    B01M53.ambl
+5077    B01M53.amdj
+5078    B01M54.ambl
+5079    B01M54.amdj
+5080    B01M55.ambl
+5081    B01M55.amdj
+5082    B01M56.ambl
+5083    B01M56.amdj
+5084    B01M57.ambl
+5085    B01M57.amdj
+5086    B01M58.ambl
+5087    B01M58.amdj
+5088    B01M59.ambl
+5089    B01M59.amdj
+5090    B01M60.ambl
+5091    B01M60.amdj
+5092    B01M61.ambl
+5093    B01M61.amdj
+5094    B01M62.ambl
+5095    B01M62.amdj
+5096    B01M63.ambl
+5097    B01M63.amdj
+5098    B01M64.ambl
+5099    B01M64.amdj
+5100    B01M65.ambl
+5101    B01M65.amdj
+5102    B01M66.ambl
+5103    B01M66.amdj
+5104    B01M67.ambl
+5105    B01M67.amdj
+5106    B01M68.ambl
+5107    B01M68.amdj
+5108    B01M69.ambl
+5109    B01M69.amdj
+5110    B01M70.ambl
+5111    B01M70.amdj
+5112    B01M71.ambl
+5113    B01M71.amdj
+5114    B01M72.ambl
+5115    B01M72.amdj
+5116    B01M73.ambl
+5117    B01M73.amdj
+5118    B01M74.ambl
+5119    B01M74.amdj
+5120    B01M75.ambl
+5121    B01M75.amdj
+5122    B01M77.ambl
+5123    B01M77.amdj
+5124    B01M78.ambl
+5125    B01M78.amdj
+5126    B01M79.ambl
+5127    B01M79.amdj
+5128    B01M80.ambl
+5129    B01M80.amdj
+5130    B01M88.ambl
+5131    B01M88.amdj
+5132    B02M01.ambl
+5133    B02M01.amdj
+5134    B02M02.ambl
+5135    B02M02.amdj
+5136    B02M03.ambl
+5137    B02M03.amdj
+5138    B02M04.ambl
+5139    B02M04.amdj
+5140    B02M05.ambl
+5141    B02M05.amdj
+5142    B02M06.ambl
+5143    B02M06.amdj
+5144    B02M07.ambl
+5145    B02M07.amdj
+5146    B02M08.ambl
+5147    B02M08.amdj
+5148    B02M09.ambl
+5149    B02M09.amdj
+5150    B02M10.ambl
+5151    B02M10.amdj
+5152    B02M11.ambl
+5153    B02M11.amdj
+5154    B02M12.ambl
+5155    B02M12.amdj
+5156    B02M13.ambl
+5157    B02M13.amdj
+5158    B02M14.ambl
+5159    B02M14.amdj
+5160    B02M15.ambl
+5161    B02M15.amdj
+5162    B02M16.ambl
+5163    B02M16.amdj
+5164    B02M17.ambl
+5165    B02M17.amdj
+5166    B02M18.ambl
+5167    B02M18.amdj
+5168    B02M20.ambl
+5169    B02M20.amdj
+5170    B02M21.ambl
+5171    B02M21.amdj
+5172    B02M23.ambl
+5173    B02M23.amdj
+5174    B02M24.ambl
+5175    B02M24.amdj
+5176    B02M25.ambl
+5177    B02M25.amdj
+5178    B02M26.ambl
+5179    B02M26.amdj
+5180    B02M27.ambl
+5181    B02M27.amdj
+5182    B02M28.ambl
+5183    B02M28.amdj
+5184    B02M30.ambl
+5185    B02M30.amdj
+5186    B02M31.ambl
+5187    B02M31.amdj
+5188    B02M32.ambl
+5189    B02M32.amdj
+5190    B02M33.ambl
+5191    B02M33.amdj
+5192    B02M34.ambl
+5193    B02M34.amdj
+5194    B02M35.ambl
+5195    B02M35.amdj
+5196    B02M36.ambl
+5197    B02M36.amdj
+5198    B02M37.ambl
+5199    B02M37.amdj
+5200    B02M38.ambl
+5201    B02M38.amdj
+5202    B02M39.ambl
+5203    B02M39.amdj
+5204    B03M01.ambl
+5205    B03M01.amdj
+5206    B03M02.ambl
+5207    B03M02.amdj
+5208    B03M03.ambl
+5209    B03M03.amdj
+5210    B03M04.ambl
+5211    B03M04.amdj
+5212    B03M05.ambl
+5213    B03M05.amdj
+5214    B04M01.ambl
+5215    B04M01.amdj
+5216    B04M02.ambl
+5217    B04M02.amdj
+5218    B04M03.ambl
+5219    B04M03.amdj
+5220    B04M04.ambl
+5221    B04M04.amdj
+5222    B04M05.ambl
+5223    B04M05.amdj
+5224    B04M06.ambl
+5225    B04M06.amdj
+5226    B04M07.ambl
+5227    B04M07.amdj
+5228    B04M08.ambl
+5229    B04M08.amdj
+5230    B04M09.ambl
+5231    B04M09.amdj
+5232    B04M10.ambl
+5233    B04M10.amdj
+5234    B05M01.ambl
+5235    B05M01.amdj
+5236    B05M02.ambl
+5237    B05M02.amdj
+5238    B05M03.ambl
+5239    B05M03.amdj
+5240    B05M05.ambl
+5241    B05M05.amdj
+5242    B05M06.ambl
+5243    B05M06.amdj
+5244    B05M07.ambl
+5245    B05M07.amdj
+5246    B06M01.ambl
+5247    B06M01.amdj
+5248    B06M02.ambl
+5249    B06M02.amdj
+5250    B06M03.ambl
+5251    B06M03.amdj
+5252    B06M04.ambl
+5253    B06M04.amdj
+5254    B06M05.ambl
+5255    B06M05.amdj
+5256    B06M06.ambl
+5257    B06M06.amdj
+5258    B06M07.ambl
+5259    B06M07.amdj
+5260    B06M08.ambl
+5261    B06M08.amdj
+5262    B06M09.ambl
+5263    B06M09.amdj
+5264    B06M10.ambl
+5265    B06M10.amdj
+5266    B06M11.ambl
+5267    B06M11.amdj
+5268    B07M01.ambl
+5269    B07M01.amdj
+5270    B07M02.ambl
+5271    B07M02.amdj
+5272    B07M03.ambl
+5273    B07M03.amdj
+5274    B07M04.ambl
+5275    B07M04.amdj
+5276    B07M05.ambl
+5277    B07M05.amdj
+5278    B07M06.ambl
+5279    B07M06.amdj
+5280    B07M07.ambl
+5281    B07M07.amdj
+5282    B07M08.ambl
+5283    B07M08.amdj
+5284    B07M09.ambl
+5285    B07M09.amdj
+5286    B07M10.ambl
+5287    B07M10.amdj
+5288    B07M11.ambl
+5289    B07M11.amdj
+5290    B08M01.ambl
+5291    B08M01.amdj
+5292    B08M02.ambl
+5293    B08M02.amdj
+5294    B08M03.ambl
+5295    B08M03.amdj
+5296    B08M04.ambl
+5297    B08M04.amdj
+5298    B08M05.ambl
+5299    B08M05.amdj
+5300    B08M06.ambl
+5301    B08M06.amdj
+5302    B08M07.ambl
+5303    B08M07.amdj
+5304    B08M08.ambl
+5305    B08M08.amdj
+5306    B08M09.ambl
+5307    B08M09.amdj
+5308    B08M10.ambl
+5309    B08M10.amdj
+5310    B08M11.ambl
+5311    B08M11.amdj
+5312    B08M12.ambl
+5313    B08M12.amdj
+5314    B08M13.ambl
+5315    B08M13.amdj
+5316    B08M15.ambl
+5317    B08M15.amdj
+5318    B08M16.ambl
+5319    B08M16.amdj
+5320    B08M17.ambl
+5321    B08M17.amdj
+5322    B08M18.ambl
+5323    B08M18.amdj
+5324    B09M01.ambl
+5325    B09M01.amdj
+5326    B09M02.ambl
+5327    B09M02.amdj
+5328    B09M03.ambl
+5329    B09M03.amdj
+5330    B10M01.ambl
+5331    B10M01.amdj
+5332    B10M02.ambl
+5333    B10M02.amdj
+5334    B99M01.ambl
+5335    B99M01.amdj
+5336    C01.ambl
+5337    C01.amdj
+5338    C01I00.chr
+5339    C01M03.ambl
+5340    C01M03.amdj
+5341    C01M04.ambl
+5342    C01M04.amdj
+5343    C01M05.ambl
+5344    C01M05.amdj
+5345    C01M06.ambl
+5346    C01M06.amdj
+5347    C01M07.ambl
+5348    C01M07.amdj
+5349    C01M08.ambl
+5350    C01M08.amdj
+5351    C01M09.ambl
+5352    C01M09.amdj
+5353    C01M10.ambl
+5354    C01M10.amdj
+5355    C01M12.ambl
+5356    C01M12.amdj
+5357    C01M14.ambl
+5358    C01M14.amdj
+5359    C01M15.ambl
+5360    C01M15.amdj
+5361    C01M16.ambl
+5362    C01M16.amdj
+5363    C01M17.ambl
+5364    C01M17.amdj
+5365    C01M18.ambl
+5366    C01M18.amdj
+5367    C01M19.ambl
+5368    C01M19.amdj
+5369    C01M20.ambl
+5370    C01M20.amdj
+5371    C01M21.ambl
+5372    C01M21.amdj
+5373    C01M23.ambl
+5374    C01M23.amdj
+5375    C01M24.ambl
+5376    C01M24.amdj
+5377    C01M25.ambl
+5378    C01M25.amdj
+5379    C01M98.ambl
+5380    C01M98.amdj
+5381    C02.ambl
+5382    C02.amdj
+5383    C02I00.chr
+5384    C02M01.ambl
+5385    C02M01.amdj
+5386    C02M02.ambl
+5387    C02M02.amdj
+5388    C02M03.ambl
+5389    C02M03.amdj
+5390    C02M04.ambl
+5391    C02M04.amdj
+5392    C02M05.ambl
+5393    C02M05.amdj
+5394    C02M06.ambl
+5395    C02M06.amdj
+5396    C02M07.ambl
+5397    C02M07.amdj
+5398    C02M08.ambl
+5399    C02M08.amdj
+5400    C02M09.ambl
+5401    C02M09.amdj
+5402    C02M10.ambl
+5403    C02M10.amdj
+5404    C02M11.ambl
+5405    C02M11.amdj
+5406    C02M12.ambl
+5407    C02M12.amdj
+5408    C02M13.ambl
+5409    C02M13.amdj
+5410    C02M14.ambl
+5411    C02M14.amdj
+5412    C02M15.ambl
+5413    C02M15.amdj
+5414    C02M16.ambl
+5415    C02M16.amdj
+5416    C02M19.ambl
+5417    C02M19.amdj
+5418    C04.ambl
+5419    C04.amdj
+5420    C04I00.chr
+5421    C04M01.ambl
+5422    C04M01.amdj
+5423    C04M02.ambl
+5424    C04M02.amdj
+5425    C04M03.ambl
+5426    C04M03.amdj
+5427    C04M04.ambl
+5428    C04M04.amdj
+5429    C04M05.ambl
+5430    C04M05.amdj
+5431    C04M06.ambl
+5432    C04M06.amdj
+5433    C04M07.ambl
+5434    C04M07.amdj
+5435    C04M08.ambl
+5436    C04M08.amdj
+5437    C04M09.ambl
+5438    C04M09.amdj
+5439    C04M10.ambl
+5440    C04M10.amdj
+5441    D01.ambl
+5442    D01.amdj
+5443    D01M01.ambl
+5444    D01M01.amdj
+5445    D01M02.ambl
+5446    D01M02.amdj
+5447    D01M03.ambl
+5448    D01M03.amdj
+5449    D01M04.ambl
+5450    D01M04.amdj
+5451    D01M05.ambl
+5452    D01M05.amdj
+5453    D03M01.ambl
+5454    D03M01.amdj
+5455    D03M02.ambl
+5456    D03M02.amdj
+5457    D03M03.ambl
+5458    D03M03.amdj
+5459    D03M04.ambl
+5460    D03M04.amdj
+5461    D03M05.ambl
+5462    D03M05.amdj
+5463    D03M06.ambl
+5464    D03M06.amdj
+5465    D03M07.ambl
+5466    D03M07.amdj
+5467    D04.ambl
+5468    D04.amdj
+5469    D04M01.ambl
+5470    D04M01.amdj
+5471    D04M02.ambl
+5472    D04M02.amdj
+5473    D04M02E1.mse
+5474    D04M03.ambl
+5475    D04M03.amdj
+5476    D06M01.ambl
+5477    D06M01.amdj
+5478    D06M02.ambl
+5479    D06M02.amdj
+5480    D06M03.ambl
+5481    D06M03.amdj
+5482    D06M04.ambl
+5483    D06M04.amdj
+5484    D06M05.ambl
+5485    D06M05.amdj
+5486    D07.ambl
+5487    D07.amdj
+5488    D07M01.ambl
+5489    D07M01.amdj
+5490    D07M02.ambl
+5491    D07M02.amdj
+5492    D07M03.ambl
+5493    D07M03.amdj
+5494    D07M04.ambl
+5495    D07M04.amdj
+5496    D07M05.ambl
+5497    D07M05.amdj
+5498    D07M06.ambl
+5499    D07M06.amdj
+5500    D07M07.ambl
+5501    D07M07.amdj
+5502    D07M08.ambl
+5503    D07M08.amdj
+5504    D07M09.ambl
+5505    D07M09.amdj
+5506    D08M02.ambl
+5507    D08M02.amdj
+5508    D08M03.ambl
+5509    D08M03.amdj
+5510    D08M04.ambl
+5511    D08M04.amdj
+5512    D08M05.ambl
+5513    D08M05.amdj
+5514    D08M06.ambl
+5515    D08M06.amdj
+5516    D08M07.ambl
+5517    D08M07.amdj
+5518    D08M08.ambl
+5519    D08M08.amdj
+5520    D08M09.ambl
+5521    D08M09.amdj
+5522    D09.ambl
+5523    D09.amdj
+5524    D09M01.ambl
+5525    D09M01.amdj
+5526    D09M02.ambl
+5527    D09M02.amdj
+5528    D09M03.ambl
+5529    D09M03.amdj
+5530    D09M04.ambl
+5531    D09M04.amdj
+5532    D09M05.ambl
+5533    D09M05.amdj
+5534    D09M06.ambl
+5535    D09M06.amdj
+5536    D12I00.chr
+5537    D12M01.ambl
+5538    D12M01.amdj
+5539    D12M02.ambl
+5540    D12M02.amdj
+5541    D12M03.ambl
+5542    D12M03.amdj
+5543    D12M04.ambl
+5544    D12M04.amdj
+5545    D12M05.ambl
+5546    D12M05.amdj
+5547    D12M06.ambl
+5548    D12M06.amdj
+5549    D12M07.ambl
+5550    D12M07.amdj
+5551    D12M08.ambl
+5552    D12M08.amdj
+5553    D13M01.ambl
+5554    D13M01.amdj
+5555    D13M02.ambl
+5556    D13M02.amdj
+5557    D13M03.ambl
+5558    D13M03.amdj
+5559    D14.ambl
+5560    D14.amdj
+5561    D14M01.ambl
+5562    D14M01.amdj
+5563    D14M02.ambl
+5564    D14M02.amdj
+5565    D14M03.ambl
+5566    D14M03.amdj
+5567    D14M04.ambl
+5568    D14M04.amdj
+5569    D14M05.ambl
+5570    D14M05.amdj
+5571    D14M06.ambl
+5572    D14M06.amdj
+5573    D14M07.ambl
+5574    D14M07.amdj
+5575    D16M02.ambl
+5576    D16M02.amdj
+5577    D16M03.ambl
+5578    D16M03.amdj
+5579    D16M04.ambl
+5580    D16M04.amdj
+5581    D16M05.ambl
+5582    D16M05.amdj
+5583    D16M06.ambl
+5584    D16M06.amdj
+5585    D16M07.ambl
+5586    D16M07.amdj
+5587    D16M08.ambl
+5588    D16M08.amdj
+5589    D16M09.ambl
+5590    D16M09.amdj
+5591    D16M10.ambl
+5592    D16M10.amdj
+5593    D16M11.ambl
+5594    D16M11.amdj
+5595    D16M12.ambl
+5596    D16M12.amdj
+5597    D16M13.ambl
+5598    D16M13.amdj
+5599    D17M01.ambl
+5600    D17M01.amdj
+5601    D17M02.ambl
+5602    D17M02.amdj
+5603    D17M03.ambl
+5604    D17M03.amdj
+5605    D17M04.ambl
+5606    D17M04.amdj
+5607    D17M05.ambl
+5608    D17M05.amdj
+5609    D17M06.ambl
+5610    D17M06.amdj
+5611    D17M07.ambl
+5612    D17M07.amdj
+5613    E01M01.ambl
+5614    E01M01.amdj
+5615    E01M02.ambl
+5616    E01M02.amdj
+5617    E01M03.ambl
+5618    E01M03.amdj
+5619    E01M04.ambl
+5620    E01M04.amdj
+5621    E01M05.ambl
+5622    E01M05.amdj
+5623    E01M06.ambl
+5624    E01M06.amdj
+5625    E01M07.ambl
+5626    E01M07.amdj
+5627    E01M08.ambl
+5628    E01M08.amdj
+5629    E01M10.ambl
+5630    E01M10.amdj
+5631    E01M11.ambl
+5632    E01M11.amdj
+5633    F01.ambl
+5634    F01.amdj
+5635    F01M01.ambl
+5636    F01M01.amdj
+5637    F01M02.ambl
+5638    F01M02.amdj
+5639    F02.ambl
+5640    F02.amdj
+5641    F03.ambl
+5642    F03.amdj
+5643    F04.ambl
+5644    F04.amdj
+5645    F05.ambl
+5646    F05.amdj
+5647    F06.ambl
+5648    F06.amdj
+5649    F07.ambl
+5650    F07.amdj
+5651    F07M02.ambl
+5652    F07M02.amdj
+5653    F09.ambl
+5654    F09.amdj
+5655    F10.ambl
+5656    F10.amdj
+5657    F10M01.ambl
+5658    F10M01.amdj
+5659    F11.ambl
+5660    F11.amdj
+5661    F12.ambl
+5662    F12.amdj
+5663    F15.ambl
+5664    F15.amdj
+5665    F16.ambl
+5666    F16.amdj
+5667    F17.ambl
+5668    F17.amdj
+5669    F17E1.mse
+5670    F18.ambl
+5671    F18.amdj
+5672    F18E1.mse
+5673    F19.ambl
+5674    F19.amdj
+5675    F19E1.mse
+5676    F20.ambl
+5677    F20.amdj
+5678    F20M00E1.mse
+5679    F21.ambl
+5680    F21.amdj
+5681    F22.ambl
+5682    F22.amdj
+5683    F23.ambl
+5684    F23.amdj
+5685    F24.ambl
+5686    F24.amdj
+5687    F25.ambl
+5688    F25.amdj
+5689    F26.ambl
+5690    F26.amdj
+5691    F27.ambl
+5692    F27.amdj
+5693    F28.ambl
+5694    F28.amdj
+5695    F29.ambl
+5696    F29.amdj
+5697    F30.ambl
+5698    F30.amdj
+5699    F32.ambl
+5700    F32.amdj
+5701    F33.ambl
+5702    F33.amdj
+5703    F34.ambl
+5704    F34.amdj
+5705    F34M01.ambl
+5706    F34M01.amdj
+5707    F38.ambl
+5708    F38.amdj
+5709    F39.ambl
+5710    F39.amdj
+5711    F39E1.mse
+5712    F40.ambl
+5713    F40.amdj
+5714    F41.ambl
+5715    F41.amdj
+5716    F42.ambl
+5717    F42.amdj
+5718    F43.ambl
+5719    F43.amdj
+5720    F44.ambl
+5721    F44.amdj
+5722    F45.ambl
+5723    F45.amdj
+5724    F46.ambl
+5725    F46.amdj
+5726    F47.ambl
+5727    F47.amdj
+5728    F48.ambl
+5729    F48.amdj
+5730    F48E1.mse
+5731    F49.ambl
+5732    F49.amdj
+5733    F50.ambl
+5734    F50.amdj
+5735    F51.ambl
+5736    F51.amdj
+5737    F52.ambl
+5738    F52.amdj
+5739    F53.ambl
+5740    F53.amdj
+5741    F54.ambl
+5742    F54.amdj
+5743    F55.ambl
+5744    F55.amdj
+5745    F56.ambl
+5746    F56.amdj
+5747    F57.ambl
+5748    F57.amdj
+5749    F58.ambl
+5750    F58.amdj
+5751    F59.ambl
+5752    F59.amdj
+5753    F60.ambl
+5754    F60.amdj
+5755    F61.ambl
+5756    F61.amdj
+5757    F62.ambl
+5758    F62.amdj
+5759    F63.ambl
+5760    F63.amdj
+5761    F99.ambl
+5762    F99.amdj
+5763    F99M01.ambl
+5764    F99M01.amdj
+5765    F99M02.ambl
+5766    F99M02.amdj
+5767    H01.ambl
+5768    H01.amdj
+5769    H02.ambl
+5770    H02.amdj
+5771    H03.ambl
+5772    H03.amdj
+5773    H04.ambl
+5774    H04.amdj
+5775    H05.ambl
+5776    H05.amdj
+5777    H06.ambl
+5778    H06.amdj
+5779    H07.ambl
+5780    H07.amdj
+5781    H08.ambl
+5782    H08.amdj
+5783    H09.ambl
+5784    H09.amdj
+5785    H10.ambl
+5786    H10.amdj
+5787    H11.ambl
+5788    H11.amdj
+5789    H12.ambl
+5790    H12.amdj
+5791    H12E1.mse
+5792    H13.ambl
+5793    H13.amdj
+5794    H14.ambl
+5795    H14.amdj
+5796    H15.ambl
+5797    H15.amdj
+5798    H16.ambl
+5799    H16.amdj
+5800    H17.ambl
+5801    H17.amdj
+5802    H18.ambl
+5803    H18.amdj
+5804    H19.ambl
+5805    H19.amdj
+5806    H20.ambl
+5807    H20.amdj
+5808    ineventdata3.bin
+5809    loola.gp2
+5810    M01.ambl
+5811    M01.amdj
+5812    M01I00.chr
+5813    M01M01.ambl
+5814    M01M01.amdj
+5815    M01M02.ambl
+5816    M01M02.amdj
+5817    M01M03.ambl
+5818    M01M03.amdj
+5819    M01M04.ambl
+5820    M01M04.amdj
+5821    M01M05.ambl
+5822    M01M05.amdj
+5823    M01M06.ambl
+5824    M01M06.amdj
+5825    M01M07.ambl
+5826    M01M07.amdj
+5827    M01M08.ambl
+5828    M01M08.amdj
+5829    M01M09.ambl
+5830    M01M09.amdj
+5831    M01M10.ambl
+5832    M01M10.amdj
+5833    M01M12.ambl
+5834    M01M12.amdj
+5835    M02.ambl
+5836    M02.amdj
+5837    M02I00.chr
+5838    M02M01.ambl
+5839    M02M01.amdj
+5840    M02M02.ambl
+5841    M02M02.amdj
+5842    M02M03.ambl
+5843    M02M03.amdj
+5844    M02M04.ambl
+5845    M02M04.amdj
+5846    M02M05.ambl
+5847    M02M05.amdj
+5848    M02M06.ambl
+5849    M02M06.amdj
+5850    M02M07.ambl
+5851    M02M07.amdj
+5852    M03.ambl
+5853    M03.amdj
+5854    M03I00.chr
+5855    M03M01.ambl
+5856    M03M01.amdj
+5857    M03M02.ambl
+5858    M03M02.amdj
+5859    M03M03.ambl
+5860    M03M03.amdj
+5861    M03M04.ambl
+5862    M03M04.amdj
+5863    m03m05.ambl
+5864    m03m05.amdj
+5865    M03M06.ambl
+5866    M03M06.amdj
+5867    M03M07.ambl
+5868    M03M07.amdj
+5869    M03M08.ambl
+5870    M03M08.amdj
+5871    M03M09.ambl
+5872    M03M09.amdj
+5873    M03M10.ambl
+5874    M03M10.amdj
+5875    M03M11.ambl
+5876    M03M11.amdj
+5877    M03M12.ambl
+5878    M03M12.amdj
+5879    M03M13.ambl
+5880    M03M13.amdj
+5881    M05.ambl
+5882    M05.amdj
+5883    M05I00.chr
+5884    M05M01.ambl
+5885    M05M01.amdj
+5886    M05M02.ambl
+5887    M05M02.amdj
+5888    M05M03.ambl
+5889    M05M03.amdj
+5890    M05M04.ambl
+5891    M05M04.amdj
+5892    M05M05.ambl
+5893    M05M05.amdj
+5894    M05M06.ambl
+5895    M05M06.amdj
+5896    M07.ambl
+5897    M07.amdj
+5898    M07I00.chr
+5899    M07M01.ambl
+5900    M07M01.amdj
+5901    M07M05.ambl
+5902    M07M05.amdj
+5903    M07M06.ambl
+5904    M07M06.amdj
+5905    M08.ambl
+5906    M08.amdj
+5907    M08I00.chr
+5908    M08M01.ambl
+5909    M08M01.amdj
+5910    M08M02.ambl
+5911    M08M02.amdj
+5912    M08M03.ambl
+5913    M08M03.amdj
+5914    M08M04.ambl
+5915    M08M04.amdj
+5916    M08M05.ambl
+5917    M08M05.amdj
+5918    M08M06.ambl
+5919    M08M06.amdj
+5920    M08M07.ambl
+5921    M08M07.amdj
+5922    M08M08.ambl
+5923    M08M08.amdj
+5924    M09.ambl
+5925    M09.amdj
+5926    M09I00.chr
+5927    M09M01.ambl
+5928    M09M01.amdj
+5929    M09M02.ambl
+5930    M09M02.amdj
+5931    M09M03.ambl
+5932    M09M03.amdj
+5933    M09M04.ambl
+5934    M09M04.amdj
+5935    M09M05.ambl
+5936    M09M05.amdj
+5937    M09M06.ambl
+5938    M09M06.amdj
+5939    M09M07.ambl
+5940    M09M07.amdj
+5941    M09M08.ambl
+5942    M09M08.amdj
+5943    M09M09.ambl
+5944    M09M09.amdj
+5945    M09M10.ambl
+5946    M09M10.amdj
+5947    M09M11.ambl
+5948    M09M11.amdj
+5949    M09M12.ambl
+5950    M09M12.amdj
+5951    M09M13.ambl
+5952    M09M13.amdj
+5953    M09M14.ambl
+5954    M09M14.amdj
+5955    M09M15.ambl
+5956    M09M15.amdj
+5957    M09M15E1.mse
+5958    M10.ambl
+5959    M10.amdj
+5960    M10I00.chr
+5961    M10M01.ambl
+5962    M10M01.amdj
+5963    M10M02.ambl
+5964    M10M02.amdj
+5965    M10M03.ambl
+5966    M10M03.amdj
+5967    M10M04.ambl
+5968    M10M04.amdj
+5969    M10M05.ambl
+5970    M10M05.amdj
+5971    M10M06.ambl
+5972    M10M06.amdj
+5973    M10M07.ambl
+5974    M10M07.amdj
+5975    M11.ambl
+5976    M11.amdj
+5977    M11I00.chr
+5978    M11M01.ambl
+5979    M11M01.amdj
+5980    M11M02.ambl
+5981    M11M02.amdj
+5982    M11M03.ambl
+5983    M11M03.amdj
+5984    M11M04.ambl
+5985    M11M04.amdj
+5986    M11M05.ambl
+5987    M11M05.amdj
+5988    M11M06.ambl
+5989    M11M06.amdj
+5990    M11M07.ambl
+5991    M11M07.amdj
+5992    M11M08.ambl
+5993    M11M08.amdj
+5994    M11M09.ambl
+5995    M11M09.amdj
+5996    M12.ambl
+5997    M12.amdj
+5998    M12I00.chr
+5999    M12M01.ambl
+6000    M12M01.amdj
+6001    M12M02.ambl
+6002    M12M02.amdj
+6003    M12M03.ambl
+6004    M12M03.amdj
+6005    M12M04.ambl
+6006    M12M04.amdj
+6007    M12M05.ambl
+6008    M12M05.amdj
+6009    M12M06.ambl
+6010    M12M06.amdj
+6011    M12M10.ambl
+6012    M12M10.amdj
+6013    M12M10E1.mse
+6014    M12M11.ambl
+6015    M12M11.amdj
+6016    M13.ambl
+6017    M13.amdj
+6018    M13I00.chr
+6019    M13M01.ambl
+6020    M13M01.amdj
+6021    M13M02.ambl
+6022    M13M02.amdj
+6023    M13M03.ambl
+6024    M13M03.amdj
+6025    M13M04.ambl
+6026    M13M04.amdj
+6027    M13M05.ambl
+6028    M13M05.amdj
+6029    M13M06.ambl
+6030    M13M06.amdj
+6031    M13M07.ambl
+6032    M13M07.amdj
+6033    M13M08.ambl
+6034    M13M08.amdj
+6035    M13M09.ambl
+6036    M13M09.amdj
+6037    M13M10.ambl
+6038    M13M10.amdj
+6039    M13M11.ambl
+6040    M13M11.amdj
+6041    M13M99.ambl
+6042    M13M99.amdj
+6043    maplist9.bin
+6044    mapname.gp2
+6045    O00.ambl
+6046    O00a.amdj
+6047    O00b.amdj
+6048    O01.ambl
+6049    O01a.amdj
+6050    O01b.amdj
+6051    R01M01.ambl
+6052    R01M01.amdj
+6053    R01M02.ambl
+6054    R01M02.amdj
+6055    R01M03.ambl
+6056    R01M03.amdj
+6057    R01M07.ambl
+6058    R01M07.amdj
+6059    R01M08.ambl
+6060    R01M08.amdj
+6061    R01M09.ambl
+6062    R01M09.amdj
+6063    R01M10.ambl
+6064    R01M10.amdj
+6065    R02M01.ambl
+6066    R02M01.amdj
+6067    R02M02.ambl
+6068    R02M02.amdj
+6069    R02M03.ambl
+6070    R02M03.amdj
+6071    R02M04.ambl
+6072    R02M04.amdj
+6073    R02M05.ambl
+6074    R02M05.amdj
+6075    R03M01.ambl
+6076    R03M01.amdj
+6077    R03M02.ambl
+6078    R03M02.amdj
+6079    R03M03.ambl
+6080    R03M03.amdj
+6081    R03M04.ambl
+6082    R03M04.amdj
+6083    R03M05.ambl
+6084    R03M05.amdj
+6085    R03M06.ambl
+6086    R03M06.amdj
+6087    R04M01.ambl
+6088    R04M01.amdj
+6089    R04M02.ambl
+6090    R04M02.amdj
+6091    R04M03.ambl
+6092    R04M03.amdj
+6093    R04M04.ambl
+6094    R04M04.amdj
+6095    R04M05.ambl
+6096    R04M05.amdj
+6097    R04M06.ambl
+6098    R04M06.amdj
+6099    R05M01.ambl
+6100    R05M01.amdj
+6101    riremito.bin
+6102    S01M01.ambl
+6103    S01M01.amdj
+6104    S01M02.ambl
+6105    S01M02.amdj
+6106    S02.ambl
+6107    S02.amdj
+6108    S03.ambl
+6109    S03.amdj
+6110    S03M01.ambl
+6111    S03M01.amdj
+6112    S04.ambl
+6113    S04.amdj
+6114    S05.ambl
+6115    S05.amdj
+6116    S06.ambl
+6117    S06.amdj
+6118    S06M01.ambl
+6119    S06M01.amdj
+6120    S06M02.ambl
+6121    S06M02.amdj
+6122    S07.ambl
+6123    S07.amdj
+6124    S07M01.ambl
+6125    S07M01.amdj
+6126    S07M02.ambl
+6127    S07M02.amdj
+6128    S07M03.ambl
+6129    S07M03.amdj
+6130    S07M04.ambl
+6131    S07M04.amdj
+6132    S07M05.ambl
+6133    S07M05.amdj
+6134    S07M06.ambl
+6135    S07M06.amdj
+6136    S07M07.ambl
+6137    S07M07.amdj
+6138    S08.ambl
+6139    S08.amdj
+6140    S08M01.ambl
+6141    S08M01.amdj
+6142    S09.ambl
+6143    S09.amdj
+6144    S09M01.ambl
+6145    S09M01.amdj
+6146    S09M02.ambl
+6147    S09M02.amdj
+6148    S09m03.ambl
+6149    S09m03.amdj
+6150    S10.ambl
+6151    S10.amdj
+6152    S10M01.ambl
+6153    S10M01.amdj
+6154    S11.ambl
+6155    S11.amdj
+6156    S11M01.ambl
+6157    S11M01.amdj
+6158    S12.ambl
+6159    S12.amdj
+6160    S12M01.ambl
+6161    S12M01.amdj
+6162    S12M02.ambl
+6163    S12M02.amdj
+6164    S13M02.ambl
+6165    S13M02.amdj
+6166    S13M03.ambl
+6167    S13M03.amdj
+6168    S14M01.ambl
+6169    S14M01.amdj
+6170    S14M02.ambl
+6171    S14M02.amdj
+6172    S14M03.ambl
+6173    S14M03.amdj
+6174    S14M04.ambl
+6175    S14M04.amdj
+6176    S14M05.ambl
+6177    S14M05.amdj
+6178    S15.ambl
+6179    S15.amdj
+6180    T01.ambl
+6181    T01.amdj
+6182    T01I00.chr
+6183    T01M01.ambl
+6184    T01M01.amdj
+6185    T01M02.ambl
+6186    T01M02.amdj
+6187    T01M03.ambl
+6188    T01M03.amdj
+6189    T01M04.ambl
+6190    T01M04.amdj
+6191    T01M05.ambl
+6192    T01M05.amdj
+6193    T01M06.ambl
+6194    T01M06.amdj
+6195    T01M07.ambl
+6196    T01M07.amdj
+6197    T01M08.ambl
+6198    T01M08.amdj
+6199    T02.ambl
+6200    T02.amdj
+6201    T02I00.chr
+6202    T02M01.ambl
+6203    T02M01.amdj
+6204    T02M02.ambl
+6205    T02M02.amdj
+6206    T02M03.ambl
+6207    T02M03.amdj
+6208    T02M04.ambl
+6209    T02M04.amdj
+6210    T02M05.ambl
+6211    T02M05.amdj
+6212    T02M06.ambl
+6213    T02M06.amdj
+6214    T02M07.ambl
+6215    T02M07.amdj
+6216    T02M08.ambl
+6217    T02M08.amdj
+6218    T02M99.ambl
+6219    T02M99.amdj
+6220    w_offset.bin
+6221    X01.ambl
+6222    X01.amdj
+6223    X01M01.ambl
+6224    X01M01.amdj
+6225    X01M03.ambl
+6226    X01M03.amdj
+6227    X01M04.ambl
+6228    X01M04.amdj
+6229    X01M05.ambl
+6230    X01M05.amdj
+6231    X01M06.ambl
+6232    X01M06.amdj
+6233    X01M07.ambl
+6234    X01M07.amdj
+6235    X01M09.ambl
+6236    X01M09.amdj
+6237    X01M10.ambl
+6238    X01M10.amdj
+6239    X02.ambl
+6240    X02.amdj
+6241    X02I00.chr
+6242    X02M01.ambl
+6243    X02M01.amdj
+6244    X02M02.ambl
+6245    X02M02.amdj
+6246    X03.ambl
+6247    X03.amdj
+6248    X03M01.ambl
+6249    X03M01.amdj
+6250    X03M02.ambl
+6251    X03M02.amdj
+6252    X03M03.ambl
+6253    X03M03.amdj
+6254    X03M04.ambl
+6255    X03M04.amdj
+6256    X03M05.ambl
+6257    X03M05.amdj
+6258    X03M06.ambl
+6259    X03M06.amdj
+6260    X03M09.ambl
+6261    X03M09.amdj
+6262    X03M09E1.mse
+6263    X04.ambl
+6264    X04.amdj
+6265    X04M01.ambl
+6266    X04M01.amdj
+6267    X04M02.ambl
+6268    X04M02.amdj
+6269    X04M03.ambl
+6270    X04M03.amdj
+6271    X04M04.ambl
+6272    X04M04.amdj
+6273    X04M05.ambl
+6274    X04M05.amdj
+6275    X04M06.ambl
+6276    X04M06.amdj
+6277    X04M07.ambl
+6278    X04M07.amdj
+6279    X04M08.ambl
+6280    X04M08.amdj
+6281    X04M09.ambl
+6282    X04M09.amdj
+6283    X04M10.ambl
+6284    X04M10.amdj
+6285    X04M11.ambl
+6286    X04M11.amdj
+6287    X04M12.ambl
+6288    X04M12.amdj
+6289    X04M13.ambl
+6290    X04M13.amdj
+6291    X04M14.ambl
+6292    X04M14.amdj
+6293    X04M16.ambl
+6294    X04M16.amdj
+6295    X04M17.ambl
+6296    X04M17.amdj
+6297    X04M18.ambl
+6298    X04M18.amdj
+6299    X04M19.ambl
+6300    X04M19.amdj
+6301    X04M20.ambl
+6302    X04M20.amdj
+6303    X04M21.ambl
+6304    X04M21.amdj
+6305    X04M22.ambl
+6306    X04M22.amdj
+6307    X04M23.ambl
+6308    X04M23.amdj
+6309    X04M24.ambl
+6310    X04M24.amdj
+6311    X04M25.ambl
+6312    X04M25.amdj
+6313    X04M99.ambl
+6314    X04M99.amdj
+6315    X05.ambl
+6316    X05.amdj
+6317    X05M01.ambl
+6318    X05M01.amdj
+6319    X05M03.ambl
+6320    X05M03.amdj
+6321    X05M04.ambl
+6322    X05M04.amdj
+6323    X05M05.ambl
+6324    X05M05.amdj
+6325    X05M06.ambl
+6326    X05M06.amdj
+6327    X05M07.ambl
+6328    X05M07.amdj
+6329    X05M09.ambl
+6330    X05M09.amdj
+6331    X05M10.ambl
+6332    X05M10.amdj
+6333    X05M11.ambl
+6334    X05M11.amdj
+6335    X05M12.ambl
+6336    X05M12.amdj
+6337    X05M13.ambl
+6338    X05M13.amdj
+6339    X05M13E1.mse
+6340    Z01M01.ambl
+6341    Z01M01.amdj
+6342    Z01M99.ambl
+6343    Z01M99.amdj
+6344    Z02M01.ambl
+6345    Z02M01.amdj
+6346    Z02M99.ambl
+6347    Z02M99.amdj
+6348    Z03M01.ambl
+6349    Z03M01.amdj
+6350    Z03M99.ambl
+6351    Z03M99.amdj
+6352    Z04M01.ambl
+6353    Z04M01.amdj
+6354    Z04M99.ambl
+6355    Z04M99.amdj
+6356    Z05M01.ambl
+6357    Z05M01.amdj
+6358    Z05M99.ambl
+6359    Z05M99.amdj
+      menu/
+6360    auction.stb
+6361    bdqas.gp2
+6362    bg_dc3.pac
+6363    bg_dqa.pac
+6364    bg_il.pac
+6365    bg_lv5.pac
+6366    bg_mate.pac
+6367    bg_mmate.pac
+6368    bg_mobi_2.pac
+6369    bg_qt.pac
+6370    bg_sta3_back.pac
+6371    bg_sta3_front.pac
+6372    bg_strdw.pac
+6373    bg_title_under.pac
+6374    bg_title_under1.pac
+6375    bg_title_under2.pac
+6376    bg_tl_frm.pac
+6377    bg_tl_list.pac
+6378    bg_tmap.pac
+6379    bg_up.gp2
+6380    bg_up1.gp2
+6381    bg_up2.gp2
+6382    cell_tl.pac
+6383    dc.stb
+6384    dqa_01.gp2
+6385    dqa_02.gp2
+6386    dqa_03.gp2
+6387    dqa_04.gp2
+6388    dqa_05.gp2
+6389    dqa_06.gp2
+6390    dqa_07.gp2
+6391    dqa_08.gp2
+6392    dqa_09.gp2
+6393    dqa_10.gp2
+6394    dqa_11.gp2
+6395    dqa_12.gp2
+6396    dqa_rox.spr
+6397    dqa_sm00.spr
+6398    get_il.stb
+6399    medal.stb
+6400    memory2.stb
+6401    mmate.stb
+6402    nintendo.pac
+6403    obj_qlst.pac
+6404    obj_sta.gp2
+6405    obj_upscr.pac
+6406    omate.gp2
+6407    opening.stb
+6408    oqlst.gp2
+6409    otm.gp2
+6410    qlst.stb
+6411    rb_ev00.pac
+6412    rb_ev01.pac
+6413    rb_ev02.pac
+6414    rb_ev03.pac
+6415    rb_ev04.pac
+6416    rb_ev05.pac
+6417    rb_ev06.pac
+6418    rb_ev07.pac
+6419    rb_ev08.pac
+6420    rb_ev09.pac
+6421    rb_ev10.pac
+6422    rb_ev11.pac
+6423    rb_ev12.pac
+6424    rb_ev13.pac
+6425    rb_event.bin
+6426    status.stb
+6427    story.stb
+6428    str_da10.gp2
+6429    str_da12.gp2
+6430    str_dc.gp2
+6431    str_mate.gp2
+6432    str_mem2.gp2
+6433    str_ql10.gp2
+6434    str_ql12.gp2
+6435    tl.stb
+6436    tmap.stb
+6437    tmap_base.pac
+6438    upload.stb
+6439    wi_fi.pac
+      movie/
+6440    movielist.bin
+6441    TD_nouhin_DS_form.mods
+6442    to_be_conteinued_A.mods
+6443    to_be_conteinued_B.mods
+6444    xenlon_DR_henshu_DS.mods
+6445    xenlon_OP_A.mods
+6446    xenlon_OP_B.mods
+      pack/
+6447    font.gp2
+      pack_lv5/
+6448    chara_mp.gp2
+6449    chara_pc.gp2
+6450    chara_pd.gp2
+6451    enemy.gp2
+6452    fd_me.bin
+6453    fd_s7.bin
+6454    fi_me.bin
+6455    fi_s7.bin
+6456    font_lv5.gp2
+6457    minimap.gp2
+6458    minimapt.gp2
+6459    path.gp2
+      prm/
+6460    actdt_a.gp2
+6461    actdt_b.gp2
+6462    actexp.gp2
+6463    actmsg.gp2
+6464    actname.nat
+6465    article.gp2
+6466    encbtl.bin
+6467    encfld.bin
+6468    enchab.gp2
+6469    encmons.bin
+6470    fld_mondata.bin
+6471    item_fn_div.nat
+6472    item_tmn.gp2
+6473    itembtlprm.nat
+6474    itemdt.gp2
+6475    itemdt_a.gp2
+6476    itemdt_b.gp2
+6477    itemdt_d.gp2
+6478    itemdt_def.gp2
+6479    itemdt_h.gp2
+6480    itemdt_l.gp2
+6481    itemdt_s.gp2
+6482    itemdt_t.gp2
+6483    itemdt_u.gp2
+6484    itemdt_w.gp2
+6485    itemexpl.gp2
+6486    iteminfo_de.gp2
+6487    iteminfo_en.gp2
+6488    iteminfo_es.gp2
+6489    iteminfo_fr.gp2
+6490    iteminfo_it.gp2
+6491    itemname.gp2
+6492    itemsort.gp2
+6493    level0.bin
+6494    level1.bin
+6495    level10.bin
+6496    level11.bin
+6497    level12.bin
+6498    level2.bin
+6499    level3.bin
+6500    level4.bin
+6501    level5.bin
+6502    level6.bin
+6503    level7.bin
+6504    level8.bin
+6505    level9.bin
+6506    mon_btldata.nat
+6507    mon_data.gp2
+6508    mon_list.gp2
+6509    mon_moddata.nat
+6510    mon_trv1.gp2
+6511    mon_trv2.gp2
+6512    mons_dmy.bin
+6513    mons_info2.nat
+6514    skilltable.bin
+6515    skl_art.gp2
+6516    sklname.gp2
+6517    spelltable.bin
+6518    str_gskl.gp2
+6519    verinfo.nat
+      scenario/
+6520    btl_qmes.gp2
+6521    C01.npc
+6522    C01B0.gp2
+6523    C01C0.gp2
+6524    C01D0.gp2
+6525    C01E0.gp2
+6526    C01G0.gp2
+6527    C01I0.gp2
+6528    C01J0.gp2
+6529    C01K0.gp2
+6530    C01L0.gp2
+6531    C01M0.gp2
+6532    C01N0.gp2
+6533    C01O0.gp2
+6534    C01Q0.gp2
+6535    C02.npc
+6536    C02K0.gp2
+6537    C02Q0.gp2
+6538    C02S0.gp2
+6539    C04.npc
+6540    C04N0.gp2
+6541    C04O0.gp2
+6542    C04Q0.gp2
+6543    chur_messet.bin
+6544    cmtB13.gp2
+6545    cmtB13.stb
+6546    cmtB14B15.gp2
+6547    cmtB14B15.stb
+6548    cmtC16C17.gp2
+6549    cmtC16C17.stb
+6550    cmtC18C22.gp2
+6551    cmtC18C22.stb
+6552    cmtC23C24_1.gp2
+6553    cmtC23C24_1.stb
+6554    cmtClear.gp2
+6555    cmtClear.stb
+6556    cmtD25D29.gp2
+6557    cmtD25D29.stb
+6558    cmtD30D33.gp2
+6559    cmtD30D33.stb
+6560    cmtE36T86.gp2
+6561    cmtE36T86.stb
+6562    cmtFileTbl.bin
+6563    cmtHeader.gp2
+6564    cmtHeader.stb
+6565    cmtK87.gp2
+6566    cmtK87.stb
+6567    cmtK88K94.gp2
+6568    cmtK88K94.stb
+6569    cmtK95K98.gp2
+6570    cmtK95K98.stb
+6571    cmtK99L101.gp2
+6572    cmtK99L101.stb
+6573    cmtL102L106.gp2
+6574    cmtL102L106.stb
+6575    cmtM116M117.gp2
+6576    cmtM116M117.stb
+6577    cmtM118M121.gp2
+6578    cmtM118M121.stb
+6579    cmtN122N126.gp2
+6580    cmtN122N126.stb
+6581    cmtN127N130.gp2
+6582    cmtN127N130.stb
+6583    cmtO131O133.gp2
+6584    cmtO131O133.stb
+6585    cmtO134O139.gp2
+6586    cmtO134O139.stb
+6587    cmtQ141.gp2
+6588    cmtQ141.stb
+6589    cmtTailC.gp2
+6590    cmtTailC.stb
+6591    cmtTailG.gp2
+6592    cmtTailG.stb
+6593    D01.npc
+6594    D01B0.gp2
+6595    D01C0.gp2
+6596    D01D0.gp2
+6597    D01E0.gp2
+6598    D01G0.gp2
+6599    D01I0.gp2
+6600    D01J0.gp2
+6601    D01K0.gp2
+6602    D01L0.gp2
+6603    D01M0.gp2
+6604    D01N0.gp2
+6605    D01O0.gp2
+6606    D01Q0.gp2
+6607    D03.npc
+6608    D03B0.gp2
+6609    D03C0.gp2
+6610    D03D0.gp2
+6611    D03E0.gp2
+6612    D03G0.gp2
+6613    D03I0.gp2
+6614    D03J0.gp2
+6615    D03K0.gp2
+6616    D03L0.gp2
+6617    D03M0.gp2
+6618    D03N0.gp2
+6619    D03O0.gp2
+6620    D03Q0.gp2
+6621    D04.npc
+6622    D04D0.gp2
+6623    D04E0.gp2
+6624    D04F0.gp2
+6625    D04G0.gp2
+6626    D04H0.gp2
+6627    D04I0.gp2
+6628    D04J0.gp2
+6629    D04K0.gp2
+6630    D04L0.gp2
+6631    D04M0.gp2
+6632    D04N0.gp2
+6633    D04O0.gp2
+6634    D04Q0.gp2
+6635    D04S0.gp2
+6636    D04T0.gp2
+6637    D06.npc
+6638    D06G0.gp2
+6639    D06H0.gp2
+6640    D06I0.gp2
+6641    D06J0.gp2
+6642    D06K0.gp2
+6643    D06L0.gp2
+6644    D06M0.gp2
+6645    D06N0.gp2
+6646    D06O0.gp2
+6647    D06Q0.gp2
+6648    D06S0.gp2
+6649    D06T0.gp2
+6650    D07.npc
+6651    D07H0.gp2
+6652    D07K0.gp2
+6653    D07Q0.gp2
+6654    D08.npc
+6655    D08K0.gp2
+6656    D08Q0.gp2
+6657    D08S0.gp2
+6658    D09.npc
+6659    D09I0.gp2
+6660    D09J0.gp2
+6661    D09K0.gp2
+6662    D09L0.gp2
+6663    D09M0.gp2
+6664    D09N0.gp2
+6665    D09O0.gp2
+6666    D09Q0.gp2
+6667    D12.npc
+6668    D12J0.gp2
+6669    D12K0.gp2
+6670    D12L0.gp2
+6671    D12M0.gp2
+6672    D12N0.gp2
+6673    D12O0.gp2
+6674    D12Q0.gp2
+6675    D12S0.gp2
+6676    D12T0.gp2
+6677    D13.npc
+6678    D13K0.gp2
+6679    D13Q0.gp2
+6680    D13T0.gp2
+6681    D14.npc
+6682    D14J0.gp2
+6683    D14K0.gp2
+6684    D14L0.gp2
+6685    D14M0.gp2
+6686    D14N0.gp2
+6687    D14O0.gp2
+6688    D14Q0.gp2
+6689    D16.npc
+6690    D16L0.gp2
+6691    D16M0.gp2
+6692    D16N0.gp2
+6693    D16O0.gp2
+6694    D16Q0.gp2
+6695    D17.npc
+6696    D17N0.gp2
+6697    D17O0.gp2
+6698    D17Q0.gp2
+6699    dbg_quest_de.gp2
+6700    dbg_quest_en.gp2
+6701    dbg_quest_es.gp2
+6702    dbg_quest_fr.gp2
+6703    dbg_quest_it.gp2
+6704    F.npc
+6705    F01A0.gp2
+6706    F01B0.gp2
+6707    F01C0.gp2
+6708    F01D0.gp2
+6709    F01E0.gp2
+6710    F01F0.gp2
+6711    F01G0.gp2
+6712    F01H0.gp2
+6713    F01I0.gp2
+6714    F01J0.gp2
+6715    F01K0.gp2
+6716    F01L0.gp2
+6717    F01M0.gp2
+6718    F01N0.gp2
+6719    F01O0.gp2
+6720    F01Q0.gp2
+6721    F01S0.gp2
+6722    F01T0.gp2
+6723    F02B0.gp2
+6724    F02C0.gp2
+6725    F02D0.gp2
+6726    F02E0.gp2
+6727    F02F0.gp2
+6728    F02G0.gp2
+6729    F02H0.gp2
+6730    F02I0.gp2
+6731    F02J0.gp2
+6732    F02K0.gp2
+6733    F02L0.gp2
+6734    F02M0.gp2
+6735    F02N0.gp2
+6736    F02O0.gp2
+6737    F02Q0.gp2
+6738    F02S0.gp2
+6739    F02T0.gp2
+6740    F03B0.gp2
+6741    F03C0.gp2
+6742    F03D0.gp2
+6743    F03E0.gp2
+6744    F03F0.gp2
+6745    F03G0.gp2
+6746    F03H0.gp2
+6747    F03I0.gp2
+6748    F03J0.gp2
+6749    F03K0.gp2
+6750    F03L0.gp2
+6751    F03M0.gp2
+6752    F03N0.gp2
+6753    F03O0.gp2
+6754    F03Q0.gp2
+6755    F03S0.gp2
+6756    F03T0.gp2
+6757    F04B0.gp2
+6758    F04C0.gp2
+6759    F04D0.gp2
+6760    F04E0.gp2
+6761    F04F0.gp2
+6762    F04G0.gp2
+6763    F04H0.gp2
+6764    F04I0.gp2
+6765    F04J0.gp2
+6766    F04K0.gp2
+6767    F04L0.gp2
+6768    F04M0.gp2
+6769    F04N0.gp2
+6770    F04O0.gp2
+6771    F04Q0.gp2
+6772    F04S0.gp2
+6773    F04T0.gp2
+6774    F07F0.gp2
+6775    F07G0.gp2
+6776    F07H0.gp2
+6777    F07I0.gp2
+6778    F07J0.gp2
+6779    F07K0.gp2
+6780    F07L0.gp2
+6781    F07M0.gp2
+6782    F07N0.gp2
+6783    F07O0.gp2
+6784    F07Q0.gp2
+6785    F07S0.gp2
+6786    F07T0.gp2
+6787    F10H0.gp2
+6788    F10I0.gp2
+6789    F10J0.gp2
+6790    F10K0.gp2
+6791    F10L0.gp2
+6792    F10M0.gp2
+6793    F10N0.gp2
+6794    F10O0.gp2
+6795    F10Q0.gp2
+6796    F10S0.gp2
+6797    F10T0.gp2
+6798    F11H0.gp2
+6799    F11I0.gp2
+6800    F11J0.gp2
+6801    F11K0.gp2
+6802    F11L0.gp2
+6803    F11M0.gp2
+6804    F11N0.gp2
+6805    F11O0.gp2
+6806    F11Q0.gp2
+6807    F11S0.gp2
+6808    F11T0.gp2
+6809    F12H0.gp2
+6810    F12I0.gp2
+6811    F12J0.gp2
+6812    F12K0.gp2
+6813    F12L0.gp2
+6814    F12M0.gp2
+6815    F12N0.gp2
+6816    F12O0.gp2
+6817    F12Q0.gp2
+6818    F12S0.gp2
+6819    F12T0.gp2
+6820    F15J0.gp2
+6821    F15K0.gp2
+6822    F15L0.gp2
+6823    F15M0.gp2
+6824    F15N0.gp2
+6825    F15O0.gp2
+6826    F15Q0.gp2
+6827    F15S0.gp2
+6828    F15T0.gp2
+6829    F16J0.gp2
+6830    F16K0.gp2
+6831    F16L0.gp2
+6832    F16M0.gp2
+6833    F16N0.gp2
+6834    F16O0.gp2
+6835    F16Q0.gp2
+6836    F16S0.gp2
+6837    F16T0.gp2
+6838    F17J0.gp2
+6839    F17K0.gp2
+6840    F17L0.gp2
+6841    F17M0.gp2
+6842    F17N0.gp2
+6843    F17O0.gp2
+6844    F17Q0.gp2
+6845    F17S0.gp2
+6846    F17T0.gp2
+6847    F20J0.gp2
+6848    F20K0.gp2
+6849    F20L0.gp2
+6850    F20M0.gp2
+6851    F20N0.gp2
+6852    F20O0.gp2
+6853    F20Q0.gp2
+6854    F20S0.gp2
+6855    F20T0.gp2
+6856    F21J0.gp2
+6857    F21K0.gp2
+6858    F21L0.gp2
+6859    F21M0.gp2
+6860    F21N0.gp2
+6861    F21O0.gp2
+6862    F21Q0.gp2
+6863    F21S0.gp2
+6864    F21T0.gp2
+6865    F23J0.gp2
+6866    F23K0.gp2
+6867    F23L0.gp2
+6868    F23M0.gp2
+6869    F23N0.gp2
+6870    F23O0.gp2
+6871    F23Q0.gp2
+6872    F23S0.gp2
+6873    F23T0.gp2
+6874    F24J0.gp2
+6875    F24K0.gp2
+6876    F24L0.gp2
+6877    F24M0.gp2
+6878    F24N0.gp2
+6879    F24O0.gp2
+6880    F24Q0.gp2
+6881    F24S0.gp2
+6882    F24T0.gp2
+6883    F25J0.gp2
+6884    F25K0.gp2
+6885    F25L0.gp2
+6886    F25M0.gp2
+6887    F25N0.gp2
+6888    F25O0.gp2
+6889    F25Q0.gp2
+6890    F25S0.gp2
+6891    F25T0.gp2
+6892    F27J0.gp2
+6893    F27K0.gp2
+6894    F27L0.gp2
+6895    F27M0.gp2
+6896    F27N0.gp2
+6897    F27O0.gp2
+6898    F27Q0.gp2
+6899    F27S0.gp2
+6900    F27T0.gp2
+6901    F34L0.gp2
+6902    F34M0.gp2
+6903    F34N0.gp2
+6904    F34O0.gp2
+6905    F34Q0.gp2
+6906    F39J0.gp2
+6907    F39K0.gp2
+6908    F39L0.gp2
+6909    F39M0.gp2
+6910    F39N0.gp2
+6911    F39O0.gp2
+6912    F39Q0.gp2
+6913    F39S0.gp2
+6914    F39T0.gp2
+6915    F57J0.gp2
+6916    F57K0.gp2
+6917    F57L0.gp2
+6918    F57M0.gp2
+6919    F57N0.gp2
+6920    F57O0.gp2
+6921    F57Q0.gp2
+6922    F57S0.gp2
+6923    F57T0.gp2
+6924    F61J0.gp2
+6925    F61K0.gp2
+6926    F61L0.gp2
+6927    F61M0.gp2
+6928    F61N0.gp2
+6929    F61O0.gp2
+6930    F61Q0.gp2
+6931    F61S0.gp2
+6932    F61T0.gp2
+6933    F63B0.gp2
+6934    F63C0.gp2
+6935    F63D0.gp2
+6936    F63E0.gp2
+6937    F63F0.gp2
+6938    F63G0.gp2
+6939    F63H0.gp2
+6940    F63I0.gp2
+6941    F63J0.gp2
+6942    F63K0.gp2
+6943    F63L0.gp2
+6944    F63M0.gp2
+6945    F63N0.gp2
+6946    F63O0.gp2
+6947    F63Q0.gp2
+6948    F63S0.gp2
+6949    F63T0.gp2
+6950    flditem.pac
+6951    H01.npc
+6952    H01J0.gp2
+6953    H01K0.gp2
+6954    H01L0.gp2
+6955    H01M0.gp2
+6956    H01N0.gp2
+6957    H01O0.gp2
+6958    H01Q0.gp2
+6959    H02.npc
+6960    H02J0.gp2
+6961    H02K0.gp2
+6962    H02L0.gp2
+6963    H02M0.gp2
+6964    H02N0.gp2
+6965    H02O0.gp2
+6966    H02Q0.gp2
+6967    H03.npc
+6968    H03Q0.gp2
+6969    H04.npc
+6970    H04Q0.gp2
+6971    H05.npc
+6972    H05Q0.gp2
+6973    H06.npc
+6974    H06Q0.gp2
+6975    H07.npc
+6976    H07Q0.gp2
+6977    H08.npc
+6978    H08Q0.gp2
+6979    H09.npc
+6980    H09Q0.gp2
+6981    H10.npc
+6982    H10Q0.gp2
+6983    H11.npc
+6984    H11Q0.gp2
+6985    H12.npc
+6986    H12Q0.gp2
+6987    H13.npc
+6988    H13Q0.gp2
+6989    H14.npc
+6990    H14Q0.gp2
+6991    H15.npc
+6992    H15Q0.gp2
+6993    H16.npc
+6994    H16Q0.gp2
+6995    H17.npc
+6996    H17Q0.gp2
+6997    H18.npc
+6998    H18Q0.gp2
+6999    H19.npc
+7000    H19Q0.gp2
+7001    H20.npc
+7002    H20Q0.gp2
+7003    htanaC.gp2
+7004    htanaD.gp2
+7005    htanaH.gp2
+7006    htanaM.gp2
+7007    htanaR.gp2
+7008    htanaS.gp2
+7009    htanaX.gp2
+7010    M01.npc
+7011    M01A0.gp2
+7012    M01B0.gp2
+7013    M01C0.gp2
+7014    M01D0.gp2
+7015    M01E0.gp2
+7016    M01G0.gp2
+7017    M01I0.gp2
+7018    M01J0.gp2
+7019    M01K0.gp2
+7020    M01L0.gp2
+7021    M01M0.gp2
+7022    M01N0.gp2
+7023    M01O0.gp2
+7024    M01Q0.gp2
+7025    M02.npc
+7026    M02B0.gp2
+7027    M02C0.gp2
+7028    M02D0.gp2
+7029    M02E0.gp2
+7030    M02G0.gp2
+7031    M02I0.gp2
+7032    M02J0.gp2
+7033    M02K0.gp2
+7034    M02L0.gp2
+7035    M02M0.gp2
+7036    M02N0.gp2
+7037    M02O0.gp2
+7038    M02Q0.gp2
+7039    M03.npc
+7040    M03D0.gp2
+7041    M03E0.gp2
+7042    M03F0.gp2
+7043    M03G0.gp2
+7044    M03H0.gp2
+7045    M03I0.gp2
+7046    M03J0.gp2
+7047    M03K0.gp2
+7048    M03L0.gp2
+7049    M03M0.gp2
+7050    M03N0.gp2
+7051    M03O0.gp2
+7052    M03Q0.gp2
+7053    M03S0.gp2
+7054    M05.npc
+7055    M05F0.gp2
+7056    M05G0.gp2
+7057    M05H0.gp2
+7058    M05I0.gp2
+7059    M05J0.gp2
+7060    M05K0.gp2
+7061    M05L0.gp2
+7062    M05M0.gp2
+7063    M05N0.gp2
+7064    M05O0.gp2
+7065    M05Q0.gp2
+7066    M05S0.gp2
+7067    M05T0.gp2
+7068    M07.npc
+7069    M07H0.gp2
+7070    M07K0.gp2
+7071    M07Q0.gp2
+7072    M08.npc
+7073    M08H0.gp2
+7074    M08K0.gp2
+7075    M08Q0.gp2
+7076    M09.npc
+7077    M09I0.gp2
+7078    M09J0.gp2
+7079    M09K0.gp2
+7080    M09L0.gp2
+7081    M09M0.gp2
+7082    M09N0.gp2
+7083    M09O0.gp2
+7084    M09Q0.gp2
+7085    M10.npc
+7086    M10J0.gp2
+7087    M10K0.gp2
+7088    M10L0.gp2
+7089    M10M0.gp2
+7090    M10N0.gp2
+7091    M10O0.gp2
+7092    M10Q0.gp2
+7093    M10S0.gp2
+7094    M10T0.gp2
+7095    M11.npc
+7096    M11K0.gp2
+7097    M11Q0.gp2
+7098    M11T0.gp2
+7099    M12.npc
+7100    M12J0.gp2
+7101    M12K0.gp2
+7102    M12L0.gp2
+7103    M12M0.gp2
+7104    M12N0.gp2
+7105    M12O0.gp2
+7106    M12Q0.gp2
+7107    M13.npc
+7108    M13L0.gp2
+7109    M13M0.gp2
+7110    M13N0.gp2
+7111    M13O0.gp2
+7112    M13Q0.gp2
+7113    quest_btl.stb
+7114    quest_btl_1.stb
+7115    quest_btl_2.stb
+7116    quest_btl_3.stb
+7117    quest_btl_4.stb
+7118    questcancel.bin
+7119    questidtbl.bin
+7120    questmsg.gp2
+7121    questorder3.bin
+7122    R01.npc
+7123    R01B0.gp2
+7124    R01C0.gp2
+7125    R01D0.gp2
+7126    R01E0.gp2
+7127    R01G0.gp2
+7128    R01I0.gp2
+7129    R01J0.gp2
+7130    R01K0.gp2
+7131    R01L0.gp2
+7132    R01M0.gp2
+7133    R01N0.gp2
+7134    R01O0.gp2
+7135    R01Q0.gp2
+7136    R02.npc
+7137    R02B0.gp2
+7138    R02C0.gp2
+7139    R02D0.gp2
+7140    R02E0.gp2
+7141    R02G0.gp2
+7142    R02I0.gp2
+7143    R02J0.gp2
+7144    R02K0.gp2
+7145    R02L0.gp2
+7146    R02M0.gp2
+7147    R02N0.gp2
+7148    R02O0.gp2
+7149    R02Q0.gp2
+7150    R03.npc
+7151    R03B0.gp2
+7152    R03C0.gp2
+7153    R03D0.gp2
+7154    R03E0.gp2
+7155    R03G0.gp2
+7156    R03I0.gp2
+7157    R03J0.gp2
+7158    R03K0.gp2
+7159    R03L0.gp2
+7160    R03M0.gp2
+7161    R03N0.gp2
+7162    R03O0.gp2
+7163    R03Q0.gp2
+7164    R04.npc
+7165    R04B0.gp2
+7166    R04C0.gp2
+7167    R04D0.gp2
+7168    R04E0.gp2
+7169    R04G0.gp2
+7170    R04I0.gp2
+7171    R04J0.gp2
+7172    R04K0.gp2
+7173    R04L0.gp2
+7174    R04M0.gp2
+7175    R04N0.gp2
+7176    R04O0.gp2
+7177    R04Q0.gp2
+7178    R05.npc
+7179    R05B0.gp2
+7180    R05C0.gp2
+7181    R05D0.gp2
+7182    R05E0.gp2
+7183    R05G0.gp2
+7184    R05I0.gp2
+7185    R05J0.gp2
+7186    R05K0.gp2
+7187    R05L0.gp2
+7188    R05M0.gp2
+7189    R05N0.gp2
+7190    R05O0.gp2
+7191    R05Q0.gp2
+7192    S01.npc
+7193    S01B0.gp2
+7194    S01C0.gp2
+7195    S01D0.gp2
+7196    S01E0.gp2
+7197    S01G0.gp2
+7198    S01I0.gp2
+7199    S01J0.gp2
+7200    S01K0.gp2
+7201    S01L0.gp2
+7202    S01M0.gp2
+7203    S01N0.gp2
+7204    S01O0.gp2
+7205    S01Q0.gp2
+7206    S02.npc
+7207    S02B0.gp2
+7208    S02C0.gp2
+7209    S02D0.gp2
+7210    S02E0.gp2
+7211    S02G0.gp2
+7212    S02I0.gp2
+7213    S02J0.gp2
+7214    S02K0.gp2
+7215    S02L0.gp2
+7216    S02M0.gp2
+7217    S02N0.gp2
+7218    S02O0.gp2
+7219    S02Q0.gp2
+7220    S03.npc
+7221    S03B0.gp2
+7222    S03C0.gp2
+7223    S03D0.gp2
+7224    S03E0.gp2
+7225    S03G0.gp2
+7226    S03I0.gp2
+7227    S03J0.gp2
+7228    S03K0.gp2
+7229    S03L0.gp2
+7230    S03M0.gp2
+7231    S03N0.gp2
+7232    S03O0.gp2
+7233    S03Q0.gp2
+7234    S04.npc
+7235    S04B0.gp2
+7236    S04C0.gp2
+7237    S04D0.gp2
+7238    S04E0.gp2
+7239    S04F0.gp2
+7240    S04G0.gp2
+7241    S04H0.gp2
+7242    S04I0.gp2
+7243    S04J0.gp2
+7244    S04K0.gp2
+7245    S04L0.gp2
+7246    S04M0.gp2
+7247    S04N0.gp2
+7248    S04O0.gp2
+7249    S04Q0.gp2
+7250    S04S0.gp2
+7251    S04T0.gp2
+7252    S05.npc
+7253    S05G0.gp2
+7254    S05H0.gp2
+7255    S05I0.gp2
+7256    S05J0.gp2
+7257    S05K0.gp2
+7258    S05L0.gp2
+7259    S05M0.gp2
+7260    S05N0.gp2
+7261    S05O0.gp2
+7262    S05Q0.gp2
+7263    S05S0.gp2
+7264    S05T0.gp2
+7265    S06.npc
+7266    S06J0.gp2
+7267    S06K0.gp2
+7268    S06L0.gp2
+7269    S06M0.gp2
+7270    S06N0.gp2
+7271    S06O0.gp2
+7272    S06Q0.gp2
+7273    S06S0.gp2
+7274    S06T0.gp2
+7275    S07.npc
+7276    S07L0.gp2
+7277    S07M0.gp2
+7278    S07N0.gp2
+7279    S07O0.gp2
+7280    S07Q0.gp2
+7281    S08.npc
+7282    S08G0.gp2
+7283    S08H0.gp2
+7284    S08I0.gp2
+7285    S08J0.gp2
+7286    S08K0.gp2
+7287    S08L0.gp2
+7288    S08M0.gp2
+7289    S08N0.gp2
+7290    S08O0.gp2
+7291    S08Q0.gp2
+7292    S08S0.gp2
+7293    S08T0.gp2
+7294    S09.npc
+7295    S09J0.gp2
+7296    S09K0.gp2
+7297    S09L0.gp2
+7298    S09M0.gp2
+7299    S09N0.gp2
+7300    S09O0.gp2
+7301    S09Q0.gp2
+7302    S09S0.gp2
+7303    S09T0.gp2
+7304    S10.npc
+7305    S10H0.gp2
+7306    S10K0.gp2
+7307    S10Q0.gp2
+7308    S11.npc
+7309    S11J0.gp2
+7310    S11K0.gp2
+7311    S11L0.gp2
+7312    S11M0.gp2
+7313    S11N0.gp2
+7314    S11O0.gp2
+7315    S11Q0.gp2
+7316    S11S0.gp2
+7317    S11T0.gp2
+7318    S12.npc
+7319    S12J0.gp2
+7320    S12K0.gp2
+7321    S12L0.gp2
+7322    S12M0.gp2
+7323    S12N0.gp2
+7324    S12O0.gp2
+7325    S12Q0.gp2
+7326    S12S0.gp2
+7327    S12T0.gp2
+7328    S13.npc
+7329    S13J0.gp2
+7330    S13K0.gp2
+7331    S13L0.gp2
+7332    S13M0.gp2
+7333    S13N0.gp2
+7334    S13O0.gp2
+7335    S13Q0.gp2
+7336    S14.npc
+7337    S14B0.gp2
+7338    S14C0.gp2
+7339    S14D0.gp2
+7340    S14E0.gp2
+7341    S14G0.gp2
+7342    S14I0.gp2
+7343    S14J0.gp2
+7344    S14K0.gp2
+7345    S14L0.gp2
+7346    S14M0.gp2
+7347    S14N0.gp2
+7348    S14O0.gp2
+7349    S14Q0.gp2
+7350    S15.npc
+7351    S15J0.gp2
+7352    S15K0.gp2
+7353    S15L0.gp2
+7354    S15M0.gp2
+7355    S15N0.gp2
+7356    S15O0.gp2
+7357    S15Q0.gp2
+7358    str_ch0.gp2
+7359    str_ch1.gp2
+7360    str_ch2.gp2
+7361    str_ch3.gp2
+7362    str_ch4.gp2
+7363    str_ch5.gp2
+7364    str_ch6.gp2
+7365    str_ch7.gp2
+7366    str_church.bin
+7367    str_in0.gp2
+7368    str_in1.gp2
+7369    str_in10.gp2
+7370    str_in11.gp2
+7371    str_in12.gp2
+7372    str_in13.gp2
+7373    str_in14.gp2
+7374    str_in2.gp2
+7375    str_in3.gp2
+7376    str_in4.gp2
+7377    str_in5.gp2
+7378    str_in6.gp2
+7379    str_in7.gp2
+7380    str_in8.gp2
+7381    str_in9.gp2
+7382    str_inn.bin
+7383    str_ol.gp2
+7384    T01.npc
+7385    T01F0.gp2
+7386    T01G0.gp2
+7387    T01K0.gp2
+7388    T01Q0.gp2
+7389    T02.npc
+7390    T02Q0.gp2
+7391    title_btl.stb
+7392    title_clr.stb
+7393    title_gyalel.stb
+7394    title_skl.stb
+7395    treasure.nsarc
+7396    triggerC01.bin
+7397    triggerC02.bin
+7398    triggerC04.bin
+7399    triggerD01.bin
+7400    triggerD03.bin
+7401    triggerD04.bin
+7402    triggerD06.bin
+7403    triggerD07.bin
+7404    triggerD08.bin
+7405    triggerD09.bin
+7406    triggerD12.bin
+7407    triggerD13.bin
+7408    triggerD14.bin
+7409    triggerD16.bin
+7410    triggerD17.bin
+7411    triggerF.bin
+7412    triggerH01.bin
+7413    triggerH02.bin
+7414    triggerH03.bin
+7415    triggerH04.bin
+7416    triggerH05.bin
+7417    triggerH06.bin
+7418    triggerH07.bin
+7419    triggerH08.bin
+7420    triggerH09.bin
+7421    triggerH10.bin
+7422    triggerH11.bin
+7423    triggerH12.bin
+7424    triggerH13.bin
+7425    triggerH14.bin
+7426    triggerH15.bin
+7427    triggerH16.bin
+7428    triggerH17.bin
+7429    triggerH18.bin
+7430    triggerH19.bin
+7431    triggerH20.bin
+7432    triggerM01.bin
+7433    triggerM02.bin
+7434    triggerM03.bin
+7435    triggerM05.bin
+7436    triggerM07.bin
+7437    triggerM08.bin
+7438    triggerM09.bin
+7439    triggerM10.bin
+7440    triggerM11.bin
+7441    triggerM12.bin
+7442    triggerM13.bin
+7443    triggerO00.bin
+7444    triggerO01.bin
+7445    triggerR01.bin
+7446    triggerR02.bin
+7447    triggerR03.bin
+7448    triggerR04.bin
+7449    triggerR05.bin
+7450    triggerS01.bin
+7451    triggerS02.bin
+7452    triggerS03.bin
+7453    triggerS04.bin
+7454    triggerS05.bin
+7455    triggerS06.bin
+7456    triggerS07.bin
+7457    triggerS08.bin
+7458    triggerS09.bin
+7459    triggerS10.bin
+7460    triggerS11.bin
+7461    triggerS12.bin
+7462    triggerS13.bin
+7463    triggerS14.bin
+7464    triggerS15.bin
+7465    triggerT01.bin
+7466    triggerT02.bin
+7467    triggerX01.bin
+7468    triggerX02.bin
+7469    triggerX03.bin
+7470    triggerX04.bin
+7471    triggerX05.bin
+7472    X01.npc
+7473    X01A0.gp2
+7474    X01Q0.gp2
+7475    X02.npc
+7476    X02F0.gp2
+7477    X02G0.gp2
+7478    X02K0.gp2
+7479    X02Q0.gp2
+7480    X03.npc
+7481    X03M0.gp2
+7482    X03N0.gp2
+7483    X03O0.gp2
+7484    X03Q0.gp2
+7485    X04.npc
+7486    X04O0.gp2
+7487    X04P0.gp2
+7488    X04Q0.gp2
+7489    X05.npc
+7490    X05E0.gp2
+7491    X05F0.gp2
+7492    X05G0.gp2
+7493    X05H0.gp2
+7494    X05I0.gp2
+7495    X05J0.gp2
+7496    X05K0.gp2
+7497    X05L0.gp2
+7498    X05M0.gp2
+7499    X05N0.gp2
+7500    X05O0.gp2
+7501    X05S0.gp2
+7502    X05T0.gp2
+      skill/
+7503    actetc.nsarc
+7504    actskl.nsarc
+7505    actspl.nsarc
+      sound/
+7506    bgm.sadl
+7507    bgm.sdat
+7508    se_btl.sadl
+7509    se_btl.sdat
+7510    se_norm.sadl
+7511    se_norm.sdat
+7512    sound_data.sadl
+      tmap/
+7513    param.pac
+7514    tdata.gp2
+    dwc/
+7515  utility.bin

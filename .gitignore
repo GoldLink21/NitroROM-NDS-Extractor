@@ -1,1 +1,6 @@
 *.nds
+gen
+extract
+*.hex
+js/node_modules
+js/my_extract

@@ -1,0 +1,60 @@
+All File Extensions in DQIX
+
+Known:
+2683.chr
+    - NARC file in a trench coat
+ 681.ambl
+    - NARC file in a trench coat
+ 669.amdj
+    - NARC file in a trench coat
+ 126.pac
+    - Directory
+  74.npc
+    - Directory
+  12.mse
+    - NARC file in a trench coat
+   7.nsarc
+    - Directory
+   6.mods (Format unknown)
+    - Video file
+    - data/movie/movielist.bin has the files included
+   4.sadl
+    - Sound
+   3.sdat
+    - Sound
+
+
+
+Unknown:
+
+1671.gp2
+    - This appears to be text related
+    - Compressed in some way
+    - GPC2 magic
+1300.spr
+  46.stb
+    - SB2 Magic
+  10.nat
+    - Could be related to text
+   8.lia (data/ani/lay_*)
+    - LI5
+   3.dat
+    - Likely Data but no other info
+   3.NCER
+   3.NCGR
+    - Tile related
+   3.NCLR
+    - Image palette?
+   2.gp1 (data/effect/ev99_)
+    - GPC1 Magic
+   2.NANR 
+    - Video File?
+   1.bncg (windata3.bncg)
+    - Graphic File?
+    - Nested in many chr files
+   1.bact (defaultaction.bact)
+   1.bncl (data/ani/bg_def.bncl)
+    - PALT Magic
+
+Other:
+ 162.bin
