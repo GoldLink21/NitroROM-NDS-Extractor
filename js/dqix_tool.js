@@ -62,27 +62,57 @@ function extractFiles(rom, subdir="my_extract", fullExtract = false) {
                 makeFiles(entry.subDir.entries)
             } else {
                 // File
-                let ext = entry.fileName.split(".")[1];
-                if(fullExtract && ext !== undefined && NSARC_EXTENSIONS.includes(ext)) {
-                    let nsarc = new NSARC(new KaitaiStream(rom.fat.entries[entry.fileNum].file));
-                    console.log(`NSARC FILE: ${entry.fileName}`, raw(nsarc))
-                } else {
-                    let fileName = `${route.join("/")}/${entry.fileName}`;
-                    // console.log(fileName, raw(rom.fat.entries[entry.fileNum]));
-                    if(fs.existsSync(fileName)) {
-                        fs.rmSync(fileName)
-                    }
-                    fs.writeFileSync(
-                        `${route.join("/")}/${entry.fileName}`, 
-                        rom.fat.entries[entry.fileNum].file
-                    )
+                
+                let [base,ext] = entry.fileName.split(".");
+                let fileName = `${route.join("/")}/${base}`;
+            
+                if(fs.existsSync(fileName)) {
+                    fs.rmSync(fileName, {recursive:true});
                 }
+                if(fs.existsSync(fileName + `.${ext}`)) {
+                    fs.rmSync(fileName + `.${ext}`);
+                }
+                fs.writeFileSync(
+                    `${route.join("/")}/${entry.fileName}`, 
+                    rom.fat.entries[entry.fileNum].file
+                );
+
+                if(fullExtract && ext !== undefined && NSARC_EXTENSIONS.includes(ext)) {
+                    extractNSARC(route, base, ext, rom.fat.entries[entry.fileNum].file)
+                }
+                
             }
         }
         route.pop()
     }
 
     return rom;
+}
+
+/**
+ * 
+ * @param {string[]} route String list of file route
+ * @param {string} baseName File base name
+ * @param {string} ext File extension
+ * @param {Uint8Array} fileContents 
+ */
+function extractNSARC(route, baseName, ext, fileContents) {
+    console.log(`NSARC FILE: ${baseName}`);
+    let nsarc = new NSARC(new KaitaiStream(fileContents));
+    if(fs.existsSync(baseName)) {
+        fs.rmSync(baseName, {recursive: true});
+    }
+    // Has no extension
+    fs.mkdirSync(route.join("/")+"/"+baseName);
+    route.push(baseName);
+    nsarc.fat.entries.forEach(nsEntry => {
+        // TODO: Get file names properly
+        fs.writeFileSync(
+            `${route.join("/")}/${nsEntry.fileName}`,
+            nsEntry.file,
+        )
+    })
+    route.pop();
 }
 
 
@@ -140,7 +170,6 @@ const cmd_args = [
 ]
 
 function usage() {
-
     let maxFirstArgLen = cmd_args.reduce((acc, cv) =>acc < cv[0].length ? cv[0].length : acc, 0)
     console.log("Usage: node temp.js [options]\n");
     cmd_args.forEach(a => {
@@ -157,11 +186,12 @@ if(argv.length === 0) {
     usage()
     return;
 } 
+//1469
 
 while(argv.length > 0) {
     switch(argv[0]) {
         case '-L': {
-            printFileList(parsedNds);
+            printFileList(parsedNds, true);
             break;
         }
         case '-Lx': {
@@ -194,5 +224,3 @@ while(argv.length > 0) {
     }
     argv.shift();
 }
-
-// extractFiles(parsedNds);

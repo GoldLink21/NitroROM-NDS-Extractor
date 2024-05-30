@@ -11,7 +11,8 @@ meta:
 
   encoding: ASCII
   endian: le
-
+doc: |
+  This format assumes that the fnt has no folders
 seq:
   - id: magic
     contents: "NARC"
@@ -38,8 +39,10 @@ seq:
     type: u4
     doc: Chunk Size (including above chunk name)
   - id: num_entries
-    type: u4
+    type: u2
     doc: Number of Files
+  - id: reserved
+    type: u2
   - id: fat
     type: nsarc_fat(num_entries)
   - id: btnf
@@ -60,7 +63,6 @@ seq:
   - id: img
     size: gmif_len - 8
 
-
 types:
   nsarc_fat:
     params:
@@ -68,15 +70,26 @@ types:
         type: u2
     seq:
       - id: entries
-        type: fat_entry
+        type: fat_entry(_index)
         repeat: expr
         repeat-expr: num_entries
   fat_entry:
+    params:
+      - id: i
+        type: u4
     seq:
       - id: file_start
         type: u4
       - id: file_end
         type: u4
+    instances:
+      # file_name:
+        # value: _root.fnt.subtables[0].entries[i].file_name
+      file:
+        pos: file_start
+        size: file_end - file_start
+      
+
 
   fnt_base:
     params:
@@ -89,6 +102,7 @@ types:
         type: u2
       - id: num_subtables
         type: u2
+        # valid: 1
     instances:
       subtables:
         pos: offset_of_subtable
@@ -124,4 +138,4 @@ types:
       #   type: u2
       #   if: type_or_len & 0b10000000 != 0
       #   doc: Sub-Directory ID (F001h..FFFFh) ;see FNT+(ID AND FFFh)*8
-
+      

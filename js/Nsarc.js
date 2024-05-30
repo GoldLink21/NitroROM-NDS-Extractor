@@ -9,6 +9,10 @@
     root.Nsarc = factory(root.KaitaiStream);
   }
 }(typeof self !== 'undefined' ? self : this, function (KaitaiStream) {
+/**
+ * This format assumes that the fnt has no folders
+ */
+
 var Nsarc = (function() {
   function Nsarc(_io, _parent, _root) {
     this._io = _io;
@@ -35,11 +39,12 @@ var Nsarc = (function() {
       throw new KaitaiStream.ValidationNotEqualError([66, 84, 65, 70], this.btaf, this._io, "/seq/6");
     }
     this.fatLen = this._io.readU4le();
-    this.numEntries = this._io.readU4le();
+    this.numEntries = this._io.readU2le();
+    this.reserved = this._io.readU2le();
     this.fat = new NsarcFat(this._io, this, this._root, this.numEntries);
     this.btnf = this._io.readBytes(4);
     if (!((KaitaiStream.byteArrayCompare(this.btnf, [66, 84, 78, 70]) == 0))) {
-      throw new KaitaiStream.ValidationNotEqualError([66, 84, 78, 70], this.btnf, this._io, "/seq/10");
+      throw new KaitaiStream.ValidationNotEqualError([66, 84, 78, 70], this.btnf, this._io, "/seq/11");
     }
     this.btnfLen = this._io.readU4le();
     this._raw_fnt = this._io.readBytes((this.btnfLen - 8));
@@ -47,7 +52,7 @@ var Nsarc = (function() {
     this.fnt = new FntBase(_io__raw_fnt, this, this._root, this.numEntries);
     this.gmif = this._io.readBytes(4);
     if (!((KaitaiStream.byteArrayCompare(this.gmif, [71, 77, 73, 70]) == 0))) {
-      throw new KaitaiStream.ValidationNotEqualError([71, 77, 73, 70], this.gmif, this._io, "/seq/13");
+      throw new KaitaiStream.ValidationNotEqualError([71, 77, 73, 70], this.gmif, this._io, "/seq/14");
     }
     this.gmifLen = this._io.readU4le();
     this.img = this._io.readBytes((this.gmifLen - 8));
@@ -100,10 +105,11 @@ var Nsarc = (function() {
   })();
 
   var FatEntry = Nsarc.FatEntry = (function() {
-    function FatEntry(_io, _parent, _root) {
+    function FatEntry(_io, _parent, _root, i) {
       this._io = _io;
       this._parent = _parent;
       this._root = _root || this;
+      this.i = i;
 
       this._read();
     }
@@ -111,6 +117,17 @@ var Nsarc = (function() {
       this.fileStart = this._io.readU4le();
       this.fileEnd = this._io.readU4le();
     }
+    Object.defineProperty(FatEntry.prototype, 'file', {
+      get: function() {
+        if (this._m_file !== undefined)
+          return this._m_file;
+        var _pos = this._io.pos;
+        this._io.seek(this.fileStart);
+        this._m_file = this._io.readBytes((this.fileEnd - this.fileStart));
+        this._io.seek(_pos);
+        return this._m_file;
+      }
+    });
 
     return FatEntry;
   })();
@@ -159,7 +176,7 @@ var Nsarc = (function() {
     NsarcFat.prototype._read = function() {
       this.entries = [];
       for (var i = 0; i < this.numEntries; i++) {
-        this.entries.push(new FatEntry(this._io, this, this._root));
+        this.entries.push(new FatEntry(this._io, this, this._root, i));
       }
     }
 
